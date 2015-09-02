@@ -1,2 +1,2 @@
 # mywordpress
-a wordpress site dem
+a wordpress site demo
