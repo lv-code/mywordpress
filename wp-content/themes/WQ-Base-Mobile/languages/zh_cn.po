@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pbotheme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-24 21:18+0800\n"
+"PO-Revision-Date: 2012-03-24 21:20+0800\n"
+"Last-Translator: lanizz <lanjinming@163.com>\n"
+"Language-Team: cnmzi.com <lanjinming@163.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHRISTMAS ISLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:19
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:21
+msgid "Blog Archives"
+msgstr ""
+
+#: comments-ajax.php:26
+#: comments-ajax.php:39
+#: comments-ajax.php:42
+msgid "Invalid comment status."
+msgstr ""
+
+#: comments-ajax.php:36
+msgid "Sorry, comments are closed for this item."
+msgstr ""
+
+#: comments-ajax.php:45
+msgid "Password Protected"
+msgstr ""
+
+#: comments-ajax.php:72
+msgid "Sorry,需要登陆才能发票评论."
+msgstr ""
+
+#: comments-ajax.php:79
+msgid "Error: 必须填写用户名和邮箱."
+msgstr ""
+
+#: comments-ajax.php:81
+msgid "Error: 必须输入一个有效的邮箱地址."
+msgstr ""
+
+#: comments-ajax.php:85
+msgid "Error: 请填写评论内容."
+msgstr ""
+
+#: comments-ajax.php:99
+msgid "禁止重复评论."
+msgstr ""
+
+#: comments-ajax.php:108
+msgid "发表评论的速度太快了吧，淡定点.."
+msgstr ""
+
+#: comments-ajax.php:176
+#: views/comments.php:26
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:66
+#, php-format
+msgid "哟，<strong>%s</strong>，欢迎回来！"
+msgstr ""
+
+#: comments.php:72
+msgid "昵称"
+msgstr ""
+
+#: comments.php:73
+msgid "(必填)"
+msgstr ""
+
+#: comments.php:79
+msgid "邮箱"
+msgstr ""
+
+#: comments.php:80
+msgid "(用于显<a href=\"http://www.gravatar.com\" target=\"_blank\">Gravata</a>头像，必填)"
+msgstr ""
+
+#: comments.php:86
+msgid "Website"
+msgstr ""
+
+#: views/setting.php:189
+msgid "seo"
+msgstr "seo信息"
+
