@@ -43,7 +43,7 @@
 				<?php if($options['pbo_toinner']):?>
 				    	<?php if($options['pbo_topnavi']):?>			
             				<div class="pagenavi">
-            					<?php par_pagenavi();?>
+            					<?php par_pagenavi($query_string);?>
             				</div>
             			<?php endif;?>
 				<?php else:?>

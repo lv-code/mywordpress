@@ -25,7 +25,7 @@
 	}		
 	?>
 	</div>	
-	<h4 class="font_12 font_normal">Copyright &copy;2011-2012 <?php bloginfo('name');?></h4> 
+	<h4 class="font_12 font_normal">Copyright &copy;2011-2022 <?php bloginfo('name');?></h4> 
 </div> 
 </div>
 <?php wp_footer();?>
@@ -35,8 +35,8 @@
 <?php else:?>
 <div id="footer">
 		<div class="mbox">
-				<p>Copyright &copy;2011-2012 <?php bloginfo('name');?></p>
-				<p>Powered by <a href="http://wordpress.org/" target="_blank">WordPress</a>. Theme by <a href="http://www.waaqi.com/" target="_blank">WaaQi.com</a>.
+				<p>Copyright &copy;2011-2022 <?php bloginfo('name');?></p>
+				<p>Powered by <a href="http://wordpress.org/" target="_blank">WordPress</a>. Theme by <a href="http://121.42.195.181:8080/?page_id=166" target="_blank">关于主题</a>.
 				<?php global $options; echo $options['pbo_trackcode'];?> 	
 				</p>
 				<a class="gotop" href="javascript:;">回到顶部</a>				
