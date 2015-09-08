@@ -4628,8 +4628,12 @@ function wp_validate_boolean( $var ) {
 
 	return (bool) $var;
 }
+
 //add by z
-function mb_strimwidth($str ,$start , $width ,$trimmarker ){
-	$output = preg_replace('/^(?:[\x00-\x7F]|[\xC0-\xFF][\x80-\xBF]+){0,'.$start.'}((?:[\x00-\x7F]|[\xC0-\xFF][\x80-\xBF]+){0,'.$width.'}).*/s','\1',$str);
-	return $output.$trimmarker;
+if( !function_exists('mb_strimwidth') ) {
+	function mb_strimwidth($str ,$start , $width ,$trimmarker ){
+		$output = preg_replace('/^(?:[\x00-\x7F]|[\xC0-\xFF][\x80-\xBF]+){0,'.$start.'}((?:[\x00-\x7F]|[\xC0-\xFF][\x80-\xBF]+){0,'.$width.'}).*/s','\1',$str);
+		return $output.$trimmarker;
+	}
 }
+
