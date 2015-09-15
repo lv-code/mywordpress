@@ -17,7 +17,7 @@ foreach($postArr as $k=>$obj) {
 			'post_status' => 'publish',
 			'post_date' => date('Y-m-d H:i:s'),
 			);
-	if( $my_post['ID']>0 && $my_post!=1) {
+	if( $my_post['ID']>0 && $my_post['ID']!=1) {
 		//var_export($my_post);die;
 		// update the post into the database
 		$res = wp_update_post( $my_post );

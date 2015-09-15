@@ -1,5 +1,6 @@
 wp-content/backup-7d050/*
 wp-content/cache/*
-*.swp
+*.sw[po]
 tool/*.json
+tool/data/
 

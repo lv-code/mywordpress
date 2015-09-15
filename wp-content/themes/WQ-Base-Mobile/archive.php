@@ -54,7 +54,7 @@
 				<?php  while (have_posts()) : the_post(); ?>
 				<div class="cbx post">
 						<h2><a href="<?php the_permalink(); ?>" rel="bookmark"><?php the_title(); ?></a></h2>
-						<a href="<?php the_permalink(); ?>" class="readmore">Continue Read.. </a>
+						<a href="<?php the_permalink(); ?>" class="readmore">阅读全文</a>
 						<div class="postmeta">
 								<ul>
 										<li class="meta-date"><?php the_time('Y年n月j日') ?></li>

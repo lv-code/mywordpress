@@ -40,14 +40,25 @@
                                 <?php endif; ?>
 								<div class="sharebar">
 										<h4 class="singleshare">分享该文章：</h4>
-										<!-- Baidu Button BEGIN -->
-										<div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare"> <a class="bds_qzone"></a> <a class="bds_tsina"></a> <a class="bds_tqq"></a> <a class="bds_renren"></a> <a class="bds_kaixin001"></a> <a class="bds_tqf"></a> <a class="bds_hi"></a> <a class="bds_douban"></a> <a class="bds_msn"></a> <a class="bds_qq"></a> <a class="bds_tieba"></a> <a class="bds_ty"></a> <a class="shareCount"></a> </div>
-										<script type="text/javascript" id="bdshare_js" data="type=tools" ></script> 
-										<script type="text/javascript" id="bdshell_js"></script> 
-										<script type="text/javascript">
-											document.getElementById("bdshell_js").src = "http://share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
-										</script> 
-										<!-- Baidu Button END --> 
+										<!-- JiaThis Button BEGIN -->
+										<div class="jiathis_style_24x24">
+										<a class="jiathis_button_weixin"></a>
+										<a class="jiathis_button_qzone"></a>
+										<a class="jiathis_button_tsina"></a>
+										<a class="jiathis_button_douban"></a>
+										<a class="jiathis_button_tieba"></a>
+										<a class="jiathis_button_huaban"></a>
+										<a class="jiathis_button_google"></a>
+										<a class="jiathis_button_ujian"></a>
+										<a class="jiathis_button_fav"></a>
+										<a class="jiathis_button_copy"></a>
+										<a class="jiathis_button_email"></a>
+										<a class="jiathis_button_print"></a>
+										<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+										<a class="jiathis_counter_style"></a>
+										</div>
+										<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+										<!-- JiaThis Button END --> 
 								</div>
 								<div class="clear"></div>
 						</div>

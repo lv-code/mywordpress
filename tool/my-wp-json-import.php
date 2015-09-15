@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 set_time_limit(0);
 include('../wp-load.php');
 
-$jsonFile = '/tmp/foodwang-foodsafe.json';
+$jsonFile = './data/lz13-1.json';
 //$jsonFile = './data/jingdianxiaohua-1-output.json';
 //$jsonFile = './data/1.json';
 //$jsonFile = './data/jingdianxiaohua-1-output.json';
@@ -22,8 +22,10 @@ foreach($arrArt as $k=>$arr){
 			'post_date'     => $dateRandom,
 			//'post_date_gmt'     => $dateRandom,
 			'post_status'   => 'draft',
-			'post_author'   => 2 ,//健身达人
-			'post_category' => array(13,14),
+			//'post_author'   => 2 ,//健身达人
+			'post_author'   => 3 ,//小志 励志
+			'post_category' => array(9),
+			//'post_category' => array(13,14), //健康
 			//'post_category' => array(5),
 			'tags_input' => $arr['art_keyw'][0],
 			'post_excerpt' => $arr['art_desc'][0],
