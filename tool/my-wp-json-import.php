@@ -30,6 +30,7 @@ foreach($arrArt as $k=>$arr){
 			'tags_input' => $arr['art_keyw'][0],
 			'post_excerpt' => $arr['art_desc'][0],
 			);
+	if(mb_strlen($my_post['tags_input'])>8) unset($my_post['tags_input']);
 	if(empty($my_post['post_title']) || empty($my_post['post_content'])) continue;
 	//去重
 	$one = ifHaveOne($my_post['post_title']);
@@ -37,6 +38,9 @@ foreach($arrArt as $k=>$arr){
 		//var_dump($one, $my_post);die;
 		// Insert the post into the database
 		$res = wp_insert_post( $my_post, true );
+		if(0<(int)$res){
+			update_post_meta($res, 'keywords', $arr['art_keyw'][0] );
+		}
 		var_dump($res);die;
 	}
 }

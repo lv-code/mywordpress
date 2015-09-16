@@ -6,7 +6,7 @@
 	<title><?php theme_title();?></title> 
 	<meta name="viewport" content="width=device-width, initial-scale=1"> 
 	<link rel="stylesheet" href="<?php bloginfo('template_url');?>/jquery.mobile-1.2.0/jquery.mobile-1.2.0.min.css" />
-	<link rel="stylesheet" href="<?php bloginfo('template_url');?>/style/mobile.css" />
+	<link rel="stylesheet" href="<?php bloginfo('template_url');?>/style/mobile.min.css" />
 	<script src="<?php bloginfo('template_url');?>/jquery.mobile-1.2.0/jquery-1.8.2.min.js"></script>
 	<script src="<?php bloginfo('template_url');?>/jquery.mobile-1.2.0/jquery.mobile-1.2.0.min.js"></script>
 	<script>
@@ -71,14 +71,14 @@
 <meta content="<?php echo $seo['description'];?>" name="description">
 <meta content="<?php echo $seo['keywords'];?>" name="keywords">
 <link href="<?php bloginfo('stylesheet_url');?>" media="screen" type="text/css" rel="stylesheet" />
-<link href="<?php bloginfo('template_url');?>/style/highlight.css" media="screen" type="text/css" rel="stylesheet" />
+<link href="<?php bloginfo('template_url');?>/style/highlight.min.css" media="screen" type="text/css" rel="stylesheet" />
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0 - 所有文章" href="<?php bloginfo('rss2_url'); ?>" />
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0 - 所有评论" href="<?php bloginfo('comments_rss2_url'); ?>" />
 <title><?php theme_title();?></title>
 <?php wp_head();?>
 <script src="<?php bloginfo('template_url');?>/script/jquery-1.8.3.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/comments-ajax.js"></script>
+<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/comments-ajax.min.js"></script>
 </head>
 <body>
 <?php flush(); global $options; $options=get_option('pb_options');?>

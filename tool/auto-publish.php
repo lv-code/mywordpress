@@ -20,7 +20,9 @@ foreach($postArr as $k=>$obj) {
 	if( $my_post['ID']>0 && $my_post['ID']!=1) {
 		//var_export($my_post);die;
 		// update the post into the database
-		$res = wp_update_post( $my_post );
+		//var_dump($my_post);continue;
+		//$res = wp_update_post( $my_post ); //in the wp_update_post call wp_insert_post
+		$res = wp_publish_post($obj->ID);
 		//$res = wp_insert_post( $my_post );
 		var_dump($res);
 	}

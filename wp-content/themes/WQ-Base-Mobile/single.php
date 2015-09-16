@@ -65,7 +65,6 @@
 										<a class="jiathis_button_tieba"></a>
 										<a class="jiathis_button_huaban"></a>
 										<a class="jiathis_button_google"></a>
-										<a class="jiathis_button_ujian"></a>
 										<a class="jiathis_button_fav"></a>
 										<a class="jiathis_button_copy"></a>
 										<a class="jiathis_button_email"></a>
