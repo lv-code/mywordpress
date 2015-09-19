@@ -17,7 +17,8 @@
 /** WordPress数据库的名称 */
 define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', '/vagrant/wordpress/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'wp_story');
+//define('DB_NAME', 'wordpress');
 
 /** MySQL数据库用户名 */
 define('DB_USER', 'root');
