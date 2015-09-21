@@ -6,6 +6,7 @@ include('../wp-load.php');
 ?data=chengyu.t086.com-gushi&cate=6
 ?data=07938.com-mingrendushu&cate=296
 http://121.42.195.181:8080/tool/my-wp-json-import.php?data=07938.com-kexuejiagushi&cate=301
+http://www.gushihuayuan.com/tool/my-wp-json-import.php?data=051jk.com-meishigushi&cate=2
  --------------------------------------------- */
 //ToDo
 $data = $_GET['data'];
