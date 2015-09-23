@@ -1359,9 +1359,43 @@ function tie_og_data() {
 	
 $description = htmlspecialchars(strip_tags(strip_shortcodes($post->post_content)));
 ?>
+
+<?php
+if (is_home() || is_page()) {
+    // 将以下引号中的内容改成你的主页description
+    $description = "这里有各种故事";
+    // 将以下引号中的内容改成你的主页keywords
+    $keywords = "故事,名人故事,古文典籍,寓言故事,成语故事,美食故事,";
+} elseif (is_single()) {
+    $description1 = get_post_meta($post->ID, "description", true);
+    $description2 = mb_strimwidth(strip_tags(apply_filters('the_content', $post->post_content)), 0, 200, "…");
+    // 填写自定义字段description时显示自定义字段的内容，否则使用文章内容前200字作为描述
+    $description = $description1 ? $description1 : $description2;
+    if($description == '') {
+        $description = preg_replace('/\s/','',tie_content_limit($description , 100 ));
+    }
+    // 填写自定义字段keywords时显示自定义字段的内容，否则使用文章tags作为关键词
+    $keywords = get_post_meta($post->ID, "keywords", true);
+    if($keywords == '') {
+        $tags = wp_get_post_tags($post->ID);    
+        foreach ($tags as $tag ) {        
+            $keywords = $keywords . $tag->name . ", ";    
+        }
+        $keywords = rtrim($keywords, ', ');
+    }
+} elseif (is_category()) {
+    $description = category_description();
+    $keywords = single_cat_title('', false);
+} elseif (is_tag()){
+    $description = tag_description();
+    $keywords = single_tag_title('', false);
+}
+$description = trim(strip_tags($description));
+$keywords = trim(strip_tags($keywords));
+?>
 <meta property="og:title" content="<?php the_title(); ?>"/>
 <meta property="og:type" content="article"/>
-<meta property="og:description" content="<?php echo tie_content_limit($description , 100 ); ?>"/>
+<meta property="og:description" content="<?php echo str_replace(' ','',tie_content_limit($description , 100 )); ?>"/>
 <meta property="og:url" content="<?php the_permalink(); ?>"/>
 <meta property="og:site_name" content="<?php echo get_bloginfo( 'name' ) ?>"/>
 <?php
