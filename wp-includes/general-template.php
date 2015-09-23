@@ -751,7 +751,7 @@ function get_bloginfo( $show = '', $filter = 'raw' ) {
  * @param string $seplocation Optional. Direction to display title, 'right'.
  * @return string|null String on retrieve, null when displaying.
  */
-function wp_title($sep = '&raquo;', $display = true, $seplocation = '') {
+function wp_title($sep = '&macr;', $display = true, $seplocation = '') {
 	global $wp_locale;
 
 	$m = get_query_var('m');
@@ -847,9 +847,9 @@ function wp_title($sep = '&raquo;', $display = true, $seplocation = '') {
  	// Determines position of the separator and direction of the breadcrumb
 	if ( 'right' == $seplocation ) { // sep on right, so reverse the order
 		$title_array = array_reverse( $title_array );
-		$title = implode( " $sep ", $title_array ) . $prefix;
+		$title = implode( "$sep", $title_array ) . $prefix;
 	} else {
-		$title = $prefix . implode( " $sep ", $title_array );
+		$title = $prefix . implode( "$sep", $title_array );
 	}
 
 	/**
