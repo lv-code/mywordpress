@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 要备份的数据库名，多个数据库用空格分开
-databases=(wordpress wp_story wp_new) 
+databases=(wordpress wp_story wp_new wp_upersmile) 
 
 # 备份文件要保存的目录
 basepath='/root/backup/mysql/'

@@ -1,0 +1,350 @@
+﻿/*
+Theme Name: Sparkler - Responsive Magazine Theme
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+html { direction: ltr; }
+
+ol, ul {
+	padding-right: 0
+}
+
+caption,
+th,
+td {
+	text-align: right;
+}
+
+.sf-menu { float: right; }
+
+.sf-menu > li {
+	float: right;
+}
+
+.sf-menu li {
+	padding: 8px 0 8px 20px;
+}
+
+.navigation-main { float: right; width: 100%; }
+
+.sf-menu ul { left: inherit; right: 0; }
+
+.sf-menu ul ul {
+	right: 103%;
+}
+
+.sf-arrows .sf-with-ul:after {
+	right: inherit;
+	left: 6px;
+}
+
+.sf-menu ul:before {
+	left: inherit;
+	right: 30px;
+}
+
+.sf-arrows .sf-with-ul::after  {
+	left: -10px;
+}
+
+.sf-arrows ul .sf-with-ul:after {
+	transform:rotate(90deg);
+	-ms-transform:rotate(90deg); /* IE 9 */
+	-webkit-transform:rotate(90deg); /* Opera, Chrome, and Safari */
+}
+
+.search-block { left: 0; right: auto; }
+
+.widget-slider, .flex-carousel, .flex-small-slider, .flex-big-slider { direction: ltr; overflow: hidden; }
+.flexslider .slides > li { direction:rtl; }
+
+.flexslider .slides { direction:rtl; }
+
+.searchform .btn .fa-angle-double-right {
+	transform:rotate(180deg);
+	-ms-transform:rotate(180deg); /* IE 9 */
+	-webkit-transform:rotate(180deg); /* Opera, Chrome, and Safari */
+}
+
+.entry-logo {
+	text-align: right;
+}
+
+.widget-title > i {
+	left: 20px;
+	right: auto;
+}
+
+.widget-title .sub-title {
+	right: 20px;
+	left: auto;
+}
+
+.inner-search { left: 0; right: auto; }
+
+.entry-social-list {
+	padding-right: 0
+}
+
+.widget_categories .entry-title::before,
+.widget_categories .entry-title::after,
+.widget_tag_cloud .entry-title::before,
+.widget_tag_cloud .entry-title::after,
+.widget_calendar .entry-title::before,
+.widget_calendar .entry-title::after,
+.widget_search .entry-title::before,
+.widget_search .entry-title::after,
+.widget_text .entry-title::before,
+.widget_text .entry-title::after,
+.widget_meta .entry-title::before,
+.widget_meta .entry-title::after,
+.widget_archive .entry-title::before,
+.widget_archive .entry-title::after,
+.widget_nav_menu .entry-title::before,
+.widget_nav_menu .entry-title::after,
+.widget_recent_entries .entry-title::before,
+.widget_recent_entries .entry-title::after,
+.widget_recent_comments .entry-title::before,
+.widget_recent_comments .entry-title::after,
+.widget_apsc_widget .entry-title::before,
+.widget_apsc_widget .entry-title::after {
+	left: 15px;
+	right: auto;
+}
+
+.bottom-meta.clearfix li,
+.header-meta.clearfix li,
+#sidebar .bottom-meta.clearfix li,
+.ct-sidebar .bottom-meta.clearfix li {
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.bottom-content, .header-content {
+	text-align: right;
+}
+
+.entry-post .entry-content {
+	text-align: right;
+}
+
+.widget.ct-related-thumbs-widget.clearfix .sub-title {
+	text-align: left;
+	left: 20px;
+	right: auto;
+}
+
+.widget.ct-related-thumbs-widget.clearfix h3.entry-title {
+	text-align: left;
+}
+.widget.ct-related-thumbs-widget.clearfix .bottom-content {
+	text-align: left;
+}
+
+.widget.ct-related-thumbs-widget.clearfix .bottom-content .bottom-meta.clearfix li {
+	margin-right: 10px;
+	margin-left: 0;
+}
+
+.entry-header .entry-header-meta > .post-format,
+.comments-title > i {
+	left: 20px;
+	right: auto;
+}
+
+.entry-header .entry-header-meta > .sub-title,
+.comments-title > .sub-title {
+	right: 20px;
+	left: auto;
+}
+
+h3#reply-title::after {
+	left: 30px;
+	right: auto;
+}
+
+.comments-title > h3 {
+	padding-right: 0 !important
+}
+
+.widget.ct_recent_posts_bycategories_widget.clearfix ul li::before {
+	right: -15px;
+	left: auto;
+}
+
+.logged-in-as, .comment-notes {
+	right: 30px;
+	left: auto;
+}
+
+h3#reply-title {
+	margin-left: 0;
+	margin-right: 0
+}
+
+.entry-post .entry-content h3.entry-title {
+	direction: ltr
+}
+
+.add-author-info li {
+	float: right;
+}
+
+#mainfooter .ct-totop i {
+	margin-right: 5px;
+	margin-left: 0
+}
+
+.widget .tagcloud a[class|="tag-link"],
+.tagcloud a[class|="tag-link"] {
+	float: right;
+}
+
+.post-navigation .meta-nav-prev {
+	float: right;
+}
+
+.post-navigation .meta-nav-next {
+	float: left;
+	text-align: left;
+}
+
+.post-navigation .meta-nav-next:before {
+	float: left;
+	margin-right: 5px;
+	margin-left: 0;
+	transform:rotate(180deg);
+	-ms-transform:rotate(180deg); /* IE 9 */
+	-webkit-transform:rotate(180deg); /* Opera, Chrome, and Safari */
+}
+
+.post-navigation .meta-nav-prev:before {
+	transform:rotate(180deg);
+	-ms-transform:rotate(180deg); /* IE 9 */
+	-webkit-transform:rotate(180deg); /* Opera, Chrome, and Safari */
+	float: right;
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+.entry-content .entry-date > .date-line {
+	float: right;
+}
+
+.entry-content .entry-date > a {
+	float: right;
+	padding: 0 15px 0 0
+}
+
+.widget ul, .widget ol {
+	padding-right: 0;
+	margin-left: 0
+}
+
+.widget li {
+	direction: ltr;
+	text-align: right;
+}
+
+.widget.ct-categories-widget.clearfix .ct-category-list li a > .category-count {
+	left: 0;
+}
+
+[class^="ct-flickr-"],
+[class^="ct-instagram-"] {
+	margin: 20px 0 0 -10px;
+}
+
+[class^="ct-flickr-"] li,
+[class^="ct-instagram-"] li {
+	margin-right: 0;
+	margin-left: 7px;
+}
+
+.ct-hidden-text {
+	text-align: right;
+	left: auto;
+	right: 60px;
+}
+
+ul.post-meta li i {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+
+#sidebar h3.entry-title,
+h3#reply-title,
+.found-related > h3,
+.comments-title > h3,
+.about-author h3.entry-title,
+#mainfooter h3.entry-title {
+	padding-left: 0;
+	padding-right: 15px;
+}
+
+.edit-link > i {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.bottom-meta.clearfix {
+	padding-right: 0
+}
+
+.entry-tags.clearfix > a {
+	float: right;
+	direction: ltr;
+}
+
+.share-wrapper { text-align: right; }
+.entry-share-single > a { float: right; }
+.entry-share-single > .share-text { float: right; }
+
+.comment-author.vcard.clearfix,
+a.comment-time { float: right; }
+
+.entry-reply.clearfix { text-align: left; }
+
+.comment-author.vcard.clearfix {
+	margin: 0 0 15px 15px;
+}
+
+.logged-in-as {
+    direction: ltr;
+    text-align: right;
+}
+
+.entry-comments-form label, .page-content .comment-form label {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0
+}
+
+.widget-ads {
+    float: left;
+}
+
+.single-content,
+.ct-share-author.clearfix {
+	direction: ltr;
+	float: left;
+}
+
+.form-submit {
+    margin-right: 75px;
+    margin-left: 0
+}
+
+div.bbp-submit-wrapper { float: right; }

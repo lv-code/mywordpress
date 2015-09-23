@@ -2018,7 +2018,7 @@ add_filter('wp_video_shortcode', 'tie_video_width_shortcode');
 if ( ! function_exists( '_wp_render_title_tag' ) ) :
     function tie_slug_render_title() {
 ?>
-<title><?php wp_title( '|', true, 'right' ); ?></title>
+<title><?php wp_title( '|', true, 'right' ).bloginfo('name'); ?></title>
 <?php
     }
     add_action( 'wp_head', 'tie_slug_render_title' );

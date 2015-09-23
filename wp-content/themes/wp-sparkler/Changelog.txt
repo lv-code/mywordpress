@@ -1,0 +1,30 @@
+-----------------------------------------------------------------------
+Sparkler - Responsive Wordpress Magazine Theme v 1.0 - Changelog
+-----------------------------------------------------------------------
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+Please note:
+
+To update the Theme just replace changed files listed in this file.
+Recommend to make a backup of the Theme files before you overwrite them with the new ones.
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+
+Version 1.0 2015-09-08
+--------------------------
+- Release
+
+
+
+
+ZERGE <zerge.com@gmail.com>
+http://color-theme.com/
+http://themeforest.net/user/ZERGE

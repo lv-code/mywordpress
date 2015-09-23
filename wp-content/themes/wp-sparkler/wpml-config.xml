@@ -1,0 +1,11 @@
+<wpml-config>
+	<admin-texts>
+		<key name="ct_options">
+			<key name="breaknews_title" />
+			<key name="logo_text" />
+			<key name="logo_slogan" />
+			<key name="readmore_text" />
+			<key name="copyright_text" />
+		 </key>
+	</admin-texts>
+</wpml-config>

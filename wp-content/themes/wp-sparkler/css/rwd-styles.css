@@ -1,0 +1,214 @@
+/*
+   ------------------------------------------------------
+					Responsive Styles
+   ------------------------------------------------------
+*/
+ @media (min-width: 1200px) and (max-width: 1600px) {
+
+}
+
+@media (max-width: 1200px) {
+	.form-submit { margin-left: 0; }
+	.comment-form-comment textarea { width: 100% }
+}
+
+@media (max-width: 992px) {
+
+	#sidebar { margin-top: 60px; }
+	.entry-logo { padding: 45px 0 !important; }
+	#entry-ads,
+	.ticker-block.clearfix { display: none !important; }
+	#entry-social { float: left; }
+	.widget.ct_2columns_widget.clearfix .widget-two-columns-vertical.ct-first-column {
+		margin-bottom: 60px;
+	}
+	.ct-sidebar .widget.ct_1column_widget.clearfix .widget-one-column-horizontal li:first-child {
+		border-top: none;
+		padding-top: 0
+	}
+}
+
+@media (max-width: 979px) {
+}
+
+
+@media (max-width: 800px) {
+
+}
+
+@media (max-width: 767px) {
+	.navigation { margin: 0 !important; display: block; width: 100%; }
+	.navigation select {
+		display: block;
+	}
+
+	.navigation > select {
+		margin-top: 0;
+		margin-bottom: 0;
+		min-height: 40px;
+		z-index: 99999;
+	}
+
+	.navigation-block { margin-bottom: 30px; }
+
+	#site-nav { margin-bottom: 0; display: none !important; }
+
+	.comment-notes { display: none; }
+	h3#reply-title { padding: 30px 15px; }
+	h3#reply-title::after { top: -5px; }
+
+	.ct-share-author { max-width: none; }
+	.share-wrapper { text-align: center; }
+	.entry-share-single { display: inline-block; padding-bottom: 5px; }
+	#mainfooter #copyright {
+		padding: 30px 120px 30px 30px
+	}
+
+	.widget-ads { display: none; }
+
+	.ct_recent_posts_bycategories_widget ul {
+		width: 100%;
+		border-left: none;
+		border-top: 1px solid #e5e8e9;
+		padding-top: 15px;
+	}
+}
+
+@media (max-width: 720px) {
+}
+
+@media  (max-width: 640px) {
+	.ct-photo-news li {
+		width: 33.333%
+	}
+	.ct-postformats-widget .ct-post-format .content-box { display: none; }
+	.comment-form .comment-form-author > input,
+	.comment-form .comment-form-email > input,
+	.comment-form .comment-form-url > input { width: 65%; }
+}
+
+@media  (max-width: 600px) {
+
+}
+
+@media  (max-width: 570px) {
+}
+
+@media  (max-width: 568px) {
+}
+
+@media  (max-width: 540px) {
+}
+
+@media  (max-width: 533px) {
+}
+
+@media  (max-width: 500px) {
+}
+
+@media  (max-width: 480px) {
+	#ct-topbar { display: none; }
+	.hotnews-thumb { display: none; }
+	#mainfooter #copyright { padding: 30px; text-align: center; }
+	#mainfooter a.ct-totop { display: none !important; }
+	.comment-list ul.children { padding-left: 0 }
+	.header-content .entry-date { margin-bottom: 5px; }
+	.single-title > h1.entry-title {
+		font-size: 28px;
+		line-height: 34px;
+	}
+
+	.ct-related-thumbs-widget { display: none; }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+}
+
+@media  (max-width: 400px) {
+
+}
+
+@media  (max-width: 360px) {
+	/* BlackBery Curve */
+	.comment-content.comment.clearfix { padding: 0 }
+	.comment-list ul.children { padding-left: 0 }
+	#copyright { display: none !important; }
+	.ct-totop { display: none !important; }
+	.ct-breadcrumbs { display: none; }
+}
+
+@media (max-width: 320px) {
+	#wp-calendar td, #wp-calendar tr th { padding: 2px; }
+}
+
+@media (max-width: 240px) {
+	.ct-share-author { display: none; }
+	.single-title > h1.entry-title {
+		font-size: 18px;
+		line-height: 26px;
+	}
+	input[type="reset"], input[type="submit"] {
+		padding: 7px 10px;
+		font-size: 8px;
+	}
+
+	.ct-photo-news li {
+		width: 50%
+	}
+}
+
+@media (max-width: 220px) {
+}
+
+@media (max-width: 176px) {
+}
+
+@media (min-width: 176px) and (max-width: 639px) {
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+}
+
+@media (min-width: 1024px) and (max-width: 1439px) {
+}
+
+@media (min-width: 1440px) and (max-width: 1920px) {
+}
+
+@media (max-width: 1169px) {
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+	#wp-calendar td, #wp-calendar tr th { padding: 7px; }
+}
+
+
+
+@media  (max-width: 700px) {
+}
+
+@media  (max-width: 683px) {
+	/* Samsung Galaxy Tab (landscape) */
+
+}
+
+@media (max-width: 639px) {
+}
+
+
+
+/* Portrait tablet to landscape and desktop*/
+@media (min-width: 980px) and (max-width: 1200px) {
+}
+
+@media (min-width: 795px) and (max-width: 805px) {
+}
+
+@media (min-width: 710px) and (max-width: 720px)  {
+}
+
+@media (min-width: 768px) and (max-width: 1024px)  {
+}

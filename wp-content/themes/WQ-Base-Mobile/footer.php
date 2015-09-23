@@ -37,6 +37,7 @@
 		<div class="mbox">
 				<p>Copyright &copy;2011-2022 <?php bloginfo('name');?></p>
 				<p>Powered by <a href="http://wordpress.org/" target="_blank">WordPress</a>. Theme by <a href="http://121.42.195.181:8080/?page_id=166" target="_blank">关于主题</a>.
+				<p><a href="http://www.miitbeian.gov.cn/" target="_blank">京ICP备15049953号</a></p>
 				<?php global $options; echo $options['pbo_trackcode'];?> 	
 				</p>
 				<a class="gotop" href="javascript:;">回到顶部</a>				
