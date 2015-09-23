@@ -2,7 +2,7 @@
 set_time_limit(0);
 include(__DIR__.'/../wp-load.php');
 
-$n = rand(6,12);
+$n = rand(1,3);
 $args = array('post_status'=>'draft','numberposts'=>$n);
 $postArr = get_posts($args);
 //echo '<pre>';var_dump($postArr);die;

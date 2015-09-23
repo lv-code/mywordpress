@@ -14,11 +14,12 @@
  */
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
+
 /** WordPress数据库的名称 */
 if(isset($_SERVER['HTTP_HOST']) ){
-	if(strpos($_SERVER['HTTP_HOST'],'.dev.uboxol.com') !== false) {
-		define('ENVIRONMENT', 'development');
-	}else if(strpos($_SERVER['HTTP_HOST'],'verify.uboxol.com') !== false){
+	if(strpos($_SERVER['HTTP_HOST'],'upersmile.com') !== false) {
+		define('ENVIRONMENT', 'upersmile');
+	}else if(strpos($_SERVER['HTTP_HOST'],'lv-code.com') !== false){
 		define('ENVIRONMENT', 'verify');
 	}else{
 		define('ENVIRONMENT', 'production');
@@ -27,7 +28,7 @@ if(isset($_SERVER['HTTP_HOST']) ){
 
 define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', '/vagrant/wordpress/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'wp_upersmile');
+define('DB_NAME', 'wp_'.ENVIRONMENT);
 //define('DB_NAME', 'wordpress');
 
 /** MySQL数据库用户名 */

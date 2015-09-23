@@ -1,10 +1,10 @@
 <?php
 /** Plugin Author **/
-$lc_author = 'liucheng.name';
-$lc_authorurl = 'http://liucheng.name/';
+$lc_author = 'upersmile.com';
+$lc_authorurl = 'http://upersmile.com/';
 $lc_plugin = 'Baidu Sitemap Generator';
 $lc_pluginversion = '1.6.5';
-$lc_pluginurl = 'http://liucheng.name/2113/';
+$lc_pluginurl = 'http://upersmile.com/';
 
 /**  End **/
 
