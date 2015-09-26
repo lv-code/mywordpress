@@ -1,0 +1,7360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Steam\n"
+"POT-Creation-Date: 2014-07-08 16:10-0500\n"
+"PO-Revision-Date: 2014-07-08 16:10-0500\n"
+"Last-Translator: Brian McCulloh <brianmcculloh@gmail.com>\n"
+"Language-Team: IndustrialThemes <support@industrialthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:16 ../functions/theme.php:1029
+msgid " comments"
+msgstr ""
+
+#: ../comments.php:18
+msgid "Be the first to comment!"
+msgstr ""
+
+#: ../comments.php:33
+msgid "Leave a reply &raquo;"
+msgstr ""
+
+#: ../comments.php:36
+msgid "&laquo;"
+msgstr ""
+
+#: ../comments.php:37
+msgid "&raquo;"
+msgstr ""
+
+#: ../comments.php:62
+msgid "You must"
+msgstr ""
+
+#: ../comments.php:62
+msgid "log in"
+msgstr ""
+
+#: ../comments.php:62
+msgid "to post a comment"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Additional Comments (optional)"
+msgstr ""
+
+#: ../comments.php:72 ../functions/admin/core.php:561
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:75 ../functions/admin/option-generator.php:825
+#: ../functions/admin/option-generator.php:923
+#: ../functions/admin/option-generator.php:1048
+#: ../functions/admin/option-generator.php:1158
+#: ../functions/admin/option-generator.php:1245
+#: ../functions/admin/option-generator.php:1348
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:76
+msgid "E-mail"
+msgstr ""
+
+#: ../comments.php:77
+msgid "Website (optional)"
+msgstr ""
+
+#: ../comments.php:79
+msgid "Leave a Response"
+msgstr ""
+
+#: ../comments.php:80
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:88
+msgid "Post"
+msgstr ""
+
+#: ../footer.php:46 ../functions/theme.php:45
+msgid "Footer Column 1"
+msgstr ""
+
+#: ../footer.php:47 ../footer.php:66 ../footer.php:85 ../footer.php:104
+#: ../footer.php:123 ../footer.php:142
+msgid ""
+"This is a widget panel. To remove this text, login to your WordPress admin "
+"panel and go to Appearance >> Widgets, and drag &amp; drop a widget into "
+"this widget panel. If you want to leave this area blank, simply put a blank "
+"Text widget into this widget panel which will overwrite this text."
+msgstr ""
+
+#: ../footer.php:65 ../functions/theme.php:49
+msgid "Footer Column 2"
+msgstr ""
+
+#: ../footer.php:84 ../functions/theme.php:53
+msgid "Footer Column 3"
+msgstr ""
+
+#: ../footer.php:103 ../functions/theme.php:57
+msgid "Footer Column 4"
+msgstr ""
+
+#: ../footer.php:122 ../functions/theme.php:61
+msgid "Footer Column 5"
+msgstr ""
+
+#: ../footer.php:141 ../functions/theme.php:65
+msgid "Footer Column 6"
+msgstr ""
+
+#: ../footer.php:180
+msgid "Copyright"
+msgstr ""
+
+#: ../footer.php:180
+msgid "All Rights Reserved."
+msgstr ""
+
+#: ../footer.php:194
+msgid "Fonts by"
+msgstr ""
+
+#: ../footer.php:194 ../inc/demo-panel.php:19
+msgid "Google Fonts"
+msgstr ""
+
+#: ../footer.php:194
+msgid "Icons by"
+msgstr ""
+
+#: ../footer.php:194
+msgid "Fontello"
+msgstr ""
+
+#: ../footer.php:194
+msgid "Full Credits"
+msgstr ""
+
+#: ../footer.php:194
+msgid "here &raquo;"
+msgstr ""
+
+#: ../functions/ajax.php:151 ../functions/theme.php:657
+msgid "VIEW ALL"
+msgstr ""
+
+#: ../functions/ajax.php:250 ../functions/theme.php:984
+msgid " like"
+msgstr ""
+
+#: ../functions/ajax.php:252 ../functions/theme.php:983
+msgid " likes"
+msgstr ""
+
+#: ../functions/core.php:29
+msgid "Clear"
+msgstr ""
+
+#: ../functions/core.php:30 ../functions/shortcodes/buttons.php:63
+#: ../functions/shortcodes/labels.php:29 ../functions/shortcodes/labels.php:78
+#: ../functions/shortcodes/modal.php:77
+#: ../functions/shortcodes/progress.php:31
+msgid "Default"
+msgstr ""
+
+#: ../functions/core.php:31
+msgid "Select Color"
+msgstr ""
+
+#: ../functions/core.php:260
+msgid "Past Week"
+msgstr ""
+
+#: ../functions/core.php:263
+msgid "Past Month"
+msgstr ""
+
+#: ../functions/core.php:266
+msgid "Past 2 Months"
+msgstr ""
+
+#: ../functions/core.php:269
+msgid "Past 3 Months"
+msgstr ""
+
+#: ../functions/core.php:272
+msgid "Past 6 Months"
+msgstr ""
+
+#: ../functions/core.php:275
+msgid "Past Year"
+msgstr ""
+
+#: ../functions/core.php:278 ../functions/admin/option-generator.php:1617
+#: ../functions/widgets/widget-top-reviewed.php:170
+#: ../functions/widgets/widget-top-ten.php:214
+#: ../functions/widgets/widget-trending.php:149
+msgid "All Time"
+msgstr ""
+
+#: ../functions/core.php:540
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions/core.php:546
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../functions/core.php:546
+msgid "Section Menu"
+msgstr ""
+
+#: ../functions/core.php:546 ../functions/admin/option-generator.php:1641
+msgid "Sub Menu"
+msgstr ""
+
+#: ../functions/core.php:749
+msgid "Social Profiles"
+msgstr ""
+
+#: ../functions/core.php:753 ../functions/admin/core.php:653
+#: ../functions/widgets/widget-social-tabs.php:43
+#: ../functions/widgets/widget-social-tabs.php:61
+msgid "Twitter"
+msgstr ""
+
+#: ../functions/core.php:757
+msgid "Enter your Twitter username."
+msgstr ""
+
+#: ../functions/core.php:761 ../functions/admin/core.php:648
+#: ../functions/widgets/widget-social-tabs.php:51
+#: ../functions/widgets/widget-social-tabs.php:63
+msgid "Facebook"
+msgstr ""
+
+#: ../functions/core.php:765
+msgid "Enter your Facebook username/alias."
+msgstr ""
+
+#: ../functions/core.php:769
+msgid "Google Plus"
+msgstr ""
+
+#: ../functions/core.php:773
+msgid "Enter your Google Plus account ID."
+msgstr ""
+
+#: ../functions/core.php:777 ../functions/admin/core.php:658
+msgid "LinkedIn"
+msgstr ""
+
+#: ../functions/core.php:781
+msgid "Enter your LinkedIn username."
+msgstr ""
+
+#: ../functions/core.php:785 ../functions/admin/core.php:649
+#: ../functions/widgets/widget-social-tabs.php:47
+#: ../functions/widgets/widget-social-tabs.php:62
+msgid "Pinterest"
+msgstr ""
+
+#: ../functions/core.php:789
+msgid "Enter your Pinterest username."
+msgstr ""
+
+#: ../functions/core.php:793 ../functions/admin/core.php:651
+#: ../functions/widgets/widget-social-tabs.php:55
+#: ../functions/widgets/widget-social-tabs.php:65
+msgid "Flickr"
+msgstr ""
+
+#: ../functions/core.php:797
+msgid "Enter your Flickr username."
+msgstr ""
+
+#: ../functions/core.php:801 ../functions/shortcodes/video.php:22
+msgid "YouTube"
+msgstr ""
+
+#: ../functions/core.php:805
+msgid "Enter your YouTube username."
+msgstr ""
+
+#: ../functions/core.php:809 ../functions/admin/core.php:650
+msgid "Instagram"
+msgstr ""
+
+#: ../functions/core.php:813
+msgid "Enter your Instagram username."
+msgstr ""
+
+#: ../functions/core.php:817 ../functions/admin/core.php:655
+#: ../functions/shortcodes/video.php:160
+msgid "Vimeo"
+msgstr ""
+
+#: ../functions/core.php:821
+msgid "Enter your Vimeo username."
+msgstr ""
+
+#: ../functions/core.php:825 ../functions/admin/core.php:652
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../functions/core.php:829
+msgid "Enter your StumbleUpon username."
+msgstr ""
+
+#: ../functions/core.php:960
+msgid "Enable SimpleXML and file_get_contents"
+msgstr ""
+
+#: ../functions/core.php:961
+msgid "Enable SimpleXML and/or file_get_contents"
+msgstr ""
+
+#: ../functions/loop.php:544
+msgid "Nothing to see here."
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:12
+msgid "Review Information"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:13
+msgid "Awards"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:14
+msgid "Badges"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:38
+msgid "Type of Post"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:40
+#: ../functions/admin/it-options.php:3088
+msgid "Review"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:42
+#: ../functions/admin/it-options.php:3087
+msgid "Article"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:43
+msgid ""
+"Choose \"Article\" to completely disable review functionality from this "
+"specific post."
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:49 ../functions/reviews.php:76
+#: ../functions/reviews.php:702 ../functions/reviews.php:741
+msgid "Positives"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:55 ../functions/reviews.php:77
+#: ../functions/reviews.php:703 ../functions/reviews.php:742
+msgid "Negatives"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:71
+msgid "Select number of stars"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:74
+msgid "Select percentages"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:77
+msgid "Select number ratings"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:80
+msgid "Select letter grades"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:86 ../functions/reviews.php:785
+msgid "Rating"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:132
+msgid "Manual Override"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:133
+msgid "Replaces the auto-generated total"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:138
+msgid "Total Score (Optional)"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:171 ../functions/reviews.php:120
+msgid "Bottom Line"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:198
+msgid "ADVANCED"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:198
+msgid ""
+"Caution: these settings are irreversible! Check the box to reset the value, "
+"and then update the post for the changes to take effect."
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:201
+msgid "Reset Likes"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:204
+msgid "Reset Views"
+msgstr ""
+
+#: ../functions/minisite-meta-boxes.php:207
+msgid "Reset User Ratings"
+msgstr ""
+
+#: ../functions/minisites.php:148
+msgid " Articles"
+msgstr ""
+
+#: ../functions/minisites.php:149
+msgid " Article"
+msgstr ""
+
+#: ../functions/minisites.php:150
+msgid "Add new article"
+msgstr ""
+
+#: ../functions/minisites.php:151
+msgid "Edit article"
+msgstr ""
+
+#: ../functions/minisites.php:152
+msgid "New article"
+msgstr ""
+
+#: ../functions/minisites.php:153
+msgid "View article"
+msgstr ""
+
+#: ../functions/minisites.php:154
+msgid "Search articles"
+msgstr ""
+
+#: ../functions/minisites.php:155
+msgid "No articles found"
+msgstr ""
+
+#: ../functions/minisites.php:156
+msgid "No articles found in Trash"
+msgstr ""
+
+#: ../functions/minisites.php:214
+msgid "Search "
+msgstr ""
+
+#: ../functions/minisites.php:215
+msgid "All "
+msgstr ""
+
+#: ../functions/minisites.php:216 ../functions/minisites.php:217
+msgid "Parent "
+msgstr ""
+
+#: ../functions/minisites.php:218
+msgid "Edit "
+msgstr ""
+
+#: ../functions/minisites.php:219
+msgid "Update "
+msgstr ""
+
+#: ../functions/minisites.php:220
+msgid "Add New "
+msgstr ""
+
+#: ../functions/minisites.php:221
+msgid "New "
+msgstr ""
+
+#: ../functions/minisites.php:221
+msgid " Name"
+msgstr ""
+
+#: ../functions/reviews.php:421
+#: ../functions/widgets/widget-top-reviewed.php:180
+msgid "Editor Rating"
+msgstr ""
+
+#: ../functions/reviews.php:462
+msgid "Total Score"
+msgstr ""
+
+#: ../functions/reviews.php:501
+msgid "Hover To Rate"
+msgstr ""
+
+#: ../functions/reviews.php:503
+#: ../functions/widgets/widget-top-reviewed.php:182
+msgid "User Rating"
+msgstr ""
+
+#: ../functions/reviews.php:582
+msgid " ratings"
+msgstr ""
+
+#: ../functions/reviews.php:583
+msgid " rating"
+msgstr ""
+
+#: ../functions/reviews.php:585
+msgid "User Score"
+msgstr ""
+
+#: ../functions/reviews.php:595
+msgid "You have rated this"
+msgstr ""
+
+#: ../functions/reviews.php:725
+msgid "saved"
+msgstr ""
+
+#: ../functions/reviews.php:1040 ../functions/admin/it-options.php:2640
+msgid "Details"
+msgstr ""
+
+#: ../functions/theme.php:13
+msgid "Submenu"
+msgstr ""
+
+#: ../functions/theme.php:14
+msgid ""
+"These widgets appear in the submenu area if you have Submenu widgets "
+"selected for the content type of the submenu in theme options."
+msgstr ""
+
+#: ../functions/theme.php:17 ../inc/post-loop.php:12
+msgid "Loop Sidebar"
+msgstr ""
+
+#: ../functions/theme.php:18
+msgid "These widgets appear in the sidebar of the main loop."
+msgstr ""
+
+#: ../functions/theme.php:21 ../functions/theme.php:1750
+#: ../functions/theme.php:1800 ../inc/page-content.php:5
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions/theme.php:22
+msgid "These widgets appear in the sidebar of the page content."
+msgstr ""
+
+#: ../functions/theme.php:25 ../inc/post-loop.php:103
+msgid "Minisite Directory Sidebar"
+msgstr ""
+
+#: ../functions/theme.php:26
+msgid ""
+"These widgets appear in the sidebar for minisite directory pages if the "
+"unique sidebar option for minisite directory pages is turned on."
+msgstr ""
+
+#: ../functions/theme.php:29 ../inc/mixed.php:5
+msgid "Mixed Column 1"
+msgstr ""
+
+#: ../functions/theme.php:30
+msgid "These widgets appear in the mixed column 1."
+msgstr ""
+
+#: ../functions/theme.php:33 ../inc/mixed.php:6
+msgid "Mixed Column 2"
+msgstr ""
+
+#: ../functions/theme.php:34
+msgid "These widgets appear in the mixed column 2."
+msgstr ""
+
+#: ../functions/theme.php:37 ../inc/mixed.php:7
+msgid "Mixed Column 3"
+msgstr ""
+
+#: ../functions/theme.php:38
+msgid "These widgets appear in the mixed column 3."
+msgstr ""
+
+#: ../functions/theme.php:41 ../inc/connect.php:41
+msgid "Connect Widgets"
+msgstr ""
+
+#: ../functions/theme.php:42
+msgid ""
+"These widgets appear in the connect bar to the right of the email signup "
+"form."
+msgstr ""
+
+#: ../functions/theme.php:46
+msgid "These widgets appear in the first footer column."
+msgstr ""
+
+#: ../functions/theme.php:50
+msgid "These widgets appear in the second footer column."
+msgstr ""
+
+#: ../functions/theme.php:54
+msgid "These widgets appear in the third footer column."
+msgstr ""
+
+#: ../functions/theme.php:58
+msgid "These widgets appear in the fourth footer column."
+msgstr ""
+
+#: ../functions/theme.php:62
+msgid "These widgets appear in the fifth footer column."
+msgstr ""
+
+#: ../functions/theme.php:66
+msgid "These widgets appear in the sixth footer column."
+msgstr ""
+
+#: ../functions/theme.php:73 ../functions/theme.php:1751
+#: ../functions/theme.php:1801 ../inc/page-content.php:80
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: ../functions/theme.php:74
+msgid ""
+"These widgets appear in the sidebar of the WooCommerce pages (if unique "
+"WooCommerce sidebars are turned on in the theme options)."
+msgstr ""
+
+#: ../functions/theme.php:81 ../inc/page-content.php:70
+msgid "BuddyPress Sidebar"
+msgstr ""
+
+#: ../functions/theme.php:82
+msgid ""
+"These widgets appear in the sidebar of the BuddyPress pages (if unique "
+"BuddyPress sidebars are turned on in the theme options)."
+msgstr ""
+
+#: ../functions/theme.php:93 ../inc/page-content.php:119
+#: ../inc/post-loop.php:81
+msgid " Sidebar"
+msgstr ""
+
+#: ../functions/theme.php:94
+msgid "These widgets appear in the sidebar of the "
+msgstr ""
+
+#: ../functions/theme.php:94
+msgid " minisite pages."
+msgstr ""
+
+#: ../functions/theme.php:99 ../inc/mixed.php:15
+msgid "Mixed Column 1 "
+msgstr ""
+
+#: ../functions/theme.php:100
+msgid "These widgets appear in the mixed column 1 for the "
+msgstr ""
+
+#: ../functions/theme.php:100 ../functions/theme.php:104
+#: ../functions/theme.php:108
+msgid " minisite front page."
+msgstr ""
+
+#: ../functions/theme.php:103 ../inc/mixed.php:16
+msgid "Mixed Column 2 "
+msgstr ""
+
+#: ../functions/theme.php:104
+msgid "These widgets appear in the mixed column 2 for the "
+msgstr ""
+
+#: ../functions/theme.php:107 ../inc/mixed.php:17
+msgid "Mixed Column 3 "
+msgstr ""
+
+#: ../functions/theme.php:108
+msgid "These widgets appear in the mixed column 3 for the "
+msgstr ""
+
+#: ../functions/theme.php:136
+msgid " custom sidebar was created in the Theme Options"
+msgstr ""
+
+#: ../functions/theme.php:334
+msgid "Email address"
+msgstr ""
+
+#: ../functions/theme.php:439
+msgid "previous"
+msgstr ""
+
+#: ../functions/theme.php:447
+msgid "random"
+msgstr ""
+
+#: ../functions/theme.php:454
+msgid "next"
+msgstr ""
+
+#: ../functions/theme.php:773
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../functions/theme.php:833
+msgid "by "
+msgstr ""
+
+#: ../functions/theme.php:843
+msgid "on "
+msgstr ""
+
+#: ../functions/theme.php:892
+msgid "MOST VIEWED"
+msgstr ""
+
+#: ../functions/theme.php:901
+msgid "MOST LIKED"
+msgstr ""
+
+#: ../functions/theme.php:910
+msgid "BEST REVIEWED"
+msgstr ""
+
+#: ../functions/theme.php:919
+msgid "HIGHEST RATED"
+msgstr ""
+
+#: ../functions/theme.php:928
+msgid "MOST COMMENTED"
+msgstr ""
+
+#: ../functions/theme.php:937
+msgid "RECENTLY AWARDED"
+msgstr ""
+
+#: ../functions/theme.php:963 ../functions/widgets/widget-minisite-tabs.php:43
+msgid "Latest from"
+msgstr ""
+
+#: ../functions/theme.php:988 ../functions/theme.php:990
+msgid "Likes"
+msgstr ""
+
+#: ../functions/theme.php:1010
+msgid " views"
+msgstr ""
+
+#: ../functions/theme.php:1011
+msgid " view"
+msgstr ""
+
+#: ../functions/theme.php:1013
+msgid "Views"
+msgstr ""
+
+#: ../functions/theme.php:1030
+msgid " comment"
+msgstr ""
+
+#: ../functions/theme.php:1032 ../functions/admin/core.php:630
+msgid "Comments"
+msgstr ""
+
+#: ../functions/theme.php:1051
+msgid "Latest Article: "
+msgstr ""
+
+#: ../functions/theme.php:1062 ../functions/theme.php:1066
+msgid "See all posts from this author"
+msgstr ""
+
+#: ../functions/theme.php:1102
+msgid "LOGIN"
+msgstr ""
+
+#: ../functions/theme.php:1127
+msgid "REGISTER"
+msgstr ""
+
+#: ../functions/theme.php:1149
+msgid "ENTER YOUR E-MAIL"
+msgstr ""
+
+#: ../functions/theme.php:1153
+msgid "Hit enter when done"
+msgstr ""
+
+#: ../functions/theme.php:1221
+msgid "More Goodness"
+msgstr ""
+
+#: ../functions/theme.php:1257 ../functions/theme.php:1293
+#: ../functions/theme.php:1370
+msgid "More articles tagged: "
+msgstr ""
+
+#: ../functions/theme.php:1274 ../functions/theme.php:1311
+#: ../functions/theme.php:1388
+msgid "More articles filed under: "
+msgstr ""
+
+#: ../functions/theme.php:1330 ../functions/theme.php:1350
+#: ../functions/theme.php:1411
+msgid "More articles from: "
+msgstr ""
+
+#: ../functions/theme.php:1468
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions/theme.php:1470
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions/theme.php:1481
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/theme.php:1540
+msgid "Find me on Twitter"
+msgstr ""
+
+#: ../functions/theme.php:1542
+msgid "Find me on Facebook"
+msgstr ""
+
+#: ../functions/theme.php:1544
+msgid "Find me on Google+"
+msgstr ""
+
+#: ../functions/theme.php:1546
+msgid "Find me on LinkedIn"
+msgstr ""
+
+#: ../functions/theme.php:1548
+msgid "Find me on Pinterest"
+msgstr ""
+
+#: ../functions/theme.php:1550
+msgid "Find me on Flickr"
+msgstr ""
+
+#: ../functions/theme.php:1552
+msgid "Find me on YouTube"
+msgstr ""
+
+#: ../functions/theme.php:1554
+msgid "Find me on Instagram"
+msgstr ""
+
+#: ../functions/theme.php:1556
+msgid "Find me on Vimeo"
+msgstr ""
+
+#: ../functions/theme.php:1558
+msgid "Find me on StumbleUpon"
+msgstr ""
+
+#: ../functions/theme.php:1560
+msgid "E-mail Me"
+msgstr ""
+
+#: ../functions/theme.php:1562
+msgid "My Website"
+msgstr ""
+
+#: ../functions/admin/admin.php:142
+#, php-format
+msgid ""
+"Your PHP version is too old, please upgrade to a newer version. Your version "
+"is %s, %s requires %s<br /><a href=\"%s\">Return to theme activation &raquo</"
+"a>"
+msgstr ""
+
+#: ../functions/admin/admin.php:175
+#, php-format
+msgid "%1$s Error Messages"
+msgstr ""
+
+#: ../functions/admin/core.php:72
+#, php-format
+msgid "Error: Sidebar &quot;%1$s&quot; not deleted, please try again."
+msgstr ""
+
+#: ../functions/admin/core.php:77
+#, php-format
+msgid "Sidebar &quot;%1$s&quot; Deleted."
+msgstr ""
+
+#: ../functions/admin/core.php:97
+#, php-format
+msgid "Error: Sidebar &quot;%1$s&quot; not saved, please try again."
+msgstr ""
+
+#: ../functions/admin/core.php:103 ../functions/admin/core.php:115
+#, php-format
+msgid "Sidebar &quot;%1$s&quot; Added."
+msgstr ""
+
+#: ../functions/admin/core.php:108
+#, php-format
+msgid "Sidebar &quot;%1$s&quot; Already Exists."
+msgstr ""
+
+#: ../functions/admin/core.php:140 ../functions/admin/core.php:168
+#: ../functions/admin/core.php:192
+msgid "Error: Options not saved, please try again."
+msgstr ""
+
+#: ../functions/admin/core.php:145 ../functions/admin/core.php:148
+msgid " Total Options Saved."
+msgstr ""
+
+#: ../functions/admin/core.php:173 ../functions/admin/core.php:176
+#: ../functions/admin/core.php:197 ../functions/admin/core.php:200
+msgid "Options Saved."
+msgstr ""
+
+#: ../functions/admin/core.php:547
+msgid "Flag"
+msgstr ""
+
+#: ../functions/admin/core.php:548
+msgid "Gear"
+msgstr ""
+
+#: ../functions/admin/core.php:549
+msgid "Gears"
+msgstr ""
+
+#: ../functions/admin/core.php:550
+msgid "Wrench"
+msgstr ""
+
+#: ../functions/admin/core.php:551
+msgid "Gauge"
+msgstr ""
+
+#: ../functions/admin/core.php:552
+msgid "Tools"
+msgstr ""
+
+#: ../functions/admin/core.php:553
+msgid "Window"
+msgstr ""
+
+#: ../functions/admin/core.php:554 ../functions/admin/core.php:587
+msgid "Folder"
+msgstr ""
+
+#: ../functions/admin/core.php:555 ../functions/shortcodes/video.php:94
+#: ../inc/sticky.php:250
+msgid "Search"
+msgstr ""
+
+#: ../functions/admin/core.php:556
+msgid "User"
+msgstr ""
+
+#: ../functions/admin/core.php:557
+msgid "Users"
+msgstr ""
+
+#: ../functions/admin/core.php:558
+msgid "Envelope"
+msgstr ""
+
+#: ../functions/admin/core.php:559
+msgid "Bookmark"
+msgstr ""
+
+#: ../functions/admin/core.php:560
+msgid "Book"
+msgstr ""
+
+#: ../functions/admin/core.php:562
+msgid "Globe"
+msgstr ""
+
+#: ../functions/admin/core.php:563
+msgid "Suitcase"
+msgstr ""
+
+#: ../functions/admin/core.php:564 ../functions/shortcodes/buttons.php:81
+msgid "Target"
+msgstr ""
+
+#: ../functions/admin/core.php:565
+msgid "Pin"
+msgstr ""
+
+#: ../functions/admin/core.php:566
+msgid "Paperclip"
+msgstr ""
+
+#: ../functions/admin/core.php:567 ../inc/sticky.php:113 ../inc/sticky.php:118
+#: ../inc/sticky.php:340
+msgid "Home"
+msgstr ""
+
+#: ../functions/admin/core.php:568
+msgid "Key"
+msgstr ""
+
+#: ../functions/admin/core.php:569
+msgid "Zoom In"
+msgstr ""
+
+#: ../functions/admin/core.php:570
+msgid "Zoom Out"
+msgstr ""
+
+#: ../functions/admin/core.php:571
+msgid "Document"
+msgstr ""
+
+#: ../functions/admin/core.php:572
+msgid "Floppy Disk"
+msgstr ""
+
+#: ../functions/admin/core.php:573
+msgid "Picture"
+msgstr ""
+
+#: ../functions/admin/core.php:574 ../functions/shortcodes/buttons.php:30
+msgid "Link"
+msgstr ""
+
+#: ../functions/admin/core.php:575 ../functions/shortcodes/video.php:256
+msgid "Video"
+msgstr ""
+
+#: ../functions/admin/core.php:576
+msgid "Battery"
+msgstr ""
+
+#: ../functions/admin/core.php:577
+msgid "Monitor"
+msgstr ""
+
+#: ../functions/admin/core.php:578
+msgid "Mobile Phone"
+msgstr ""
+
+#: ../functions/admin/core.php:579
+msgid "Tablet"
+msgstr ""
+
+#: ../functions/admin/core.php:580
+msgid "Laptop"
+msgstr ""
+
+#: ../functions/admin/core.php:581
+msgid "Signal"
+msgstr ""
+
+#: ../functions/admin/core.php:582
+msgid "Wifi"
+msgstr ""
+
+#: ../functions/admin/core.php:583
+msgid "Camera"
+msgstr ""
+
+#: ../functions/admin/core.php:584 ../functions/shortcodes/lists.php:13
+msgid "List"
+msgstr ""
+
+#: ../functions/admin/core.php:585 ../functions/admin/it-options.php:647
+#: ../functions/admin/it-options.php:1179
+#: ../functions/admin/it-options.php:1293
+msgid "Tag"
+msgstr ""
+
+#: ../functions/admin/core.php:586
+msgid "Pencil"
+msgstr ""
+
+#: ../functions/admin/core.php:588 ../functions/admin/it-options.php:2079
+msgid "Shuffle"
+msgstr ""
+
+#: ../functions/admin/core.php:589 ../functions/shortcodes/video.php:80
+#: ../functions/shortcodes/video.php:199
+msgid "Loop"
+msgstr ""
+
+#: ../functions/admin/core.php:590
+msgid "Play"
+msgstr ""
+
+#: ../functions/admin/core.php:591
+msgid "Stop"
+msgstr ""
+
+#: ../functions/admin/core.php:592
+msgid "Pause"
+msgstr ""
+
+#: ../functions/admin/core.php:593
+msgid "Grid"
+msgstr ""
+
+#: ../functions/admin/core.php:594
+msgid "Circled X"
+msgstr ""
+
+#: ../functions/admin/core.php:595
+msgid "Circled Help"
+msgstr ""
+
+#: ../functions/admin/core.php:596
+msgid "Circled Quote"
+msgstr ""
+
+#: ../functions/admin/core.php:597
+msgid "Circled Info"
+msgstr ""
+
+#: ../functions/admin/core.php:598
+msgid "Circled Attention"
+msgstr ""
+
+#: ../functions/admin/core.php:599
+msgid "Plus"
+msgstr ""
+
+#: ../functions/admin/core.php:600
+msgid "Minus"
+msgstr ""
+
+#: ../functions/admin/core.php:601
+msgid "Plus Squared"
+msgstr ""
+
+#: ../functions/admin/core.php:602
+msgid "Minus Squared"
+msgstr ""
+
+#: ../functions/admin/core.php:603 ../functions/shortcodes/alerts.php:13
+#: ../functions/shortcodes/alerts.php:42
+msgid "Alert"
+msgstr ""
+
+#: ../functions/admin/core.php:604
+msgid "Eye"
+msgstr ""
+
+#: ../functions/admin/core.php:605
+msgid "Star"
+msgstr ""
+
+#: ../functions/admin/core.php:606
+msgid "Heart"
+msgstr ""
+
+#: ../functions/admin/core.php:607
+msgid "Check"
+msgstr ""
+
+#: ../functions/admin/core.php:608
+msgid "Locked"
+msgstr ""
+
+#: ../functions/admin/core.php:609
+msgid "Unlocked"
+msgstr ""
+
+#: ../functions/admin/core.php:610
+msgid "Password"
+msgstr ""
+
+#: ../functions/admin/core.php:611
+msgid "Right Arrow"
+msgstr ""
+
+#: ../functions/admin/core.php:612
+msgid "Left Arrow"
+msgstr ""
+
+#: ../functions/admin/core.php:613
+msgid "Up Arrow"
+msgstr ""
+
+#: ../functions/admin/core.php:614
+msgid "Down Arrow"
+msgstr ""
+
+#: ../functions/admin/core.php:615
+msgid "Right Arrow Open"
+msgstr ""
+
+#: ../functions/admin/core.php:616
+msgid "Left Arrow Open"
+msgstr ""
+
+#: ../functions/admin/core.php:617
+msgid "Up Arrow Open"
+msgstr ""
+
+#: ../functions/admin/core.php:618
+msgid "Down Arrow Open"
+msgstr ""
+
+#: ../functions/admin/core.php:619
+msgid "Up Arrow Bold"
+msgstr ""
+
+#: ../functions/admin/core.php:620
+msgid "Down Arrow Bold"
+msgstr ""
+
+#: ../functions/admin/core.php:621
+msgid "Right Arrow Thin"
+msgstr ""
+
+#: ../functions/admin/core.php:622
+msgid "Right Arrow Curved"
+msgstr ""
+
+#: ../functions/admin/core.php:623
+msgid "Left Hand"
+msgstr ""
+
+#: ../functions/admin/core.php:624
+msgid "Right Hand"
+msgstr ""
+
+#: ../functions/admin/core.php:625
+msgid "Trophy"
+msgstr ""
+
+#: ../functions/admin/core.php:626
+msgid "Beaker"
+msgstr ""
+
+#: ../functions/admin/core.php:627
+msgid "Scissors"
+msgstr ""
+
+#: ../functions/admin/core.php:628
+msgid "Thumbs Up"
+msgstr ""
+
+#: ../functions/admin/core.php:629
+msgid "Thumbs Down"
+msgstr ""
+
+#: ../functions/admin/core.php:631
+msgid "Clock"
+msgstr ""
+
+#: ../functions/admin/core.php:632
+msgid "Trending Graph"
+msgstr ""
+
+#: ../functions/admin/core.php:633
+msgid "Line Graph"
+msgstr ""
+
+#: ../functions/admin/core.php:634
+msgid "Pie Chart"
+msgstr ""
+
+#: ../functions/admin/core.php:635
+msgid "Coffee"
+msgstr ""
+
+#: ../functions/admin/core.php:636
+msgid "Food"
+msgstr ""
+
+#: ../functions/admin/core.php:637
+msgid "Truck"
+msgstr ""
+
+#: ../functions/admin/core.php:638
+msgid "Water"
+msgstr ""
+
+#: ../functions/admin/core.php:639
+msgid "Magnet"
+msgstr ""
+
+#: ../functions/admin/core.php:640
+msgid "Paint Brush"
+msgstr ""
+
+#: ../functions/admin/core.php:641
+msgid "Leaf"
+msgstr ""
+
+#: ../functions/admin/core.php:642
+msgid "Fire"
+msgstr ""
+
+#: ../functions/admin/core.php:643
+msgid "Moon"
+msgstr ""
+
+#: ../functions/admin/core.php:644 ../functions/widgets/widget-clouds.php:35
+msgid "Cloud"
+msgstr ""
+
+#: ../functions/admin/core.php:645
+msgid "CC License"
+msgstr ""
+
+#: ../functions/admin/core.php:646
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../functions/admin/core.php:647
+msgid "Credit Card"
+msgstr ""
+
+#: ../functions/admin/core.php:654
+msgid "Google+"
+msgstr ""
+
+#: ../functions/admin/core.php:656
+msgid "Tumblr"
+msgstr ""
+
+#: ../functions/admin/core.php:657
+msgid "Youtube"
+msgstr ""
+
+#: ../functions/admin/core.php:659
+msgid "Skype"
+msgstr ""
+
+#: ../functions/admin/core.php:660
+msgid "Paypal"
+msgstr ""
+
+#: ../functions/admin/core.php:661
+msgid "Picasa"
+msgstr ""
+
+#: ../functions/admin/core.php:662
+msgid "Spotify"
+msgstr ""
+
+#: ../functions/admin/core.php:663
+msgid "Last.fm"
+msgstr ""
+
+#: ../functions/admin/core.php:664
+msgid "Dropbox"
+msgstr ""
+
+#: ../functions/admin/core.php:665
+msgid "Apple"
+msgstr ""
+
+#: ../functions/admin/core.php:666
+msgid "Windows"
+msgstr ""
+
+#: ../functions/admin/core.php:667
+msgid "Yahoo!"
+msgstr ""
+
+#: ../functions/admin/core.php:668
+msgid "Wikipedia"
+msgstr ""
+
+#: ../functions/admin/core.php:669
+msgid "HTML5"
+msgstr ""
+
+#: ../functions/admin/core.php:670
+msgid "WordPress"
+msgstr ""
+
+#: ../functions/admin/core.php:671
+msgid "Gmail"
+msgstr ""
+
+#: ../functions/admin/core.php:672
+msgid "Reddit"
+msgstr ""
+
+#: ../functions/admin/core.php:673
+msgid "Acrobat"
+msgstr ""
+
+#: ../functions/admin/core.php:674
+msgid "Firefox"
+msgstr ""
+
+#: ../functions/admin/core.php:675
+msgid "Chrome"
+msgstr ""
+
+#: ../functions/admin/core.php:676
+msgid "Opera"
+msgstr ""
+
+#: ../functions/admin/core.php:677
+msgid "Internet Explorer"
+msgstr ""
+
+#: ../functions/admin/core.php:678
+msgid "RSS"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3
+msgid "General Settings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:4
+msgid "Menus"
+msgstr ""
+
+#: ../functions/admin/it-options.php:5 ../functions/admin/it-options.php:2738
+#: ../functions/shortcodes/miscellaneous.php:109
+#: ../functions/shortcodes/miscellaneous.php:153
+#: ../functions/shortcodes/table.php:24 ../functions/shortcodes/tabs.php:34
+msgid "Style"
+msgstr ""
+
+#: ../functions/admin/it-options.php:6
+msgid "Front Page"
+msgstr ""
+
+#: ../functions/admin/it-options.php:7
+msgid "Pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:8
+msgid "Content Carousels"
+msgstr ""
+
+#: ../functions/admin/it-options.php:9
+msgid "Post Loop"
+msgstr ""
+
+#: ../functions/admin/it-options.php:10
+msgid "Single Articles"
+msgstr ""
+
+#: ../functions/admin/it-options.php:11
+msgid "Minisite Setup"
+msgstr ""
+
+#: ../functions/admin/it-options.php:12
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../functions/admin/it-options.php:13
+#: ../functions/shortcodes/signoffs.php:88
+msgid "Signoffs"
+msgstr ""
+
+#: ../functions/admin/it-options.php:14
+msgid "Advertising"
+msgstr ""
+
+#: ../functions/admin/it-options.php:15 ../functions/shortcodes/modal.php:32
+msgid "Footer"
+msgstr ""
+
+#: ../functions/admin/it-options.php:16
+msgid "Social"
+msgstr ""
+
+#: ../functions/admin/it-options.php:17
+msgid "Advanced"
+msgstr ""
+
+#: ../functions/admin/it-options.php:22
+msgid "WooCommerce"
+msgstr ""
+
+#: ../functions/admin/it-options.php:27
+msgid "BuddyPress"
+msgstr ""
+
+#: ../functions/admin/it-options.php:39
+msgid " Minisite"
+msgstr ""
+
+#: ../functions/admin/it-options.php:63
+msgid "Logos & Branding"
+msgstr ""
+
+#: ../functions/admin/it-options.php:64
+msgid "General settings for logos and branding of your site."
+msgstr ""
+
+#: ../functions/admin/it-options.php:68 ../functions/admin/it-options.php:929
+#: ../functions/admin/it-options.php:1108
+#: ../functions/admin/it-options.php:1470
+#: ../functions/admin/it-options.php:1788
+#: ../functions/admin/it-options.php:2743
+msgid "Disable Logo Bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:69 ../functions/admin/it-options.php:2744
+msgid "Disable the area that shows the header ad and larger logo area"
+msgstr ""
+
+#: ../functions/admin/it-options.php:71 ../functions/admin/it-options.php:2746
+msgid "Hide the logo bar underneath the sticky bar."
+msgstr ""
+
+#: ../functions/admin/it-options.php:75 ../functions/admin/it-options.php:935
+#: ../functions/admin/it-options.php:1114
+#: ../functions/admin/it-options.php:1476
+#: ../functions/admin/it-options.php:1794
+#: ../functions/admin/it-options.php:2750
+msgid "Disable Logo Only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:76 ../functions/admin/it-options.php:936
+#: ../functions/admin/it-options.php:1115
+#: ../functions/admin/it-options.php:1477
+#: ../functions/admin/it-options.php:1795
+#: ../functions/admin/it-options.php:2751
+msgid ""
+"This is useful if you want to display the logo in the sticky bar and also "
+"display the logo bar without displaying the logo again"
+msgstr ""
+
+#: ../functions/admin/it-options.php:78 ../functions/admin/it-options.php:938
+#: ../functions/admin/it-options.php:1117
+#: ../functions/admin/it-options.php:1479
+#: ../functions/admin/it-options.php:1797
+#: ../functions/admin/it-options.php:2753
+msgid "Hide the logo only from the logo bar."
+msgstr ""
+
+#: ../functions/admin/it-options.php:82
+msgid "Logo Settings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:83
+msgid ""
+"You can choose whether you wish to display a custom logo or your site title."
+msgstr ""
+
+#: ../functions/admin/it-options.php:86
+msgid "Custom Image Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:87
+#, php-format
+msgid ""
+"Display Site Title <small><a href=\"%1$s/wp-admin/options-general.php\" "
+"target=\"_blank\">(click here to edit site title)</a></small>"
+msgstr ""
+
+#: ../functions/admin/it-options.php:92
+msgid "Hide Tagline"
+msgstr ""
+
+#: ../functions/admin/it-options.php:93
+msgid ""
+"This disables the tagline (site description) from displaying without "
+"requiring you to actually delete the Tagline from Settings >> General (good "
+"for SEO purposes). The tagline only actually displays if you have the logo "
+"bar set to display."
+msgstr ""
+
+#: ../functions/admin/it-options.php:95
+msgid "Hide the site Tagline from the logo bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:99
+msgid "Custom Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:100
+msgid ""
+"Upload an image to use as your logo. If you are displaying your logo in the "
+"sticky bar, max height is 60px."
+msgstr ""
+
+#: ../functions/admin/it-options.php:105 ../functions/admin/it-options.php:163
+#: ../functions/admin/it-options.php:2769
+#: ../functions/admin/it-options.php:2797
+msgid "Logo Width (optional)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:106 ../functions/admin/it-options.php:164
+#: ../functions/admin/it-options.php:2770
+#: ../functions/admin/it-options.php:2798
+msgid ""
+"This adds a width attribute to your logo image tag for page performance "
+"purposes. Do not include the \"px\" part, just the number itself."
+msgstr ""
+
+#: ../functions/admin/it-options.php:113 ../functions/admin/it-options.php:171
+#: ../functions/admin/it-options.php:2777
+#: ../functions/admin/it-options.php:2805
+msgid "Logo Height (optional)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:114 ../functions/admin/it-options.php:172
+#: ../functions/admin/it-options.php:2778
+#: ../functions/admin/it-options.php:2806
+msgid ""
+"This adds a height attribute to your logo image tag for page performance "
+"purposes. Do not include the \"px\" part, just the number itself."
+msgstr ""
+
+#: ../functions/admin/it-options.php:121
+msgid "Custom HD Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:122
+msgid ""
+"Upload an image to use as your logo for retina displays. If you are "
+"displaying your logo in the sticky bar, max height is 120px."
+msgstr ""
+
+#: ../functions/admin/it-options.php:127
+msgid "Login Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:128
+msgid "Upload an image to use as your logo for login page."
+msgstr ""
+
+#: ../functions/admin/it-options.php:133
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../functions/admin/it-options.php:134
+msgid "Upload an image to use as your favicon."
+msgstr ""
+
+#: ../functions/admin/it-options.php:140
+msgid "Sticky Bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:141
+msgid "The fixed bar that displays menus and controls at the top of the site."
+msgstr ""
+
+#: ../functions/admin/it-options.php:145
+msgid "Disable Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:147 ../functions/admin/it-options.php:925
+#: ../functions/admin/it-options.php:1104
+#: ../functions/admin/it-options.php:1466
+#: ../functions/admin/it-options.php:1784
+msgid "Do not display the logo in the sticky bar."
+msgstr ""
+
+#: ../functions/admin/it-options.php:151
+#: ../functions/admin/it-options.php:2791
+msgid "Sticky Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:152
+msgid ""
+"Upload an image to use as the logo in your sticky bar. If you leave this "
+"blank it will use the main logo."
+msgstr ""
+
+#: ../functions/admin/it-options.php:157
+#: ../functions/admin/it-options.php:2813
+msgid "HD Sticky Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:158
+msgid ""
+"Upload an image to use as the logo in your sticky bar for retina displays. "
+"If you leave this blank it will use the main HD logo."
+msgstr ""
+
+#: ../functions/admin/it-options.php:179
+msgid "Disable Sticky Menu"
+msgstr ""
+
+#: ../functions/admin/it-options.php:181
+msgid "Disable the drop down menu next to the logo."
+msgstr ""
+
+#: ../functions/admin/it-options.php:185
+msgid "Disable New Articles"
+msgstr ""
+
+#: ../functions/admin/it-options.php:187
+msgid "Disable the new articles panel from displaying on the front page."
+msgstr ""
+
+#: ../functions/admin/it-options.php:191
+msgid "New Articles Prefix"
+msgstr ""
+
+#: ../functions/admin/it-options.php:192
+msgid ""
+"The prefix to display before the time period in the tooltip. Leave blank to "
+"only display the time period."
+msgstr ""
+
+#: ../functions/admin/it-options.php:198
+msgid "New Articles Label Override"
+msgstr ""
+
+#: ../functions/admin/it-options.php:199
+msgid ""
+"Roll your own label instead of letting the system generate one - displays in "
+"the hover tooltip."
+msgstr ""
+
+#: ../functions/admin/it-options.php:205
+msgid "New Articles Number of Posts"
+msgstr ""
+
+#: ../functions/admin/it-options.php:206
+msgid "The number of total posts to display in the new articles section."
+msgstr ""
+
+#: ../functions/admin/it-options.php:212
+msgid "New Articles Time Period"
+msgstr ""
+
+#: ../functions/admin/it-options.php:213
+msgid "Show count and posts for only this time period."
+msgstr ""
+
+#: ../functions/admin/it-options.php:220
+msgid "Disable Random Article"
+msgstr ""
+
+#: ../functions/admin/it-options.php:222
+msgid "Disable the random article button next to the main menu"
+msgstr ""
+
+#: ../functions/admin/it-options.php:226
+msgid "Disable Search"
+msgstr ""
+
+#: ../functions/admin/it-options.php:228
+msgid "Disable the search box in the sticky bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:232
+msgid "Disable Login/Register"
+msgstr ""
+
+#: ../functions/admin/it-options.php:234
+msgid "Disable the login and register buttons in the sticky bar."
+msgstr ""
+
+#: ../functions/admin/it-options.php:239
+msgid "Global Settings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:240
+msgid ""
+"These settings pertain to elements that are available/visible across your "
+"entire site."
+msgstr ""
+
+#: ../functions/admin/it-options.php:244
+msgid "Disable Responsiveness"
+msgstr ""
+
+#: ../functions/admin/it-options.php:245
+msgid ""
+"When you view the site on a tablet or mobile, it will look and function "
+"exactly as it does on a large desktop display."
+msgstr ""
+
+#: ../functions/admin/it-options.php:247
+msgid "Disable responsive layout behavior"
+msgstr ""
+
+#: ../functions/admin/it-options.php:251
+msgid "Default Page Layout"
+msgstr ""
+
+#: ../functions/admin/it-options.php:252
+msgid "The default page layout for all pages and posts."
+msgstr ""
+
+#: ../functions/admin/it-options.php:263
+msgid "Force Global Layout"
+msgstr ""
+
+#: ../functions/admin/it-options.php:264
+msgid ""
+"This globally forces the above layout to be used even if specific sections "
+"or pages dictate a different layout."
+msgstr ""
+
+#: ../functions/admin/it-options.php:266
+msgid "The above layout should override all other settings."
+msgstr ""
+
+#: ../functions/admin/it-options.php:270 ../functions/admin/it-options.php:954
+#: ../functions/admin/it-options.php:1813
+#: ../functions/admin/it-options.php:3106 ../functions/admin/meta-page.php:22
+#: ../functions/admin/meta-post.php:29
+msgid "Featured Image Size"
+msgstr ""
+
+#: ../functions/admin/it-options.php:271
+msgid "The default featured image size for all pages and posts"
+msgstr ""
+
+#: ../functions/admin/it-options.php:283
+msgid "Force Global Featured Image Size"
+msgstr ""
+
+#: ../functions/admin/it-options.php:284
+msgid ""
+"This globally forces the above featured image size to be used even if "
+"specific sections or pages dictate a different size."
+msgstr ""
+
+#: ../functions/admin/it-options.php:286
+msgid "The above featured image size should override all other settings."
+msgstr ""
+
+#: ../functions/admin/it-options.php:290
+msgid "Disable Comments Globally"
+msgstr ""
+
+#: ../functions/admin/it-options.php:291
+msgid ""
+"This globally disables comments from displaying, even if you have it turned "
+"on in other areas of the theme (such as for a specific minisite or for "
+"archive pages)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:293
+msgid "Completely disable the comments for the entire site"
+msgstr ""
+
+#: ../functions/admin/it-options.php:297
+msgid "Disable Views Globally"
+msgstr ""
+
+#: ../functions/admin/it-options.php:298
+msgid ""
+"This globally disables view counts from displaying, even if you have it "
+"turned on in other areas of the theme (such as for a specific minisite or "
+"for archive pages)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:300
+msgid "Completely disable the view counts for the entire site"
+msgstr ""
+
+#: ../functions/admin/it-options.php:304
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../functions/admin/it-options.php:305
+msgid ""
+"After signing up with Google Analytics paste the code that it gives you here."
+msgstr ""
+
+#: ../functions/admin/it-options.php:310
+msgid "Custom CSS"
+msgstr ""
+
+#: ../functions/admin/it-options.php:311
+msgid ""
+"This is a great place for doing quick custom styles.  For example if you "
+"wanted to change the site title color then you would paste this:<br /><br /"
+"><code>#logo a { color: blue; }</code>"
+msgstr ""
+
+#: ../functions/admin/it-options.php:316
+msgid "Custom JavaScript"
+msgstr ""
+
+#: ../functions/admin/it-options.php:317
+msgid "In case you need to add some custom javascript you may insert it here."
+msgstr ""
+
+#: ../functions/admin/it-options.php:335
+#: ../functions/admin/it-options.php:3398
+msgid "Disable Top Menu"
+msgstr ""
+
+#: ../functions/admin/it-options.php:336
+msgid ""
+"This disables the top menu but causes it to be opt in, meaning you can "
+"enable it in other areas of the theme and it will override this setting "
+"(such as for a specific minisite)."
+msgstr ""
+
+#: ../functions/admin/it-options.php:338
+msgid "Disable the top menu by default"
+msgstr ""
+
+#: ../functions/admin/it-options.php:342
+msgid "Disable Top Menu Globally"
+msgstr ""
+
+#: ../functions/admin/it-options.php:343
+msgid ""
+"This globally disables the top menu, even if you have it turned on in other "
+"areas of the theme (such as for a specific minisite)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:345
+msgid "Completely disable the top menu for the entire site"
+msgstr ""
+
+#: ../functions/admin/it-options.php:349
+msgid "Section Menu Type"
+msgstr ""
+
+#: ../functions/admin/it-options.php:351
+msgid ""
+"Choosing Mega menu style will enable latest posts from each minisite or "
+"category to display directly in the menu on mouse hover."
+msgstr ""
+
+#: ../functions/admin/it-options.php:353
+msgid "Standard WordPress menu"
+msgstr ""
+
+#: ../functions/admin/it-options.php:354
+msgid "Mega menu"
+msgstr ""
+
+#: ../functions/admin/it-options.php:360
+msgid "Pre-load Mega Menus"
+msgstr ""
+
+#: ../functions/admin/it-options.php:362
+msgid ""
+"Adds a small amount of initial overhead so users do not have to wait to see "
+"posts when hovering over mega menu items. The expense is negligible in most "
+"cases."
+msgstr ""
+
+#: ../functions/admin/it-options.php:363
+msgid "Mega menu drop downs should populate on page load"
+msgstr ""
+
+#: ../functions/admin/it-options.php:367
+msgid "Number of Section Menu Posts"
+msgstr ""
+
+#: ../functions/admin/it-options.php:368
+msgid ""
+"The total number of posts to display for each menu item in the mega menus"
+msgstr ""
+
+#: ../functions/admin/it-options.php:375
+msgid "Disable Section Menu Images"
+msgstr ""
+
+#: ../functions/admin/it-options.php:377
+msgid "Hide the thumbnails in the mega menu post listings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:381
+msgid "Section Menu Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:382
+msgid ""
+"The label that displays for the menu when in responsive view. If left blank "
+"it will display \"SECTIONS\"."
+msgstr ""
+
+#: ../functions/admin/it-options.php:389
+msgid "Sub Menu Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:390
+msgid ""
+"The label that displays for the menu. If left blank it will display \"MORE\"."
+msgstr ""
+
+#: ../functions/admin/it-options.php:410
+#: ../functions/admin/it-options.php:2895 ../inc/demo-panel.php:9
+msgid "Accents"
+msgstr ""
+
+#: ../functions/admin/it-options.php:411
+#: ../functions/admin/it-options.php:2896
+msgid "Used for links, titles, buttons, and other accent colors."
+msgstr ""
+
+#: ../functions/admin/it-options.php:417
+msgid "Box Gradients"
+msgstr ""
+
+#: ../functions/admin/it-options.php:418
+#: ../functions/admin/it-options.php:2903
+msgid ""
+"Choose four colors for the diagonal gradients used in image box overlays. "
+"The theme will use a combination of these colors to create the gradients. "
+"More than four colors causes a busy look no matter how good the color scheme "
+"is. We recommend using a site like ColourLovers.com to find a good color "
+"scheme. Darker colors are better because they enhance the overlay text. "
+"Leave these blank to use the default colors."
+msgstr ""
+
+#: ../functions/admin/it-options.php:442
+msgid "Fonts"
+msgstr ""
+
+#: ../functions/admin/it-options.php:443
+msgid ""
+"You can override the default fonts for several parts of the theme by "
+"selecting them below. Leave the font unselected to use the default font, or "
+"if you have already made a selection and want to set it back to the default, "
+"select \"Choose One...\" For performance reasons only selected fonts will be "
+"imported from Google, which means we cannot display all the actual font "
+"faces in this list. To preview what each font looks like without having to "
+"activate each one, go to Google Fonts and take a look at it: http://www."
+"google.com/fonts/"
+msgstr ""
+
+#: ../functions/admin/it-options.php:447
+msgid "Menus Font Face"
+msgstr ""
+
+#: ../functions/admin/it-options.php:448
+msgid "Select which font to use for the menus."
+msgstr ""
+
+#: ../functions/admin/it-options.php:454
+msgid "Section Headers Font Face"
+msgstr ""
+
+#: ../functions/admin/it-options.php:455
+msgid ""
+"Select which font to use for the various section headers throughout the site."
+msgstr ""
+
+#: ../functions/admin/it-options.php:461
+msgid "Content Headers Font Face"
+msgstr ""
+
+#: ../functions/admin/it-options.php:462
+msgid "Select which font to use for the headers within page and post content."
+msgstr ""
+
+#: ../functions/admin/it-options.php:468
+msgid "Body Font Face"
+msgstr ""
+
+#: ../functions/admin/it-options.php:469
+msgid "Select which font to use for the body text."
+msgstr ""
+
+#: ../functions/admin/it-options.php:475
+msgid "Body Font Size"
+msgstr ""
+
+#: ../functions/admin/it-options.php:476
+msgid "Select which font size to use for the body text."
+msgstr ""
+
+#: ../functions/admin/it-options.php:482
+msgid "Widgets Font Face"
+msgstr ""
+
+#: ../functions/admin/it-options.php:483
+msgid "Select which font to use for the widget text."
+msgstr ""
+
+#: ../functions/admin/it-options.php:489
+msgid "Widgets Font Size"
+msgstr ""
+
+#: ../functions/admin/it-options.php:490
+msgid "Select which font size to use for the widget text."
+msgstr ""
+
+#: ../functions/admin/it-options.php:496
+msgid "Add Subsets"
+msgstr ""
+
+#: ../functions/admin/it-options.php:497
+msgid ""
+"Leave this unselected unless you specifically want to add subsets beyond "
+"Latin. This will only work for fonts that actually have the specific subset "
+"(refer to Google Fonts to see which ones have subsets). This also adds the "
+"character sets to the default theme fonts. Be careful! Adding subsets will "
+"impact page load times."
+msgstr ""
+
+#: ../functions/admin/it-options.php:524 ../functions/admin/it-options.php:625
+#: ../functions/admin/it-options.php:942
+#: ../functions/admin/it-options.php:1160
+#: ../functions/admin/it-options.php:1528
+#: ../functions/admin/it-options.php:1710
+#: ../functions/admin/it-options.php:2182
+#: ../functions/admin/it-options.php:2537
+#: ../functions/admin/it-options.php:2577
+#: ../functions/admin/it-options.php:3062 ../functions/admin/meta-page.php:11
+#: ../functions/admin/meta-post.php:18
+msgid "Layout"
+msgstr ""
+
+#: ../functions/admin/it-options.php:525
+msgid "Choose the content that should populate each section of the front page."
+msgstr ""
+
+#: ../functions/admin/it-options.php:596
+#: ../functions/admin/option-generator.php:1641
+msgid "Boxes"
+msgstr ""
+
+#: ../functions/admin/it-options.php:597
+msgid "The toggle panel in the main menu that expands to show latest articles."
+msgstr ""
+
+#: ../functions/admin/it-options.php:602 ../functions/admin/it-options.php:660
+#: ../functions/admin/it-options.php:714
+#: ../functions/admin/it-options.php:1146
+#: ../functions/admin/it-options.php:1307
+#: ../functions/admin/it-options.php:1355
+#: ../functions/admin/it-options.php:1404
+msgid "Disable"
+msgstr ""
+
+#: ../functions/admin/it-options.php:604
+msgid "Disable the boxes from the front page."
+msgstr ""
+
+#: ../functions/admin/it-options.php:608 ../functions/admin/it-options.php:667
+#: ../functions/admin/it-options.php:721
+#: ../functions/admin/it-options.php:1153
+#: ../functions/admin/it-options.php:1314
+#: ../functions/admin/it-options.php:1362
+#: ../functions/admin/it-options.php:1411
+msgid "Disable Globally"
+msgstr ""
+
+#: ../functions/admin/it-options.php:609
+msgid ""
+"This globally disables teh boxes from displaying, even if you have it turned "
+"on in other areas of the theme (such as for a specific minisite or for "
+"archive pages)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:611
+msgid "Force disable boxes for the entire site"
+msgstr ""
+
+#: ../functions/admin/it-options.php:615
+msgid "Overlay Type"
+msgstr ""
+
+#: ../functions/admin/it-options.php:618
+msgid "Color gradient overlays"
+msgstr ""
+
+#: ../functions/admin/it-options.php:619
+msgid "Flat black overlays"
+msgstr ""
+
+#: ../functions/admin/it-options.php:640 ../functions/admin/it-options.php:688
+#: ../functions/admin/it-options.php:1172
+#: ../functions/admin/it-options.php:1286
+#: ../functions/admin/it-options.php:1418
+msgid "Category"
+msgstr ""
+
+#: ../functions/admin/it-options.php:641
+msgid ""
+"Choose a category to use to populate the boxes. Only posts within this "
+"category will be shown. You can combine a tag and a category to further "
+"narrow down the boxes. Leave both category and tag blank to use latest posts."
+msgstr ""
+
+#: ../functions/admin/it-options.php:648
+msgid ""
+"Choose a tag to use to populate the boxes. Only posts with this tag will be "
+"shown. You can combine a tag and a category to further narrow down the "
+"boxes. Leave both category and tag blank to use latest posts."
+msgstr ""
+
+#: ../functions/admin/it-options.php:655
+#: ../functions/admin/option-generator.php:1641
+msgid "Exclusive! Headline"
+msgstr ""
+
+#: ../functions/admin/it-options.php:656
+msgid "The bar that displays one article in a bold format."
+msgstr ""
+
+#: ../functions/admin/it-options.php:662
+msgid "Disable the headline by default"
+msgstr ""
+
+#: ../functions/admin/it-options.php:663
+msgid ""
+"This disables the headline but causes it to be opt in, meaning you can "
+"enable it in other areas of the theme and it will override this setting "
+"(such as for a specific minisite or for archive pages)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:669
+msgid "Completely disable the headline"
+msgstr ""
+
+#: ../functions/admin/it-options.php:670
+msgid ""
+"This globally disables the headline, even if you have it turned on in other "
+"areas of the theme (such as for a specific minisite or for archive pages)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:674 ../functions/admin/it-options.php:728
+msgid "Top label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:675
+msgid "This is the main label that displays to the left of the article."
+msgstr ""
+
+#: ../functions/admin/it-options.php:681 ../functions/admin/it-options.php:735
+msgid "Bottom label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:682
+msgid ""
+"This is the label that displays to the left of the article underneath the "
+"top label."
+msgstr ""
+
+#: ../functions/admin/it-options.php:689
+msgid ""
+"Choose one of your categories to use for the headline, or leave blank to use "
+"a different method."
+msgstr ""
+
+#: ../functions/admin/it-options.php:695
+#: ../functions/admin/it-options.php:1425
+msgid "Use Tag Instead"
+msgstr ""
+
+#: ../functions/admin/it-options.php:696
+msgid ""
+"Choose one of your tags to use for the headline, or leave blank to use a "
+"different method."
+msgstr ""
+
+#: ../functions/admin/it-options.php:702
+msgid "Disable \"Full Story\""
+msgstr ""
+
+#: ../functions/admin/it-options.php:704
+msgid "Disable the full story link on the right"
+msgstr ""
+
+#: ../functions/admin/it-options.php:709
+#: ../functions/admin/option-generator.php:1641
+msgid "Connect"
+msgstr ""
+
+#: ../functions/admin/it-options.php:710
+msgid ""
+"The bar that displays the email signup, social counts, and social badges"
+msgstr ""
+
+#: ../functions/admin/it-options.php:716
+msgid "Disable the connect bar by default"
+msgstr ""
+
+#: ../functions/admin/it-options.php:717
+msgid ""
+"This disables the connect bar but causes it to be opt in, meaning you can "
+"enable it in other areas of the theme and it will override this setting "
+"(such as for a specific minisite or for archive pages)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:723
+msgid "Completely disable the connect bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:724
+msgid ""
+"This globally disables the connect bar, even if you have it turned on in "
+"other areas of the theme (such as for a specific minisite or for archive "
+"pages)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:729
+msgid "This is the main label that displays to the left of the connect bar."
+msgstr ""
+
+#: ../functions/admin/it-options.php:736
+msgid ""
+"This is the label that displays to the left of the connect bar underneath "
+"the top label."
+msgstr ""
+
+#: ../functions/admin/it-options.php:742
+msgid "Disable Email Signup"
+msgstr ""
+
+#: ../functions/admin/it-options.php:744
+msgid "Disable the email signup form right of the main label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:748
+msgid "Email label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:749
+msgid "This is the placeholder text that displays in the email singup textbox."
+msgstr ""
+
+#: ../functions/admin/it-options.php:755
+msgid "Disable Social Counts"
+msgstr ""
+
+#: ../functions/admin/it-options.php:757
+msgid "Disable the social counts right of the email singup"
+msgstr ""
+
+#: ../functions/admin/it-options.php:761
+msgid "Disable Social Badges"
+msgstr ""
+
+#: ../functions/admin/it-options.php:763
+msgid "Disable the social badges at the very right of the connect bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:780
+msgid "Archive Layout"
+msgstr ""
+
+#: ../functions/admin/it-options.php:781
+msgid ""
+"This includes all category, tag, and date listing archive pages as well as "
+"search results listings."
+msgstr ""
+
+#: ../functions/admin/it-options.php:852
+msgid "Page Layout"
+msgstr ""
+
+#: ../functions/admin/it-options.php:853
+msgid ""
+"All standard pages created in WordPress, including author listing and 404 "
+"pages."
+msgstr ""
+
+#: ../functions/admin/it-options.php:923
+#: ../functions/admin/it-options.php:1102
+#: ../functions/admin/it-options.php:1464
+#: ../functions/admin/it-options.php:1782
+msgid "Disable Sticky Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:931
+msgid "Disable the logo bar for all standard pages only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:943
+#: ../functions/admin/it-options.php:1802
+#: ../functions/admin/it-options.php:2538
+#: ../functions/admin/it-options.php:2578
+#: ../functions/admin/it-options.php:3095
+msgid "You can specify a layout with or without a sidebar."
+msgstr ""
+
+#: ../functions/admin/it-options.php:955
+msgid "The default featured image size for all standard pages only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:967
+#: ../functions/admin/it-options.php:1850
+msgid "Disable View Count"
+msgstr ""
+
+#: ../functions/admin/it-options.php:969
+msgid "Disable the view count for all standard pages only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:973
+#: ../functions/admin/it-options.php:1856
+#: ../functions/admin/it-options.php:3143
+#: ../functions/admin/it-options.php:3295
+msgid "Disable Like Button"
+msgstr ""
+
+#: ../functions/admin/it-options.php:975
+msgid "Disable the like button for all standard pages only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:979
+#: ../functions/admin/it-options.php:1862
+msgid "Disable Comment Count"
+msgstr ""
+
+#: ../functions/admin/it-options.php:981
+msgid "Disable the comment count for all standard pages only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:985
+msgid "Enable Comments"
+msgstr ""
+
+#: ../functions/admin/it-options.php:987
+msgid "Enable comments on regular pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:992
+msgid "Author Listing Page"
+msgstr ""
+
+#: ../functions/admin/it-options.php:993
+msgid "These settings apply to any page given the Author Listing page template"
+msgstr ""
+
+#: ../functions/admin/it-options.php:997
+msgid "Enable Admins"
+msgstr ""
+
+#: ../functions/admin/it-options.php:999
+msgid "Allow the admin user role to display in the list"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1003
+msgid "Hide Empty"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1005
+msgid "Hide authors with zero posts"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1009
+msgid "Manual Exclude"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1010
+msgid "Enter a comma-separated list of usernames to exclude"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1016
+msgid "User Role"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1017
+msgid "Select a user role to display"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1023
+msgid "Order"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1024
+msgid "Select how to order the list"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1031
+msgid "Minisite Directory Layout"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1032
+msgid ""
+"These settings apply to any page given the Minisite Directory page template"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1110
+msgid "Disable the logo bar for all directory pages only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1121
+#: ../functions/admin/it-options.php:3410
+msgid "Unique Sidebar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1123
+msgid "Use the Minisite Directory Sidebar instead of the Loop Sidebar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1141
+msgid "Featured Slider"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1142
+msgid ""
+"The carousel that displays a large window scrolling between featured posts "
+"and a side-scroller to the right."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1148
+#: ../functions/admin/it-options.php:1309
+#: ../functions/admin/it-options.php:1357
+#: ../functions/admin/it-options.php:1406
+msgid "Disable the slider by default"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1149
+#: ../functions/admin/it-options.php:1310
+#: ../functions/admin/it-options.php:1358
+#: ../functions/admin/it-options.php:1407
+msgid ""
+"This disables the slider but causes it to be opt in, meaning you can enable "
+"it in other areas of the theme and it will override this setting (such as "
+"for a specific minisite or for archive pages)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1155
+#: ../functions/admin/it-options.php:1316
+#: ../functions/admin/it-options.php:1364
+#: ../functions/admin/it-options.php:1413
+msgid "Completely disable the slider"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1156
+#: ../functions/admin/it-options.php:1317
+#: ../functions/admin/it-options.php:1365
+#: ../functions/admin/it-options.php:1414
+msgid ""
+"This globally disables the slider, even if you have it turned on in other "
+"areas of the theme (such as for a specific minisite or for archive pages)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1161
+#: ../functions/admin/it-options.php:3019
+msgid ""
+"There are three available layouts, the full-width layout completely hides "
+"the side scroller."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1173
+msgid ""
+"Choose one of your categories to use for the featured slider. Only posts "
+"from this category will be shown."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1180
+msgid ""
+"Choose one of your tags to use for the featured slider. Only posts with this "
+"tag will be shown."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1186
+#: ../functions/admin/it-options.php:1391
+#: ../functions/admin/it-options.php:1432
+#: ../functions/admin/meta-directory.php:63
+msgid "Number of Posts"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1187
+#: ../functions/admin/it-options.php:1392
+#: ../functions/admin/it-options.php:1433
+msgid "The number of total posts to display in the carousel."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1193
+msgid "Interval"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1194
+msgid ""
+"The number of seconds to display each item in the carousel before rotating."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1200
+msgid "Transition"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1201
+msgid "The effect used to transition from one slide to the next"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1207
+msgid "Disable Timer"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1209
+msgid "Hide the timer bar at the bottom of the carousel"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1210
+msgid ""
+"The timer is the white progressing bar at the bottom of the carousel that "
+"indicates the time left for the current post."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1214
+#: ../functions/admin/it-options.php:1439
+#: ../functions/admin/it-options.php:1593
+msgid "Disable Rating"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1216
+msgid "Hide the rating (if one exists)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1220
+msgid "Disable Category"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1222
+msgid "Hide the category/minisite icon"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1226
+msgid "Disable Meta"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1228
+msgid "Hide the likes/views/comments"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1232
+#: ../functions/admin/it-options.php:1445
+#: ../functions/admin/it-options.php:1543
+msgid "Disable Award"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1234
+msgid "Hide the award (if article has an award)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1238
+msgid "Disable Caption Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1240
+msgid "Hide the \"Featured\" caption label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1244
+msgid "Top Caption label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1245
+msgid ""
+"Text that displays at the top right of the featured slider. Default is "
+"\"Featured\"."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1251
+msgid "Disable Top Caption"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1253
+msgid "Completely disable the top caption bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1257
+#: ../functions/admin/it-options.php:3050 ../functions/admin/meta-page.php:34
+msgid "Disable Title"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1259
+msgid "Hide the article title"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1263
+msgid "Disable Video"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1265
+msgid "If this article has a featured video, do not display it in the slider"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1269
+msgid "Video Style"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1271
+msgid ""
+"When the featured video is underneath the captions the user cannot interact "
+"with the video itself which is why autoplay is turned on. When it is the top "
+"most layer the user can freely interact with it so autoplay is turned off."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1273
+msgid "On top of captions with autoplay turned off"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1274
+msgid "Underneath captions with autoplay turned on"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1281
+msgid "Featured Sidecar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1282
+msgid "The vertically scrolling carousel to the right of the featured slider."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1287
+msgid ""
+"Choose one of your categories to use. Only posts from this category will be "
+"shown."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1294
+msgid "Choose one of your tags to use. Only posts with this tag will be shown."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1302
+msgid "Top Ten Slider"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1303
+msgid "The horizontally scrolling top ten slider."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1321
+#: ../functions/admin/it-options.php:1369
+#: ../functions/shortcodes/labels.php:13
+msgid "Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1322
+msgid ""
+"You can overwrite the \"Top 10\" label that displays by default next to the "
+"selector drop down filter."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1328
+#: ../functions/admin/it-options.php:1383
+msgid "Time Period"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1329
+msgid "Limit posts in the Top Ten slider to this time period."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1336
+msgid "Disable Filter Options"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1337
+msgid "You can disable individual filter options."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1350
+msgid "Trending Slider"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1351
+msgid "The horizontally scrolling trending slider."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1370
+msgid ""
+"You can overwrite the \"Trending\" label that displays by default next to "
+"the selector drop down filter."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1376
+msgid "Sub-Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1377
+msgid ""
+"You can overwrite the \"Whats Hot\" label that displays by default below the "
+"main label."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1384
+msgid "Limit posts in the Trending slider to this time period."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1399
+msgid "Steam Content"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1400
+msgid ""
+"The carousel that displays posts horizontally with right and left navigation "
+"arrows."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1419
+msgid ""
+"Choose one of your categories to use for the carousel, or leave blank to use "
+"a different method."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1426
+msgid ""
+"Choose one of your tags to use for the carousel, or leave blank to use a "
+"different method."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1441
+msgid "Do not show the rating in the bottom right corner"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1447
+msgid "Do not show the award in the top right corner"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1472
+msgid "Disable the logo bar on post loop pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1483
+msgid "Control Bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1484
+msgid "The title and filter buttons at the top of the post loop."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1488
+msgid "Title Text"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1489
+msgid "This is the title text that will display in the control bar."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1495
+#: ../functions/admin/it-options.php:3056
+msgid "Disable Filtering"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1497
+msgid "Disable the filter buttons"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1498
+msgid "This will disable the filter buttons for all post loops"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1502
+msgid "Disable Filter Buttons"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1503
+msgid "You can disable individual filter buttons."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1516
+msgid "Disable Filter Tooltips"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1518
+msgid "Disable the filter button tooltips"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1519
+msgid ""
+"This will disable the tooltips that display when you hover over the filter "
+"buttons"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1523
+msgid "Articles"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1524
+msgid "Main settings for the articles and layout for the loop."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1529
+#: ../functions/admin/it-options.php:3063
+msgid ""
+"You can select between four main layouts: grid style with and without "
+"sidebar, and list style with and without sidebar."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1545
+msgid "Awards will only display on single post pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1549
+msgid "Disable Badges"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1551
+msgid "Badges will only display on single post pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1555
+msgid "Disable Authorship"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1557
+msgid "The author and date of the post"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1561
+msgid "Disable Excerpt"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1563
+msgid "Only the title will display, no excerpt"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1564
+msgid ""
+"It is helpful to hide this if you have a lot of badges and awards you want "
+"to display for your posts in order to present a cleaner layout to the user"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1568
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1569
+msgid ""
+"Leave blank for default excerpt lengths. Or, specify your desired excerpt "
+"length in characters (not words). Only applies to excerpts used in post "
+"loops (grid and list views). Default is 520 for grid layout and 800 for list "
+"layout."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1574
+msgid "Disable Likes"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1576
+msgid "Likes will only display on single post pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1580
+#: ../functions/admin/it-options.php:3137
+msgid "Disable Views"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1582
+msgid "Views will only display on single post pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1586
+#: ../functions/admin/it-options.php:1955
+#: ../functions/admin/it-options.php:3150
+msgid "Disable Comments"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1588
+msgid "Comments will only display on single post pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1589
+msgid ""
+"The number of comments will not display in the main loop. Keep in mind the "
+"comments will automatically be hidden if there are no comments for the post "
+"even if this option is unselected."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1595
+msgid "Ratings will only display on single post pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1599
+msgid "Disable All Meta Info"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1601
+msgid "Disregard above options and disable entire meta bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1602
+msgid ""
+"The bar at the bottom of each post in the loop containing the views, likes, "
+"date, rating, etc. will be completely hidden."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1606
+msgid "Show Featured Videos"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1608
+msgid "Show featured videos in place of images"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1609
+msgid ""
+"When the post has a featured video assigned, display it instead of the "
+"featured image."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1613
+msgid "Show Video Controls"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1615
+msgid "Show video controls for featured videos (youtube only)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1616
+msgid ""
+"When the slide has a featured video, display the controls at the bottom of "
+"the video (only applies to Youtube videos)."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1621
+msgid "Pagination"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1622
+msgid "The page number buttons and navigation that appear below the post loop."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1626
+msgid "Range"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1627
+msgid ""
+"The number of pages to display to the right and left of the current page. "
+"Setting this to 3 for example will result in 7 total possible page number "
+"buttons generated (3 on the left, 3 on the right, plus the current page) in "
+"addition to the arrow navigation (if enabled)."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1634
+msgid "Range (Mobile)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1635
+msgid ""
+"You can set a different range for mobile views so that the pagination fits "
+"into one row. If you want the pagination to fit into one row set this to 2."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1642
+msgid "Disable Prev/Next Navigation"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1644
+msgid "Hide the next and previous navigation arrows."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1645
+msgid ""
+"These arrows display on the right and left of the pagination. They do not "
+"navigate to the next and previous pages, but rather the next and previous "
+"blocks of page numbers. For instance, if the range is set to 6 the next "
+"arrow will increase the current page 8 slots (range + current page + 1)."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1649
+msgid "Disable First/Last Navigation"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1651
+msgid "Hide the first and last navigation arrows."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1652
+msgid ""
+"These arrows display on the right and left of the pagination and they are "
+"used for quickly navigating to the first or last page."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1657
+msgid "Limit Posts"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1658
+msgid ""
+"Instead of displaying all posts in the loop you can limit to or exclude "
+"certain posts based on categories, tags, and minisites."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1662
+msgid "Limit To Category"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1663
+msgid ""
+"Choose a category to use to populate the post loop. Only posts within this "
+"category will be shown."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1669
+msgid "Limit To Tag"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1670
+msgid ""
+"Choose a tag to use to populate the post loop. Only posts within this tag "
+"will be shown."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1676
+msgid "Exclude Category"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1677
+msgid ""
+"Exclude this category from the post loop. Posts within this category will "
+"not be shown."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1683
+msgid "Exclude Tag"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1684
+msgid ""
+"Exclude this tag from the post loop. Posts within this tag will not be shown."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1690
+msgid "Exclude Minisite(s)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1691
+msgid ""
+"Exclude selected minisites from the post loop. Posts within these minisites "
+"will not be shown."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1711
+msgid ""
+"You can build out the layout of single article pages just like you can with "
+"other areas of the site."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1790
+msgid "Disable the logo bar for all single articles"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1801
+#: ../functions/admin/it-options.php:3094
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1814
+msgid "The default featured image size for all standard posts only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1827
+msgid "Components"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1828
+msgid "Show/hide various components on the single article pages."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1832
+#: ../functions/admin/it-options.php:3119
+msgid "Disable Post Navigation"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1834
+#: ../functions/admin/it-options.php:3121
+msgid "Hide the post navigation at the top of each single article"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1838
+msgid "Disable Post Nav Random"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1840
+msgid "Hide the random button within the post navigation."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1844
+#: ../functions/admin/it-options.php:3157
+msgid "Disable Date/Author"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1846
+msgid "Disable the post date and author for all standard posts only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1852
+msgid "Disable the view count for all standard posts only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1858
+msgid "Disable the like button at the top of the post"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1864
+msgid "Disable the comment count for all standard posts only"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1868
+msgid "Disable Lightbox Effect"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1870
+msgid "Disable the lightbox when clicking on featured image/galleries"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1874
+msgid "Lightbox Slideshow"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1876
+msgid "Gallery lightboxes should behave as a slideshow"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1880
+msgid "Disable Post Info Box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1882
+msgid "Disable the post info area (tags, categories, author info...)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1886
+msgid "Disable Bottom Like Button"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1888
+msgid "Disable the like button in the post info box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1892
+#: ../functions/admin/it-options.php:3301
+msgid "Disable Categories"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1894
+msgid "Disable the category list in the post info box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1898
+#: ../functions/admin/it-options.php:3307
+msgid "Disable Tags"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1900
+msgid "Disable the tag list in the post info box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1904
+#: ../functions/admin/it-options.php:3313
+msgid "Disable Author Info"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1906
+msgid "Disable the author information in the post info box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1910
+#: ../functions/admin/it-options.php:3319
+msgid "Disable Recommended"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1912
+msgid "Disable the recommended posts section"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1916
+#: ../functions/admin/it-options.php:3325
+msgid "Recommended Method"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1918
+#: ../functions/admin/it-options.php:3327
+msgid ""
+"For the \"Same tags OR same categories\" method, use the \"Number of "
+"Recommended Filters\" option below to set how many of EACH will display, "
+"rather than how many TOTAL as is applied to the rest of the methods. So "
+"setting this to \"2\" will cause the first two tags and the first two "
+"categories to display, resulting in four total filters."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1920
+#: ../functions/admin/it-options.php:3329
+msgid "Same tags"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1921
+#: ../functions/admin/it-options.php:3330
+msgid "Same categories"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1922
+#: ../functions/admin/it-options.php:3331
+msgid "Same tags OR same categories (tags will appear first in order)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1928
+#: ../functions/admin/it-options.php:3340
+msgid "Recommended Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1929
+#: ../functions/admin/it-options.php:3341
+msgid "The title text to display in the title of the recommended section"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1935
+#: ../functions/admin/it-options.php:3347
+msgid "Number of Recommended Filters"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1936
+#: ../functions/admin/it-options.php:3348
+msgid "The number of filter buttons to display in the recommended filter bar."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1942
+#: ../functions/admin/it-options.php:3354
+msgid "Disable Recommended Filters"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1944
+#: ../functions/admin/it-options.php:3356
+msgid "Disable the filter buttons from the recommended section"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1948
+#: ../functions/admin/it-options.php:3360
+msgid "Number of Recommended Posts"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1949
+#: ../functions/admin/it-options.php:3361
+msgid "The number of total posts to display in the recommended section."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1957
+msgid "Disable the comments (useful for Facebook comment plugins)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1974
+msgid ""
+"Create your minisites here. When you add, edit, or delete minisites, click "
+"Confirm Minisites in order to see the changes reflected in the control panel "
+"main menu on the left. IMPORTANT: for detailed information about names and "
+"slugs of minisites please view the theme documentation."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1980
+msgid "Legacy"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1981
+msgid ""
+"This will cause your review types and taxonomies that you created using Made "
+"or Swagger to remain prefixed in such a way that Steam recognizes them. You "
+"must click Confirm Minisites if you change this setting in order for it to "
+"be applied."
+msgstr ""
+
+#: ../functions/admin/it-options.php:1983
+msgid "Turn on if you are upgrading from either Made or SwagMag"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1988
+msgid "Standard Permalink Method"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1989
+msgid ""
+"Selecting this will cause the permalinks of your minisite articles to work "
+"the same as normal WordPress posts, meaning the name of the minisite will "
+"not be included in the URL before the name of the post (only applies to non-"
+"default permalinks structure). You should refresh your permalinks after "
+"changing this option (go to Settings >> Permalinks and click Save)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:1991
+msgid "Do not include the name of the minisite in the URL"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2008
+msgid "Create New Sidebar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2009
+msgid ""
+"You can create additional sidebars to use. To display your new sidebar then "
+"you will need to select it in the &quot;Custom Sidebar&quot; dropdown when "
+"editing a post or page."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2027
+msgid "Create New Signoff"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2028
+msgid ""
+"You can create an unlimited number of signoff text areas and then choose the "
+"one you want to use for each post."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2046
+msgid "Header Ad"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2047
+msgid "Displays to the right of the logo in the main site header."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2053
+msgid "Footer Ad"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2054
+msgid ""
+"Displays above the dark footer container but below the main content wrapper."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2060
+#: ../functions/admin/it-options.php:3422
+msgid "Background Ad URL"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2061
+#: ../functions/admin/it-options.php:3423
+msgid ""
+"The URL to direct the user to when they click anywhere on the background. "
+"Leave this blank to disable it. For the image to use for the ad, use the "
+"page background image URL options."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2067
+#: ../functions/admin/it-options.php:3045
+msgid "Post Loops"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2068
+msgid ""
+"These ads will get injected into your post loops (article listing pages)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2072
+msgid "AJAX Ads"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2073
+msgid ""
+"You should turn this off if you are using an ad vendor that does not allow "
+"ads to display on dynamically-generated pages such as Google Adsense."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2075
+msgid "Display ads on AJAX (dynamically-loaded) pages."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2081
+msgid "Shuffle the display of the ads"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2085
+msgid "Number of Ads"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2086
+msgid ""
+"The total number of ads to display in the loop regardless of how many ad "
+"slots are filled out below"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2092
+msgid "Increment"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2093
+msgid ""
+"Display an ad every Nth post. For instance, if \"3\" is selected, every 3rd "
+"post will be an ad."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2100
+msgid "Off-set"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2101
+msgid "Number of posts to display before the first ad appears"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2107
+#: ../functions/admin/it-options.php:2114
+#: ../functions/admin/it-options.php:2120
+#: ../functions/admin/it-options.php:2126
+#: ../functions/admin/it-options.php:2132
+#: ../functions/admin/it-options.php:2138
+#: ../functions/admin/it-options.php:2144
+#: ../functions/admin/it-options.php:2150
+#: ../functions/admin/it-options.php:2156
+#: ../functions/admin/it-options.php:2162
+msgid "Ad Slot"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2108
+msgid "Enter the HTML for the ad here"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2183
+msgid "You can select any type of layout you want for the footer columns."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2221
+msgid "Disable Footer"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2223
+msgid "Completely disable the entire footer area"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2227
+msgid "Copyright Text"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2228
+msgid ""
+"This will overwrite the default automatic copyright text in the left of the "
+"subfooter."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2235
+msgid "Credits Text"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2236
+msgid ""
+"This will overwrite the default automatic credits text in the right of the "
+"subfooter."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2243
+msgid "Disable Subfooter"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2245
+msgid "Disable the subfooter area which holds the copyright info"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2262
+msgid "Feedburner Feed ID"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2263
+msgid ""
+"Necessary for the newsletter signup form to function properly. This article "
+"explains how to find your feedburner feed name: http://netprofitstoday.com/"
+"blog/how-to-find-your-feedburner-id/"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2271
+msgid "RSS Feed URL"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2272
+msgid "Necessary to connect an RSS button to your actual RSS feed URL."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2280
+msgid "Twitter Username"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2281
+msgid "Not a full URL, just your Twitter username."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2289
+msgid "Pinterest User URL"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2290
+msgid "The URL for your user profile on Pinterest"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2298
+msgid "Google+ Profile URL"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2299
+msgid ""
+"Your actual Google+ profile URL. This is the link users are taken to when "
+"they click on the Google+ social count."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2307
+msgid "Youtube User ID"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2308
+msgid ""
+"To find your ID, sign in to YouTube and check your Advanced Account Settings "
+"page. You will see your ID listed in the Account Information section."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2316
+msgid "Facebook Widget Settings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2317
+msgid "These settings apply to the Facebook tab in the Social Tabs widget."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2322
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2323
+msgid "The URL of your Facebook page"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2331
+msgid "Color Scheme"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2332
+msgid ""
+"Light is better for light backgrounds, dark is better for dark backgrounds"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2335
+msgid "Light"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2336
+msgid "Dark"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2342
+msgid "Show Faces"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2344
+msgid "Show profile photos at the bottom"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2349
+msgid "Show Stream"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2351
+msgid "Show the profile stream for the public profile"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2356
+msgid "Show Header"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2358
+msgid "Show the \"Find us on Facebook\" bar at the top"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2359
+msgid "Note: this only displays if either the stream or faces are displayed."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2364
+msgid "Border Color"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2365
+msgid "The color of the borders around the Like Box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2371
+msgid "Twitter Widget Settings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2372
+msgid "These settings apply to the Twitter tab in the Social Tabs widget."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2376
+msgid "Twitter Widget Code"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2377
+msgid ""
+"Go to https://twitter.com/settings/widgets and create a new widget. Then put "
+"the generated widget code into this box."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2384
+msgid "Flickr Widget Settings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2385
+msgid "These settings apply to the Flickr tab in the Social Tabs widget."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2390
+msgid "Flickr Account ID"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2391
+msgid ""
+"Your Flickr Account ID. Use this service to find it: http://idgettr.com/"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2399
+msgid "Number of Photos"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2400
+msgid "The number of photos to display in the widget."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2407
+#: ../functions/admin/it-options.php:2413
+#: ../functions/admin/it-options.php:2414
+msgid "Social Badges"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2408
+msgid ""
+"These social badges appear in the \"Connect\" content panel (available via "
+"the page builders)."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2432
+msgid "Custom Admin Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2433
+msgid "Upload an image to replace the default Steam logo."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2438
+msgid "Disable Image Sizes"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2439
+msgid ""
+"If you are not using an image size anywhere in your theme and you want to "
+"block WordPress from creating an additional image for that size, you can "
+"selectively turn off creation of these images here."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2442
+msgid "Tiny - mega menus, small format post loops, recommended, etc."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2443
+msgid "Small - used primarily in widget post loops"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2444
+msgid "Post Loops (careful, you are likely using this size)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2445
+msgid "Short Boxes - used in the Boxes component"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2446
+msgid "Tall Boxes - used in the Boxes component"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2447
+#: ../functions/admin/option-generator.php:1641
+msgid "Steam Scroller"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2448
+msgid "Small Featured Slider"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2449
+msgid "Medium Featured Slider"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2450
+msgid "Large Featured Slider"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2451
+msgid "Featured Slider Sidecar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2452
+msgid "Small Single Post/Page Featured Image"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2453
+msgid "Medium Single Post/Page Featured Image"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2454
+msgid "Large Single Post/Page Featured Image"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2455
+msgid "Full-Width Single Post/Page Featured Image"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2460
+msgid "Import Options"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2461
+msgid "Copy your export code here to import your theme settings."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2466
+msgid "Export Options"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2467
+msgid ""
+"When moving your site to a new Wordpress installation you can export your "
+"theme settings here."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2473
+msgid "Demo Panel"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2474
+msgid ""
+"This is for theme preview purposes only and allows users to manipulate "
+"select parts of the style from the front-end."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2476
+msgid "Show the demo settings toggle panel"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2488
+msgid "Turn Off Unique Views"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2489
+msgid ""
+"This turns off the ip address check so that every time a page is accessed "
+"the view count increments by one."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2491
+msgid "Post views will increment on every page view"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2496
+msgid "Allow Unlimited User Ratings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2497
+msgid ""
+"This is only for development/testing purposes and will continually add user "
+"ratings and re-average the total score each time a user rates a criteria."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2499
+msgid "TESTING PURPOSES ONLY"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2504
+msgid "Integrated Custom Post Types"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2505
+msgid ""
+"Add a list of comma-separated custom post types here in order to retain the "
+"pre_get_posts minisite injection when viewing the custom post type. For "
+"instance if you are using WooCommerce and you are viewing your shop and "
+"product archive pages and you want the sliders and widgets to include your "
+"minisites, you would need to add the WooCommerce custom post type to this "
+"list (WooCommerce uses \"product\" as the custom post type for reference - "
+"no quotes)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2527
+msgid ""
+"These settings apply to all WooCommerce related pages. These settings can be "
+"overwritten on a per-page basis in the page layout options if needed."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2531
+msgid "Disable Breadcrumbs"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2533
+msgid "Disable the breadcrumb navigation from all woocommerce pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2549
+msgid "Use \"WooCommerce\" Sidebar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2551
+msgid "Use the \"WooCommerce\" instead of the \"Page\" sidebar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2573
+msgid ""
+"These settings apply to all BuddyPress related pages. These settings can be "
+"overwritten on a per-page basis in the page layout options if needed."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2589
+msgid "Use \"BuddyPress\" Sidebar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2591
+msgid "Use the \"BuddyPress\" instead of the \"Page\" sidebar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2595
+msgid "Force WordPress Registration"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2597
+msgid ""
+"Turn this on if you want to be able to use the registration form in the "
+"sticky bar. Otherwise after registering it will take the user to the "
+"BuddyPress specific registration page and require them to register again."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2598
+msgid "Fall back to WordPress registration instead of BuddyPress"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2627
+msgid "Taxonomies"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2628
+msgid ""
+"A taxonomy is a way of classifying your minisite articles. WordPress comes "
+"with two taxonomies created for you by default: Tags and Categories. But "
+"neither of those are specific to an individual minisite because they can be "
+"assigned to any type of WordPress post. Think of a taxonomy as a minisite-"
+"specific type of grouping mechanism, and you can create as many of them as "
+"you want. A lot of times you will only need one taxonomy (for instance \"Type"
+"\" if your minisite is \"Products\"), but other times you may need more (for "
+"instance \"Genre\", \"Developer\", and \"Platform\" if your minisite is "
+"\"Video Games\"). This is not where you actually create and assign your "
+"various taxonomy items - do that when you are writing your individual "
+"articles. If you are not clear on how to use a taxonomy, take a quick look "
+"at the Codex article: http://codex.wordpress.org/Taxonomies."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2641
+msgid ""
+"Details are additional descriptive data about the article that you want to "
+"list in the overview area. They are different than Taxonomies because they "
+"are not so much classification data as they are describing data. For "
+"instance, if you were writing an article on a movie, a taxonomy might be "
+"Director and a detail might be Plot Synopsis, because a director can be "
+"assigned to multiple movies but a plot synopsis is descriptive only for a "
+"single movie. You can of course dchoose how to use Taxonomies and Details "
+"however you want for your articles, these are just suggestions to help you "
+"understand the difference between them. It is completely up to you."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2653
+msgid "Ratings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2654
+msgid ""
+"These settings dictate how you want to rate the articles within this "
+"minisite, if at all. Each minisite can have unique rating options, but "
+"articles within a minisite all must share the same rating options."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2659
+msgid "Rating Metric"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2660
+msgid "The type of rating metric to use for this minisite"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2663
+msgid "Stars"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2664
+msgid "Numbers"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2665
+msgid "Percentages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2666
+msgid "Letter Grades"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2673
+msgid "Rating Criteria (automatically averaged into the total score)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2680
+msgid "Disable Editor Ratings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2681
+msgid ""
+"This will disable the editor ratings from appearing anywhere in this "
+"minisite."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2683
+msgid "Do not use editor ratings at all"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2689
+msgid "Disable User Ratings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2690
+msgid ""
+"This will disable the user rating from appearing anywhere in this minisite."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2692
+msgid "Do not use user ratings at all"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2698
+msgid "Hide Editor Ratings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2699
+msgid ""
+"This should be used if you DO want to use editor ratings but ONLY want them "
+"to be visible on the full review page."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2701
+msgid "Hides editor rating from image overlays"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2707
+msgid "Hide User Ratings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2708
+msgid ""
+"This should be used if you DO want to use user ratings but ONLY want them to "
+"be visible on the full review page."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2710
+msgid "Hides user rating from image overlays"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2716
+msgid "Disable Color Ranges"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2717
+msgid ""
+"This will disable the various background colors used for each color range."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2719
+msgid "Do not use background color ranges"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2725
+msgid "Awards & Badges"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2726
+msgid ""
+"Each minisite has its own unique award system. Create the award here and "
+"then it will be selectable to assign to your articles on the article edit "
+"screen."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2739
+msgid "The look and feel of this minisite."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2757
+msgid "Disable Header Ad"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2759
+msgid "Hide the ad from the logo bar."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2763
+msgid "Minisite Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2764
+msgid "Upload an image to use as your logo."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2785
+msgid "HD Minisite Logo"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2786
+msgid ""
+"Upload an image to use as your logo for use on HD (hiDPI/retina) displays."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2792
+msgid ""
+"Upload an image to use as the logo in your sticky bar. If you leave this "
+"blank it will use the main minisite logo."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2814
+msgid ""
+"Upload an image to use as the logo in your sticky bar for retina displays. "
+"If you leave this blank it will use the main HD minisite logo."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2819
+#: ../functions/admin/option-generator.php:1364
+msgid "Icon (16px)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2820
+msgid ""
+"Choose a 16px by 16px square image to use as the main icon for this minisite."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2825
+#: ../functions/admin/option-generator.php:1375
+msgid "HD Icon (32px)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2826
+msgid ""
+"Choose a 32px by 32px square image to use as the main icon for this minisite "
+"on HD (hiDPI/retina) displays."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2831
+#: ../functions/admin/option-generator.php:1386
+msgid "Optional White Icon (16px)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2832
+msgid ""
+"Optional white version of the 16px icon for use in places with a dark "
+"background such as the featured slider. If you leave this blank the icon "
+"above will be used."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2837
+#: ../functions/admin/option-generator.php:1397
+msgid "Optional White HD Icon (32px)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2838
+msgid ""
+"Optional white version of the 32px icon for use in places with a dark "
+"background such as the featured slider. If you leave this blank the icon "
+"above will be used."
+msgstr ""
+
+#: ../functions/admin/it-options.php:2843 ../functions/admin/meta-page.php:60
+#: ../functions/admin/meta-post.php:54
+msgid "Background Color"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2844
+msgid "Use a specific background color for this minisite"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2849 ../functions/admin/meta-page.php:66
+#: ../functions/admin/meta-post.php:60
+msgid "Override Site Background"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2850
+msgid ""
+"This is useful if you have an image as your main site background but you "
+"want this color to show instead for this minisite"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2852 ../functions/admin/meta-page.php:69
+#: ../functions/admin/meta-post.php:63
+msgid "Display this color instead of your main site background image"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2856 ../functions/admin/meta-page.php:73
+#: ../functions/admin/meta-post.php:67
+msgid "Background Image"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2857
+msgid "Use an image for the background of this minisite"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2862 ../functions/admin/meta-page.php:79
+#: ../functions/admin/meta-post.php:73
+msgid "Background Position"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2865 ../functions/admin/meta-page.php:83
+#: ../functions/admin/meta-post.php:77 ../functions/shortcodes/tabs.php:25
+msgid "Left"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2866 ../functions/admin/meta-page.php:84
+#: ../functions/admin/meta-post.php:78
+msgid "Center"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2867 ../functions/admin/meta-page.php:85
+#: ../functions/admin/meta-post.php:79 ../functions/shortcodes/tabs.php:26
+msgid "Right"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2873 ../functions/admin/meta-page.php:91
+#: ../functions/admin/meta-post.php:85
+msgid "Background Repeat"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2876 ../functions/admin/meta-page.php:95
+#: ../functions/admin/meta-post.php:89
+msgid "No Repeat"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2877 ../functions/admin/meta-page.php:96
+#: ../functions/admin/meta-post.php:90
+msgid "Tile"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2878 ../functions/admin/meta-page.php:97
+#: ../functions/admin/meta-post.php:91
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2879 ../functions/admin/meta-page.php:98
+#: ../functions/admin/meta-post.php:92
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2885 ../functions/admin/meta-page.php:104
+#: ../functions/admin/meta-post.php:98
+msgid "Background Attachment"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2888 ../functions/admin/meta-page.php:108
+#: ../functions/admin/meta-post.php:102
+msgid "Scroll"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2889 ../functions/admin/meta-page.php:109
+#: ../functions/admin/meta-post.php:103
+msgid "Fixed"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2928
+msgid "Front Page Layout"
+msgstr ""
+
+#: ../functions/admin/it-options.php:2929
+msgid ""
+"You can build out the front page of the minisite just like you can with the "
+"main site front page"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3000
+msgid "Targeted Content Panels"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3001
+msgid ""
+"This will cause the specified component to display articles from within the "
+"current minisite only. This includes widgets, so if you set Top Ten to be "
+"targeted for instance, both the top ten slider and the top ten widget within "
+"this minisite will be targeted."
+msgstr ""
+
+#: ../functions/admin/it-options.php:3018
+msgid "Featured Slider Layout"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3030
+msgid "Boxes Layout"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3046
+msgid ""
+"Settings that apply to the post loop on the front page and any taxonomy "
+"listing pages within this minisite."
+msgstr ""
+
+#: ../functions/admin/it-options.php:3052
+msgid "Disable the post loop title next to the filtering buttons"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3058
+msgid "Disable the filter buttons in the control bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3078
+msgid "Single Article Pages"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3079
+msgid "Settings that apply to the detail view of a single article"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3083
+msgid "Default Post Type"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3085
+#: ../functions/admin/it-options.php:3165
+#: ../functions/admin/it-options.php:3176
+#: ../functions/admin/it-options.php:3187
+#: ../functions/admin/it-options.php:3198
+msgid ""
+"You can display this panel either above or below the main article content."
+msgstr ""
+
+#: ../functions/admin/it-options.php:3107
+msgid ""
+"The default featured image size for minisite articles (can be overwritten "
+"per article)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3125
+msgid "Disable Minisite Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3127
+msgid "Hide the name of the minisite and icon from the control bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3131
+msgid "Disable Awards"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3133
+msgid "Hide the awards from the control bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3139
+msgid "Hide the view count from the control bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3144
+msgid ""
+"NOTE: This does not hide the like button from the post info box, just the "
+"button at the top"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3146
+msgid "Hide the like button from the top of the article"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3151
+msgid ""
+"NOTE: This does not hide the comment area below the article, just the count "
+"at the top"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3153
+msgid "Hide the comment count from the control bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3159
+msgid "Hide the date and author from the control bar"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3163
+msgid "Details Position"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3167
+#: ../functions/admin/it-options.php:3178
+#: ../functions/admin/it-options.php:3189
+#: ../functions/admin/it-options.php:3200
+msgid "Above the article content"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3168
+#: ../functions/admin/it-options.php:3179
+#: ../functions/admin/it-options.php:3190
+#: ../functions/admin/it-options.php:3201
+msgid "Below the article content"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3174
+msgid "Positives/Negatives Position"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3185
+msgid "Ratings Position"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3196
+msgid "Bottom Line Position"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3208
+msgid "Positives Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3209
+msgid "Used as the title for the positives section"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3215
+msgid "Negatives Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3216
+msgid "Used as the title for the negatives section"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3222
+msgid "Bottom Line Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3223
+msgid "Used as the title for the bottom line section"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3229
+msgid "Total Score Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3230
+msgid "Used as the label for the total editor score"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3236
+msgid "User Score Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3237
+msgid "Used as the label for the total user score"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3243
+msgid "Hide Number of User Ratings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3245
+msgid "Hide number of user ratings next to the total user score label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3250
+msgid "Disable Rating Animations"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3252
+msgid "Hide the slightly darker animation color that slides in from the left"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3257
+msgid "Hide Badges"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3258
+#: ../functions/admin/it-options.php:3266
+#: ../functions/admin/it-options.php:3274
+msgid ""
+"If taxonomies, details, and badges are all hidden the entire details box "
+"will not be displayed"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3260
+msgid "Hide the listing of badges in the details box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3265
+msgid "Hide Taxonomies"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3268
+msgid "Hide the listing of taxonomies in the details box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3273
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3276
+msgid "Hide the listing of details in the details box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3281
+msgid "Details Label"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3282
+msgid ""
+"The title text to display next to the minisite icon in the details section"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3288
+msgid "Hide Post Info Box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3290
+msgid "Hide the post info area (tags, categories, author info...)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3297
+msgid "Hide the like button from the post info box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3303
+msgid "Hide the category list from the post info box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3309
+msgid "Hide the tag list from the post info box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3315
+msgid "Hide the author information from the post info box"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3321
+msgid "Hide the recommended posts section"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3332
+msgid "Same taxonomy terms (all assigned terms from primary taxonomy)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3333
+msgid "Same taxonomy terms (first assigned term from each taxonomy)"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3334
+msgid "Mixed: one tab for tag, category, and each taxonomy"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3367
+msgid "Targeted Recommended"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3369
+msgid "Show only recommended articles from this minisite"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3373
+msgid "Disable Comment Ratings"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3375
+msgid "Do not allow users to rate articles in the comments"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3379
+msgid "Disable Comment Pros/Cons"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3381
+msgid "Do not allow users to enter pros and cons with their comment"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3385
+msgid "Allow Blank Comments"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3386
+msgid ""
+"Use this if you want your users to be able to submit ratings and/or pros/"
+"cons without having to additionally enter standard comment text. Only "
+"applies if user comment ratings are enabled."
+msgstr ""
+
+#: ../functions/admin/it-options.php:3388
+msgid "Allow users to post comments without actual comment text"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3393
+msgid "General"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3394
+msgid "Settings that apply to all areas of the minisite"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3400
+msgid "Disable the top menu for this minisite"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3404
+msgid "Taxonomy Submenu"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3406
+msgid "Display primary taxonomy terms in place of standard submenu"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3412
+msgid "Use minisite-specific sidebars instead of defaults"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3416
+msgid "Disable Frontpage Content"
+msgstr ""
+
+#: ../functions/admin/it-options.php:3418
+msgid "Disable the content on the home page and only show the post loop"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:3
+msgid "Minisite Directory Options"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:11
+msgid "Included Minisites"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:12
+msgid ""
+"Choose which minisites should be included in this review directory page."
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:18
+msgid "List Type"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:21
+msgid "Merged into one list"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:22
+msgid "Separated into multiple lists"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:28
+msgid "List Style"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:31
+msgid "Compact List"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:32
+msgid "Super Compact List"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:33
+msgid "Standard Post Grid"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:34
+msgid "Standard Post List"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:40
+msgid "Order By"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:41
+msgid "Only applies to separated list type."
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:44
+#: ../functions/widgets/widget-all-articles.php:154
+msgid "Recent"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:45
+msgid "Alphabetical"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:46 ../inc/trending.php:81
+msgid "Most Liked"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:47 ../inc/trending.php:93
+msgid "Most Viewed"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:48
+msgid "Highest User Rated"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:49
+msgid "Highest Editor Reviewed"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:50 ../inc/trending.php:87
+msgid "Most Commented"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:51
+#: ../functions/widgets/widget-all-articles.php:178
+msgid "Awarded"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:57
+msgid "Only Display Reviews"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:59
+msgid "Hide posts that do not have ratings associated"
+msgstr ""
+
+#: ../functions/admin/meta-directory.php:64
+msgid ""
+"When the list type is set to merged, this is the number of posts per page. "
+"When the list type is set to separated, this is the total number of posts to "
+"display for each minisite."
+msgstr ""
+
+#: ../functions/admin/meta-page.php:3 ../functions/admin/meta-post.php:10
+msgid "Layout Options"
+msgstr ""
+
+#: ../functions/admin/meta-page.php:12 ../functions/admin/meta-post.php:19
+msgid "You can choose a left, right, or full layout for this specific page"
+msgstr ""
+
+#: ../functions/admin/meta-page.php:23 ../functions/admin/meta-post.php:30
+msgid "You can set the featured image size for this specific page"
+msgstr ""
+
+#: ../functions/admin/meta-page.php:36
+msgid "Do not display the main page title for this page."
+msgstr ""
+
+#: ../functions/admin/meta-page.php:40 ../functions/admin/meta-post.php:41
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../functions/admin/meta-page.php:41
+msgid ""
+"Select the custom sidebar that you'd like to be displayed on this page. "
+"Note: You will need to first create a custom sidebar under the Sidebars tab "
+"in your theme's option panel before it will show up here."
+msgstr ""
+
+#: ../functions/admin/meta-page.php:47
+msgid "Front Page For A Minisite"
+msgstr ""
+
+#: ../functions/admin/meta-page.php:48
+msgid ""
+"This page will be used as the selected minisite's front page. It is not "
+"necessary to enter any content for this page - just a title. You can only "
+"have one front page for each minisite."
+msgstr ""
+
+#: ../functions/admin/meta-page.php:54
+msgid "Subtitle"
+msgstr ""
+
+#: ../functions/admin/meta-page.php:55
+msgid ""
+"You can specify a subtitle for this page which will display in the container "
+"bar above the page title and content."
+msgstr ""
+
+#: ../functions/admin/meta-page.php:61 ../functions/admin/meta-post.php:55
+msgid "Use a specific background color for this page"
+msgstr ""
+
+#: ../functions/admin/meta-page.php:67 ../functions/admin/meta-post.php:61
+msgid ""
+"This is useful if you have an image as your main site background but you "
+"want this color to show instead for this page"
+msgstr ""
+
+#: ../functions/admin/meta-page.php:74 ../functions/admin/meta-post.php:68
+msgid "Use an image for the background of this specific page"
+msgstr ""
+
+#: ../functions/admin/meta-page.php:82 ../functions/admin/meta-page.php:94
+#: ../functions/admin/meta-page.php:107 ../functions/admin/meta-post.php:76
+#: ../functions/admin/meta-post.php:88 ../functions/admin/meta-post.php:101
+msgid "Not Set (use value from theme options)"
+msgstr ""
+
+#: ../functions/admin/meta-post.php:42
+msgid ""
+"Select the custom sidebar that you'd like to be displayed on this page.<br /"
+"><br />Note:  You will need to first create a custom sidebar under the &quot;"
+"Sidebar&quot; tab in your theme's option panel before it will show up here."
+msgstr ""
+
+#: ../functions/admin/meta-post.php:48
+msgid "Featured Video"
+msgstr ""
+
+#: ../functions/admin/meta-post.php:49
+msgid ""
+"You can paste a URL of a video here to display within your post. Examples on "
+"how to format the links: YouTube - http://www.youtube.com/watch?"
+"v=fxs970FMYIo. Vimeo - http://vimeo.com/8736190"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:29
+msgid "Documentation"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:30
+msgid "Support Portal"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:31
+msgid "Credits"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:75
+msgid "All options and widgets successfully restored to default."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:78
+msgid "All demo options, widgets, and menus successfully imported."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:81
+msgid "Options saved and minisites confirmed."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:84
+msgid "Settings Saved."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:87
+msgid "Custom Options Import Successful."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:90
+msgid "There was an error importing your options, please try again."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:292
+#: ../functions/admin/option-generator.php:358
+#: ../functions/admin/option-generator.php:371
+msgid "Choose one..."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:609
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:626
+#: ../functions/admin/option-generator.php:642
+msgid "Delete"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:669
+msgid "Add New Social Link"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:702
+#, php-format
+msgid "Social Link %1$s"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:704
+#: ../functions/admin/option-generator.php:1039
+#: ../functions/admin/option-generator.php:1149
+#: ../functions/admin/option-generator.php:1236
+#: ../functions/admin/option-generator.php:1339
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:713
+msgid "Preset Icon"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:727
+msgid "Custom Icon"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:734
+msgid "Social Link URL"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:740
+msgid "Custom Hover Text"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:747
+#: ../functions/admin/option-generator.php:838
+#: ../functions/admin/option-generator.php:967
+#: ../functions/admin/option-generator.php:1078
+#: ../functions/admin/option-generator.php:1169
+#: ../functions/admin/option-generator.php:1264
+#: ../functions/admin/option-generator.php:1419
+msgid "Remove"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:748
+#: ../functions/admin/option-generator.php:839
+#: ../functions/admin/option-generator.php:968
+#: ../functions/admin/option-generator.php:1079
+#: ../functions/admin/option-generator.php:1170
+#: ../functions/admin/option-generator.php:1265
+#: ../functions/admin/option-generator.php:1420
+msgid "Cancel"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:786
+msgid "Add New Signoff"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:814
+#, php-format
+msgid "Signoff %1$s"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:816
+msgid "Edit Signoff"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:831
+#: ../functions/shortcodes/hero.php:32
+#: ../functions/shortcodes/miscellaneous.php:116
+#: ../functions/shortcodes/miscellaneous.php:160
+#: ../functions/shortcodes/miscellaneous.php:192
+msgid "Content"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:876
+msgid "Add New minisite"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:912
+#, php-format
+msgid "Minisite %1$s"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:914
+msgid "Edit Minisite"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:930
+#: ../functions/admin/option-generator.php:1055
+#: ../functions/admin/option-generator.php:1354
+msgid "Slug"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:936
+msgid ""
+"LEAVE THIS BLANK UNLESS YOU HAVE A SPECIFIC NEED TO MANUALLY ENTER A SLUG. "
+"For detailed information please reference the theme documentation. The slug "
+"will be created automatically based on the name of the minisite. The slug of "
+"each minisite must be unique and cannot match the slugs of any other "
+"minisites, or anything else in WordPress for that matter (such as "
+"categories, tags, names of pages, taxonomies, etc.) Slugs must only contain "
+"lower-case letters and underscores, and cannot contain any other types of "
+"characters or spaces, and must be less than 17 characters in length. "
+"WARNING: if you change the slug after you create the minisite you will lose "
+"all of the settings for this minisite! Please use extreme caution if you "
+"change the minisite slug, especially on production sites."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:943
+msgid "Enabled"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:945
+msgid "Disabled"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:949
+msgid ""
+"Disabling the minisite will hide the minisite from your front-end and admin "
+"menus but retain all settings and content posted within the minisite."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:955
+msgid "Excluded"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:957
+msgid "Included"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:961
+msgid ""
+"Excluding the minisite will hide articles from the minisite from all parts "
+"of the site except where it is explicitly set, such as the minisite itself, "
+"minisite directory pages, and certain widgets. For instance, if you don not "
+"want articles from this minisite to display in your homepage post loop, then "
+"you should mark this minisite as excluded."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1007
+msgid "Add New Taxonomy"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1037
+#, php-format
+msgid "Taxonomy %1$s"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1061
+msgid ""
+"The slug of each taxonomy must be unique and cannot match the slugs of any "
+"other taxonomies, or anything else in WordPress for that matter (such as "
+"categories, tags, names of pages, taxonomies, etc.) Slugs must only contain "
+"lower-case letters and underscores, and cannot contain any other types of "
+"characters or spaces. WARNING: if you change the slug after you create the "
+"taxonomy you will lose all of your settings and content within the taxonomy! "
+"Please use extreme caution if you change the taxonomy slug, especially on "
+"production sites."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1068
+#: ../functions/shortcodes/buttons.php:64 ../functions/shortcodes/modal.php:78
+msgid "Primary"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1072
+msgid "Use this taxonomy to populate the minisite submenu."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1118
+msgid "Add New Detail"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1147
+#, php-format
+msgid "Detail %1$s"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1164
+msgid ""
+"The name of the detail field. This is a way of describing the posts within "
+"your minisite."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1208
+msgid "Add New Criteria"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1234
+#, php-format
+msgid "Criteria %1$s"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1252
+msgid "Weight"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1258
+msgid ""
+"You can assign weight to your rating criteria to make them more important "
+"during the averaging of the total score. You can use any scale you want, "
+"such as assigning 1 to regular criteria and 2 to more important criteria, or "
+"100 to regular criteria and 80 to less important criteria. The values can be "
+"anything you want because they are relative only to each other. You can "
+"leave this field blank to keep all the weights the same."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1303
+msgid "Add New Award"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1337
+#, php-format
+msgid "Award %1$s"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1360
+msgid ""
+"Leave this blank unless you need to specifically manually enter a slug, such "
+"as if you want to use non-UTF-8 characters in the name of the award. For "
+"detailed information please reference the theme documentation. The slug will "
+"be created automatically based on the name of the award if you leave this "
+"field blank (recommended). Slugs must only contain lower-case letters and "
+"underscores, and cannot contain any other types of characters or spaces. "
+"WARNING: if you change the slug after you create the award you will have to "
+"re-assign the award to your posts."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1371
+msgid "Image size should be 16px by 16px square."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1382
+msgid ""
+"Choose a separate image for use in HD (hiDPI/retina) displays. Image should "
+"be 32px by 32px square."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1393
+msgid ""
+"Optional white version of the 16px icon for use in places with a dark "
+"background such as the featured slider. If you leave this blank the icon "
+"above will be used"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1404
+msgid ""
+"Optional white version of the 32px icon for use in places with a dark "
+"background cush as the featured slider. If you leave this blank the icon "
+"above will be used."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1410
+msgid "This is a Badge"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1414
+msgid ""
+"Treat this item as a badge instead of an award. Badges appear as a simple "
+"icon in the badges section with the badge name in the tooltip (hover text). "
+"By contrast, Awards display in the awards section with the name of the award "
+"visible."
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Random"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Box Slide"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Box Fade"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slot Zoom Horizontal"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slot Slide Horizontal"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slot Fade Horizontal"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slot Zoom Vertical"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slot Slide Vertical"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slot Fade Vertical"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Curtain 1"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Curtain 2"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Curtain 3"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slide Left"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slide Right"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slide Up"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slide Down"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Fade"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slide Horizontal"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Slide Vertical"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Papercut"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Flyin"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Turn Off"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "Cube"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "3D Curtain Vertical"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1605
+msgid "3dcurtain-horizontal"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1611
+msgid "Short From Top"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1611
+msgid "Short From Bottom"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1611
+msgid "Short From Right"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1611
+msgid "Short From Left"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1611
+msgid "Long From Top"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1611
+msgid "Long From Bottom"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1611
+msgid "Long From Right"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1611
+msgid "Long From Left"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1611
+msgid "Fade In"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1611
+msgid "Fade in and rotate from a random position"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1617
+#: ../functions/admin/option-generator.php:1623
+#: ../functions/widgets/widget-top-reviewed.php:161
+#: ../functions/widgets/widget-top-ten.php:205
+#: ../functions/widgets/widget-trending.php:140
+msgid "This Week"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1617
+#: ../functions/admin/option-generator.php:1623
+#: ../functions/widgets/widget-top-reviewed.php:162
+#: ../functions/widgets/widget-top-ten.php:206
+#: ../functions/widgets/widget-trending.php:141 ../inc/top-ten.php:10
+msgid "This Month"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1617
+#: ../functions/admin/option-generator.php:1623
+#: ../functions/widgets/widget-top-reviewed.php:163
+#: ../functions/widgets/widget-top-ten.php:207
+#: ../functions/widgets/widget-trending.php:142
+msgid "This Year"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1617
+#: ../functions/widgets/widget-top-reviewed.php:164
+#: ../functions/widgets/widget-top-ten.php:208
+#: ../functions/widgets/widget-trending.php:143
+msgid "Within Past Week"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1617
+#: ../functions/widgets/widget-top-reviewed.php:165
+#: ../functions/widgets/widget-top-ten.php:209
+#: ../functions/widgets/widget-trending.php:144
+msgid "Within Past Month"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1617
+#: ../functions/widgets/widget-top-reviewed.php:166
+#: ../functions/widgets/widget-top-ten.php:210
+#: ../functions/widgets/widget-trending.php:145
+msgid "Within Past 2 Months"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1617
+#: ../functions/widgets/widget-top-reviewed.php:167
+#: ../functions/widgets/widget-top-ten.php:211
+#: ../functions/widgets/widget-trending.php:146
+msgid "Within Past 3 Months"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1617
+#: ../functions/widgets/widget-top-reviewed.php:168
+#: ../functions/widgets/widget-top-ten.php:212
+#: ../functions/widgets/widget-trending.php:147
+msgid "Within Past 6 Months"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1617
+#: ../functions/widgets/widget-top-reviewed.php:169
+#: ../functions/widgets/widget-top-ten.php:213
+#: ../functions/widgets/widget-trending.php:148
+msgid "Within Past Year"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1623
+msgid "Today"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1623
+msgid "Total Articles"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1629
+msgid "All Roles"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1629
+msgid "All Roles Above Subscriber"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1629
+msgid "Subscribers"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1629
+msgid "Contributors"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1629
+msgid "Authors"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1629
+msgid "Editors"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1629
+msgid "Admins"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1635
+msgid "Nice Name"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1635
+msgid "Email"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1635
+msgid "URL"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1635
+msgid "Registered"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1635
+msgid "Display Name"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1635
+msgid "Post Count"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1641 ../inc/featured.php:16
+msgid "Featured"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1641
+msgid "Top Ten"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1641
+msgid "Trending"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1641
+msgid "Latest Articles (3 columns)"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1641
+msgid "Main Content (with sidebar)"
+msgstr ""
+
+#: ../functions/admin/option-generator.php:1641
+msgid "Mixed Panels (widgets)"
+msgstr ""
+
+#: ../functions/admin/scripts.php:31
+msgid ""
+"This will restore all theme options to defaults, and it will ALSO restore "
+"all widget options and nav menus to defaults. Are you sure?"
+msgstr ""
+
+#: ../functions/admin/scripts.php:32
+msgid ""
+"This will replace all theme options with the demo settings, and it will ALSO "
+"replace all widget options and nav menus with the demo settings. Are you "
+"sure?"
+msgstr ""
+
+#: ../functions/admin/scripts.php:33
+msgid ""
+"This will save all options and update your list of minisites at the bottom "
+"of the control panel menu on the left. Continue?"
+msgstr ""
+
+#: ../functions/admin/scripts.php:34
+msgid ""
+"This will save all options and update your taxonomies for all of your "
+"minisites. Continue?"
+msgstr ""
+
+#: ../functions/admin/scripts.php:35
+msgid "Please enter a name for your sidebar."
+msgstr ""
+
+#: ../functions/admin/scripts.php:36
+msgid "Are you sure you want to delete this sidebar?"
+msgstr ""
+
+#: ../functions/admin/scripts.php:37
+#, php-format
+msgid "%1$s has invalid extension. Only %2$s are allowed."
+msgstr ""
+
+#: ../functions/admin/shortcode-generator.php:26
+msgid "Shortcode Generator"
+msgstr ""
+
+#: ../functions/admin/shortcode-generator.php:38
+msgid "Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:18
+msgid "Alert Html"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:19
+msgid ""
+"Type out the content of your alert box.  You can use HTML tags here if you "
+"want."
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:25
+#: ../functions/shortcodes/buttons.php:44 ../functions/shortcodes/icons.php:31
+#: ../functions/shortcodes/miscellaneous.php:18
+msgid "Size"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:26
+msgid "You can choose between two sizes for the alert box."
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:30
+msgid "Normal"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:31
+#: ../functions/widgets/widget-latest-articles.php:217
+#: ../functions/widgets/widget-sections.php:175
+#: ../functions/widgets/widget-top-reviewed.php:209
+msgid "Large"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:37
+#: ../functions/shortcodes/buttons.php:58
+#: ../functions/shortcodes/labels.php:24 ../functions/shortcodes/labels.php:73
+#: ../functions/shortcodes/progress.php:26
+msgid "Style Variations"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:38
+#: ../functions/shortcodes/signoffs.php:18
+msgid "Choose one of the predefined alert box styles to use."
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:43
+msgid "Error"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:44
+#: ../functions/shortcodes/buttons.php:66
+#: ../functions/shortcodes/labels.php:30 ../functions/shortcodes/labels.php:79
+#: ../functions/shortcodes/modal.php:80
+#: ../functions/shortcodes/progress.php:33
+msgid "Success"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:45
+#: ../functions/shortcodes/buttons.php:65
+#: ../functions/shortcodes/labels.php:33 ../functions/shortcodes/labels.php:82
+#: ../functions/shortcodes/modal.php:79
+#: ../functions/shortcodes/progress.php:32
+#: ../functions/shortcodes/video.php:101
+msgid "Info"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:51
+msgid "Dismiss Button"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:53
+msgid "Display the alert box dismissal button"
+msgstr ""
+
+#: ../functions/shortcodes/alerts.php:87
+msgid "Alert Boxes"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:13
+#: ../functions/shortcodes/buttons.php:31
+msgid "Button"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:18
+msgid "Button Text"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:19
+msgid "This is the text that will appear on your button."
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:25
+msgid "Button Type"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:26
+msgid ""
+"Use button as the type if you don't want it to take the user to an external "
+"page (i.e. if you want to use the button in conjunction with a modal dialog "
+"box or a popover for instance)."
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:37
+msgid "Link Url"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:38
+msgid ""
+"Paste a URL here to use as a link for the button (only applies to button "
+"type of Link)."
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:45
+msgid "You can choose between four sizes for your button."
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:49 ../functions/shortcodes/modal.php:63
+msgid "mini"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:50 ../functions/shortcodes/modal.php:64
+msgid "small"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:51 ../functions/shortcodes/modal.php:65
+msgid "medium"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:52 ../functions/shortcodes/modal.php:66
+msgid "large"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:59
+msgid "Choose one of the predefined button styles to use."
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:67
+#: ../functions/shortcodes/labels.php:31 ../functions/shortcodes/labels.php:80
+#: ../functions/shortcodes/modal.php:81
+#: ../functions/shortcodes/progress.php:34
+msgid "Warning"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:68 ../functions/shortcodes/modal.php:82
+#: ../functions/shortcodes/progress.php:35
+msgid "Danger"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:69
+#: ../functions/shortcodes/labels.php:34 ../functions/shortcodes/labels.php:83
+#: ../functions/shortcodes/modal.php:83
+msgid "Inverse"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:75
+msgid "Block"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:77
+msgid "Button should be block-level (wide)"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:82
+msgid ""
+"Opens the link in a new tab when the reader clicks on the button (only "
+"applies to button type of Link)."
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:84
+msgid "Blank"
+msgstr ""
+
+#: ../functions/shortcodes/buttons.php:129
+msgid "Buttons"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:15
+#: ../functions/shortcodes/carousel.php:172
+msgid "Carousel"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:19
+msgid "Display Nav Arrows"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:21
+msgid "Display the navigation arrows"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:26
+msgid "Display Nav Buttons"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:28
+msgid "Display the navigation buttons in the top right corner"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:33
+msgid "Display Caption"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:35
+msgid "Display the caption overlay"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:48
+msgid "Number of Panels"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:49
+msgid ""
+"Select the number of panels you want in this carousel. Each one will "
+"represent a unique panel to rotate through in the carousel."
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:58
+msgid "Panel 1 Title"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:59
+msgid "The text to use for the title in the carousel caption."
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:66
+msgid "Panel 1 Description"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:67
+msgid ""
+"The text to use for the description under the title in the carousel caption."
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:74
+msgid "Panel 1 Content"
+msgstr ""
+
+#: ../functions/shortcodes/carousel.php:75
+msgid "The content to use for the carousel panel."
+msgstr ""
+
+#: ../functions/shortcodes/hero.php:13 ../functions/shortcodes/hero.php:73
+msgid "Hero Unit"
+msgstr ""
+
+#: ../functions/shortcodes/hero.php:18 ../functions/shortcodes/modal.php:18
+msgid "Heading"
+msgstr ""
+
+#: ../functions/shortcodes/hero.php:19
+msgid "This is the main heading of the hero unit"
+msgstr ""
+
+#: ../functions/shortcodes/hero.php:25
+msgid "Tagline"
+msgstr ""
+
+#: ../functions/shortcodes/hero.php:26
+msgid "This is the tagline of the hero unit"
+msgstr ""
+
+#: ../functions/shortcodes/hero.php:33
+msgid ""
+"Any additional content such as a call to action button that needs to display "
+"under the header and tagline."
+msgstr ""
+
+#: ../functions/shortcodes/icons.php:13 ../functions/shortcodes/icons.php:17
+#: ../functions/shortcodes/icons.php:74
+msgid "Icons"
+msgstr ""
+
+#: ../functions/shortcodes/icons.php:18
+msgid "Choose which icon you want to insert into the content."
+msgstr ""
+
+#: ../functions/shortcodes/icons.php:25
+msgid "Color"
+msgstr ""
+
+#: ../functions/shortcodes/icons.php:26
+msgid "The color of the icon image."
+msgstr ""
+
+#: ../functions/shortcodes/icons.php:32
+msgid "The height of the icon in pixels."
+msgstr ""
+
+#: ../functions/shortcodes/labels.php:17
+msgid "Label Text"
+msgstr ""
+
+#: ../functions/shortcodes/labels.php:18
+msgid "Type out the text that you wish to display in the label."
+msgstr ""
+
+#: ../functions/shortcodes/labels.php:25
+msgid "Choose one of the predefined label styles to use."
+msgstr ""
+
+#: ../functions/shortcodes/labels.php:32 ../functions/shortcodes/labels.php:81
+msgid "Important"
+msgstr ""
+
+#: ../functions/shortcodes/labels.php:62
+msgid "Badge"
+msgstr ""
+
+#: ../functions/shortcodes/labels.php:66
+msgid "Badge Text"
+msgstr ""
+
+#: ../functions/shortcodes/labels.php:67
+msgid "Type out the text that you wish to display in the badge."
+msgstr ""
+
+#: ../functions/shortcodes/labels.php:74
+msgid "Choose one of the predefined badge styles to use."
+msgstr ""
+
+#: ../functions/shortcodes/labels.php:118
+msgid "Labels &amp; Badges"
+msgstr ""
+
+#: ../functions/shortcodes/labels.php:119
+msgid "Choose which type of style you want to use."
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:13
+msgid "Two Column Layout"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:17
+#: ../functions/shortcodes/layouts.php:25
+#: ../functions/shortcodes/layouts.php:50
+#: ../functions/shortcodes/layouts.php:58
+#: ../functions/shortcodes/layouts.php:66
+#: ../functions/shortcodes/layouts.php:91
+#: ../functions/shortcodes/layouts.php:99
+#: ../functions/shortcodes/layouts.php:107
+#: ../functions/shortcodes/layouts.php:115
+#: ../functions/shortcodes/layouts.php:140
+#: ../functions/shortcodes/layouts.php:148
+#: ../functions/shortcodes/layouts.php:156
+#: ../functions/shortcodes/layouts.php:164
+#: ../functions/shortcodes/layouts.php:172
+#: ../functions/shortcodes/layouts.php:197
+#: ../functions/shortcodes/layouts.php:205
+#: ../functions/shortcodes/layouts.php:213
+#: ../functions/shortcodes/layouts.php:221
+#: ../functions/shortcodes/layouts.php:229
+#: ../functions/shortcodes/layouts.php:237
+#: ../functions/shortcodes/layouts.php:262
+#: ../functions/shortcodes/layouts.php:270
+#: ../functions/shortcodes/layouts.php:295
+#: ../functions/shortcodes/layouts.php:303
+#: ../functions/shortcodes/layouts.php:328
+#: ../functions/shortcodes/layouts.php:336
+#: ../functions/shortcodes/layouts.php:361
+#: ../functions/shortcodes/layouts.php:369
+#: ../functions/shortcodes/layouts.php:394
+#: ../functions/shortcodes/layouts.php:402
+#: ../functions/shortcodes/layouts.php:410
+#: ../functions/shortcodes/layouts.php:435
+#: ../functions/shortcodes/layouts.php:443
+#: ../functions/shortcodes/layouts.php:451
+#: ../functions/shortcodes/layouts.php:476
+#: ../functions/shortcodes/layouts.php:484
+#: ../functions/shortcodes/layouts.php:492
+#: ../functions/shortcodes/layouts.php:517
+#: ../functions/shortcodes/layouts.php:525
+#: ../functions/shortcodes/layouts.php:550
+#: ../functions/shortcodes/layouts.php:558
+#: ../functions/shortcodes/layouts.php:583
+#: ../functions/shortcodes/layouts.php:591
+#: ../functions/shortcodes/layouts.php:616
+#: ../functions/shortcodes/layouts.php:624
+#: ../functions/shortcodes/layouts.php:649
+#: ../functions/shortcodes/layouts.php:657
+#: ../functions/shortcodes/layouts.php:682
+#: ../functions/shortcodes/layouts.php:690
+#: ../functions/shortcodes/layouts.php:698
+#: ../functions/shortcodes/layouts.php:706
+msgid "Column Content"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:18
+#: ../functions/shortcodes/layouts.php:51
+#: ../functions/shortcodes/layouts.php:92
+#: ../functions/shortcodes/layouts.php:141
+#: ../functions/shortcodes/layouts.php:198
+#: ../functions/shortcodes/layouts.php:263
+#: ../functions/shortcodes/layouts.php:296
+#: ../functions/shortcodes/layouts.php:329
+#: ../functions/shortcodes/layouts.php:362
+#: ../functions/shortcodes/layouts.php:395
+#: ../functions/shortcodes/layouts.php:436
+#: ../functions/shortcodes/layouts.php:477
+#: ../functions/shortcodes/layouts.php:518
+#: ../functions/shortcodes/layouts.php:551
+#: ../functions/shortcodes/layouts.php:584
+#: ../functions/shortcodes/layouts.php:617
+#: ../functions/shortcodes/layouts.php:650
+#: ../functions/shortcodes/layouts.php:683
+msgid ""
+"Type out the content for your first column.  Shortcodes are accepted here."
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:26
+#: ../functions/shortcodes/layouts.php:59
+#: ../functions/shortcodes/layouts.php:100
+#: ../functions/shortcodes/layouts.php:149
+#: ../functions/shortcodes/layouts.php:206
+#: ../functions/shortcodes/layouts.php:271
+#: ../functions/shortcodes/layouts.php:304
+#: ../functions/shortcodes/layouts.php:337
+#: ../functions/shortcodes/layouts.php:370
+#: ../functions/shortcodes/layouts.php:403
+#: ../functions/shortcodes/layouts.php:485
+#: ../functions/shortcodes/layouts.php:526
+#: ../functions/shortcodes/layouts.php:559
+#: ../functions/shortcodes/layouts.php:592
+#: ../functions/shortcodes/layouts.php:625
+#: ../functions/shortcodes/layouts.php:658
+#: ../functions/shortcodes/layouts.php:691
+msgid ""
+"Type out the content for your second column.  Shortcodes are accepted here."
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:46
+msgid "Three Column Layout"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:67
+#: ../functions/shortcodes/layouts.php:108
+#: ../functions/shortcodes/layouts.php:157
+#: ../functions/shortcodes/layouts.php:214
+#: ../functions/shortcodes/layouts.php:411
+#: ../functions/shortcodes/layouts.php:452
+#: ../functions/shortcodes/layouts.php:493
+#: ../functions/shortcodes/layouts.php:699
+msgid ""
+"Type out the content for your third column.  Shortcodes are accepted here."
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:87
+msgid "Four Column Layout"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:116
+#: ../functions/shortcodes/layouts.php:165
+#: ../functions/shortcodes/layouts.php:222
+#: ../functions/shortcodes/layouts.php:707
+msgid ""
+"Type out the content for your fourth column.  Shortcodes are accepted here."
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:136
+msgid "Five Column Layout"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:173
+#: ../functions/shortcodes/layouts.php:230
+msgid ""
+"Type out the content for your fifth column.  Shortcodes are accepted here."
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:193
+msgid "Six Column Layout"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:238
+msgid ""
+"Type out the content for your sixth column.  Shortcodes are accepted here."
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:258
+msgid "One Third - Two Third"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:291
+msgid "Two Third - One Third"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:324
+msgid "One Fourth - Three Fourth"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:357
+msgid "Three Fourth - One Fourth"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:390
+msgid "One Fourth - One Fourth - One Half"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:431
+msgid "One Fourth - One Half - One Fourth"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:444
+msgid ""
+"Type out the content for your  second column.  Shortcodes are accepted here."
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:472
+msgid "One Half - One Fourth - One Fourth"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:513
+msgid "Four Fifth - One Fifth"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:546
+msgid "One Fifth - Four Fifth"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:579
+msgid "Two Fifth - Three Fifth"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:612
+msgid "One Sixth - Five Sixth"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:645
+msgid "Five Sixth - One Sixth"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:678
+msgid "One Sixth - One Sixth - One Sixth - One Half"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:735
+msgid "Column Layouts"
+msgstr ""
+
+#: ../functions/shortcodes/layouts.php:736
+msgid "Choose which type of layout you would like to use."
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:17
+msgid "Type"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:18
+msgid ""
+"Choose the style of list that you wish to use.  Each one has a different "
+"icon."
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:22
+msgid "Plus List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:23
+msgid "Heart List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:24
+msgid "Star List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:25
+msgid "Check List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:26
+msgid "Arrow Thin List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:27
+msgid "Arrow Thick List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:28
+msgid "Arrow Open List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:29
+msgid "X List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:30
+msgid "Tag List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:31
+msgid "Question List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:32
+msgid "Info List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:33
+msgid "Attention List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:34
+msgid "Minus List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:35
+msgid "Pencil List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:36
+msgid "Thumbs-Up List"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:42
+msgid "Icon Color"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:43
+msgid "The color of the icon image used in the list."
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:48
+msgid "List Html"
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:49
+msgid ""
+"Type out the content of your list.  You need to use the &#60;ul&#62; and "
+"&#60;li&#62; elements when typing out your list content."
+msgstr ""
+
+#: ../functions/shortcodes/lists.php:91
+msgid "Lists"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:14
+msgid "Styled Amp"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:19
+msgid "The font size of the ampersand."
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:49
+msgid "Divider"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:66
+msgid "Divider Top"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:73
+#: ../functions/shortcodes/tabs.php:24 ../inc/sticky.php:264
+msgid "Top"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:83
+msgid "Content Clearer"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:98
+msgid "Div"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:102
+#: ../functions/shortcodes/miscellaneous.php:146
+msgid "Class"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:103
+msgid "Type in the name of the class you wish to assign to this div."
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:110
+msgid "You can set a custom style here for your div."
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:117
+msgid "Type in the content that you wish to display inside this div."
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:142
+msgid "Span"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:147
+msgid "Type in the name of the class you wish to assign to this span."
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:154
+msgid "You can set a custom style here for yourspan."
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:161
+msgid "Type in the content that you wish to display inside this span."
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:188
+msgid "Hidden"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:193
+msgid ""
+"Any content entered into this area will be included in the code but hidden "
+"from view."
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:222
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../functions/shortcodes/miscellaneous.php:223
+msgid "Select which Miscellaneous shortcode you wish to use."
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:13 ../functions/shortcodes/modal.php:135
+msgid "Modal Dialog Box"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:19
+msgid "The header for the modal"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:25
+msgid "Body"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:26
+msgid "The body content for the modal"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:33
+msgid "The footer content for the modal"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:39
+msgid "Heading Dismiss Button"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:41
+msgid "Display the dismiss button in the heading"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:45
+msgid "Footer Dismiss Button"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:47
+msgid "Display the dismiss button in the footer"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:51
+msgid "Trigger Button Text"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:52
+msgid ""
+"This is the text that will appear in the button that triggers the modal to "
+"display."
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:58
+msgid "Trigger Button Size"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:59
+msgid "Size of the button that triggers the modal to display"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:72
+msgid "Trigger Button Style"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:73
+msgid "Style of the button that triggers the modal to display."
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:84
+msgid "Standard Link"
+msgstr ""
+
+#: ../functions/shortcodes/modal.php:111
+msgid "Close"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:13
+msgid "Popover"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:18
+msgid "Popover-Enabled Content"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:19
+msgid "Put text or HTML in here and it will trigger the popover when clicked"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:25
+msgid "Popover Title"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:26
+msgid "The title of the popover box"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:32
+msgid "Popover Body"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:33
+msgid "The body content of the popover box"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:39 ../functions/shortcodes/tabs.php:19
+#: ../functions/shortcodes/tooltips.php:32
+msgid "Placement"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:40
+msgid "The direction the popover should fly out"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:44
+#: ../functions/shortcodes/tooltips.php:37
+msgid "top"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:45
+#: ../functions/shortcodes/tooltips.php:38
+msgid "bottom"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:46
+#: ../functions/shortcodes/tooltips.php:39
+msgid "left"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:47
+#: ../functions/shortcodes/tooltips.php:40
+msgid "right"
+msgstr ""
+
+#: ../functions/shortcodes/popovers.php:83
+msgid "Popovers"
+msgstr ""
+
+#: ../functions/shortcodes/progress.php:13
+msgid "Progress Bar"
+msgstr ""
+
+#: ../functions/shortcodes/progress.php:18
+msgid "Progress Percentage"
+msgstr ""
+
+#: ../functions/shortcodes/progress.php:19
+msgid "What position should this progress bar be in?"
+msgstr ""
+
+#: ../functions/shortcodes/progress.php:27
+msgid "Choose one of the predefined progress bar styles to use."
+msgstr ""
+
+#: ../functions/shortcodes/progress.php:41
+#: ../functions/shortcodes/table.php:30
+msgid "Striped"
+msgstr ""
+
+#: ../functions/shortcodes/progress.php:43
+msgid "Add subtle stripe style to this progress bar"
+msgstr ""
+
+#: ../functions/shortcodes/progress.php:47
+msgid "Animated"
+msgstr ""
+
+#: ../functions/shortcodes/progress.php:49
+msgid "Add an animation effect to this progress bar"
+msgstr ""
+
+#: ../functions/shortcodes/progress.php:82
+msgid "Progress Bars"
+msgstr ""
+
+#: ../functions/shortcodes/quotes.php:12
+msgid "Blockquotes"
+msgstr ""
+
+#: ../functions/shortcodes/quotes.php:16
+msgid "Blockquote Content"
+msgstr ""
+
+#: ../functions/shortcodes/quotes.php:17
+msgid "Type out the text that you wish to display with your quote."
+msgstr ""
+
+#: ../functions/shortcodes/quotes.php:23
+msgid "Align Right"
+msgstr ""
+
+#: ../functions/shortcodes/quotes.php:25
+msgid "Blockquote should be right-aligned."
+msgstr ""
+
+#: ../functions/shortcodes/quotes.php:29
+msgid "Cite"
+msgstr ""
+
+#: ../functions/shortcodes/quotes.php:30
+msgid "The cite for this blockquote, if any."
+msgstr ""
+
+#: ../functions/shortcodes/quotes.php:70
+msgid "Blockquote"
+msgstr ""
+
+#: ../functions/shortcodes/signoffs.php:13
+msgid "Signoff"
+msgstr ""
+
+#: ../functions/shortcodes/signoffs.php:17
+msgid "Predefined Content"
+msgstr ""
+
+#: ../functions/shortcodes/signoffs.php:25
+msgid "Custom Content"
+msgstr ""
+
+#: ../functions/shortcodes/signoffs.php:26
+msgid ""
+"Type out the content of signoff text.  You can use HTML tags here if you "
+"want."
+msgstr ""
+
+#: ../functions/shortcodes/signoffs.php:32
+msgid "Icon"
+msgstr ""
+
+#: ../functions/shortcodes/signoffs.php:33
+msgid "Choose an icon image to use to the left of the box."
+msgstr ""
+
+#: ../functions/shortcodes/table.php:13 ../functions/shortcodes/table.php:67
+msgid "Table"
+msgstr ""
+
+#: ../functions/shortcodes/table.php:17
+msgid "Table Html"
+msgstr ""
+
+#: ../functions/shortcodes/table.php:18
+msgid ""
+"Type out the content of your table.  You need to use the HTML table tags "
+"when typing out your content."
+msgstr ""
+
+#: ../functions/shortcodes/table.php:25
+msgid "Choose the style of table you want to use."
+msgstr ""
+
+#: ../functions/shortcodes/table.php:29
+msgid "Default Style"
+msgstr ""
+
+#: ../functions/shortcodes/table.php:31
+msgid "Bordered"
+msgstr ""
+
+#: ../functions/shortcodes/table.php:32
+msgid "Hover Rows"
+msgstr ""
+
+#: ../functions/shortcodes/table.php:33
+msgid "Condensed"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:15 ../functions/shortcodes/tabs.php:39
+#: ../functions/shortcodes/tabs.php:167
+msgid "Tabs"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:20
+msgid "The placement of the tabs in relation to the content"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:27
+msgid "Below"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:35
+msgid "The style of the tab navigation"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:40
+msgid "Pills"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:47
+msgid "Stacked"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:49
+msgid "Apply stacking style to tab navigation"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:54
+msgid "Number of tabs"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:55
+msgid ""
+"Select the number of tabs you wish to display.  The tabs are the selectable "
+"areas which change the content."
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:64
+msgid "Tab 1 Title"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:65
+msgid "The text to use for the tab navigation"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:72
+msgid "Tab 1 Content"
+msgstr ""
+
+#: ../functions/shortcodes/tabs.php:73
+msgid "The content of the tab. Shortcodes are accepted."
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:15
+#: ../functions/shortcodes/toggles.php:24
+msgid "Toggle"
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:19
+msgid "Behavior"
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:20
+msgid ""
+"Should the toggles be individual or grouped together as an accordion style."
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:25
+msgid "Accordion"
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:32
+msgid "Number of toggles"
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:33
+msgid "Select the number of toggles you wish to display."
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:42
+msgid "Toggle 1 Title"
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:43
+msgid "The text to use for the toggle selector"
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:50
+msgid "Toggle 1 Content"
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:51
+msgid "The content of the toggle container. Shortcodes are accepted."
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:58
+msgid "Toggle 1 Default State"
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:59
+msgid "Should this toggle be expanded or collapsed by default."
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:63
+msgid "Collapsed"
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:64
+msgid "Expanded"
+msgstr ""
+
+#: ../functions/shortcodes/toggles.php:158
+msgid "Toggles & Accordions"
+msgstr ""
+
+#: ../functions/shortcodes/tooltips.php:13
+#: ../functions/shortcodes/tooltips.php:25
+msgid "Tooltip"
+msgstr ""
+
+#: ../functions/shortcodes/tooltips.php:18
+msgid "Tooltip-Enabled Text"
+msgstr ""
+
+#: ../functions/shortcodes/tooltips.php:19
+msgid "The text that you want to be tooltip-enebled"
+msgstr ""
+
+#: ../functions/shortcodes/tooltips.php:26
+msgid "That text that displays when you hover over the tooltip-enabled text"
+msgstr ""
+
+#: ../functions/shortcodes/tooltips.php:33
+msgid "The direction the tooltip should fly out"
+msgstr ""
+
+#: ../functions/shortcodes/tooltips.php:75
+msgid "Tooltips"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:26
+msgid "YouTube Video URL"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:27
+msgid ""
+"When viewing your youtube video in your web browser copy the URL and paste "
+"it here.  Here is an example of what it might look like,<br /><br />http://"
+"www.youtube.com/watch?v=SX728EemOPOIw&feature=related"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:33
+msgid "Autohide"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:34
+msgid "You can hide various youtube displays from showing on your video."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:37
+msgid "Visible"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:38
+msgid "Hide all"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:39
+msgid "Hide video progress bar"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:45 ../functions/shortcodes/video.php:192
+msgid "Autoplay"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:46
+msgid "Check this to have your video play after it is loaded."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:48
+msgid "Video will autoplay when the player loads"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:52
+msgid "Controls"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:53
+msgid "Check this to have the youtube player controls display."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:55
+msgid "Disable video player controls"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:59
+msgid "Disable KB"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:60
+msgid "Check this to disable the keyboard controls"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:61
+msgid "Disable the player keyboard controls"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:66
+msgid "Fullscreen"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:67
+msgid ""
+"Check this to allow your video to be played in fullscreen mode.<br /><br />A "
+"small button will display in the bottom right hand corner for fullscreen "
+"mode."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:68
+msgid "Enables the fullscreen button in the video player"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:73
+msgid "HD"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:74
+msgid "Checking this will enable your video to be viewed in HD format."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:75
+msgid "Enables HD video playback by default"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:81
+msgid "This will set your video to loop."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:82
+msgid "Play the initial video again and again"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:87
+msgid "Related Videos"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:88
+msgid ""
+"Checking this will disable the related videos from appearing once your video "
+"is done playing."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:89
+msgid "Disable related videos once playback of the initial video starts"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:95
+msgid ""
+"Checking this will disable the search box from displaying when the video is "
+"minimized."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:96
+msgid "Disables the search box from displaying when the video is minimized"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:102
+msgid "Checking this will disable the display information."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:103
+msgid "Disable display information"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:132
+msgid "Please enter the url to a YouTube video."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:141
+msgid ""
+"There was an error retrieving the YouTube video ID for the url you entered, "
+"please verify that the url is correct."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:164
+msgid "Vimeo Video URL"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:165
+msgid ""
+"When viewing your vimeo video in your web browser copy the URL and paste it "
+"here.  Here is an example of what it might look like,<br /><br />http://"
+"vimeo.com/12345678"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:171
+msgid "Title"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:172
+msgid "Checking this will disable your title from displaying on the video."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:173
+msgid "Disable title on the video"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:178
+msgid "Byline"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:179
+msgid ""
+"Checking this will disable your byline from displaying on the video.<br /"
+"><br />The byline appears right below your title."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:180
+msgid "Disable byline on the video"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:185
+msgid "Portrait"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:186
+msgid ""
+"Checking this will disable the portrait image from displaying on the video."
+"<br /><br />The portrait image appears to the left of the title and byline."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:187
+msgid "Disable user's portrait on the video"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:193
+msgid "Check to have your video play automatically after it is loaded."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:194
+msgid "Play the video automatically on load"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:200
+msgid "Check to have your video loop after it is done playing."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:201
+msgid "Play the video again when it reaches the end"
+msgstr ""
+
+#: ../functions/shortcodes/video.php:225
+msgid "Please enter the url to a Vimeo video."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:234
+msgid ""
+"There was an error retrieving the Vimeo video ID for the url you entered, "
+"please verify that the url is correct."
+msgstr ""
+
+#: ../functions/shortcodes/video.php:257
+msgid "Choose which type of video you wish to use."
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:5
+msgid "Displays paginated articles with several available filtering options."
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:141
+msgid "MOST RECENT"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:145
+#: ../functions/widgets/widget-latest-articles.php:143
+#: ../functions/widgets/widget-reviews.php:99
+#: ../functions/widgets/widget-sections.php:131
+#: ../functions/widgets/widget-top-reviewed.php:140
+#: ../functions/widgets/widget-top-ten.php:172
+#: ../functions/widgets/widget-trending.php:127
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:149
+#: ../functions/widgets/widget-top-ten.php:177
+msgid "Disable Filters:"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:158
+#: ../functions/widgets/widget-top-ten.php:182
+msgid "Liked"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:162
+#: ../functions/widgets/widget-top-ten.php:186
+msgid "Viewed"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:166
+#: ../functions/widgets/widget-top-ten.php:190
+msgid "Reviewed"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:170
+#: ../functions/widgets/widget-top-ten.php:194
+msgid "Rated"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:174
+#: ../functions/widgets/widget-top-ten.php:198
+msgid "Commented"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:184
+msgid "Completely Disable Filtering"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:188
+#: ../functions/widgets/widget-clouds.php:110
+#: ../functions/widgets/widget-latest-articles.php:189
+#: ../functions/widgets/widget-minisite-tabs.php:126
+#: ../functions/widgets/widget-reviews.php:119
+#: ../functions/widgets/widget-sections.php:151
+#: ../functions/widgets/widget-top-reviewed.php:186
+#: ../functions/widgets/widget-trending.php:132
+msgid "Display"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:190
+msgid "articles per page"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:195
+msgid "Display Title"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:200
+#: ../functions/widgets/widget-minisite-tabs.php:133
+msgid "Display Thumbnail"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:205
+#: ../functions/widgets/widget-minisite-tabs.php:138
+msgid "Display Rating"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:210
+msgid "Display Minisite Icon"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:215
+msgid "Display Award"
+msgstr ""
+
+#: ../functions/widgets/widget-all-articles.php:220
+msgid "Display Meta"
+msgstr ""
+
+#: ../functions/widgets/widget-clouds.php:5
+msgid ""
+"Displays your tags, categories, and/or minisite primary taxonomy items in a "
+"tag cloud format."
+msgstr ""
+
+#: ../functions/widgets/widget-clouds.php:28
+msgid "Tag Cloud"
+msgstr ""
+
+#: ../functions/widgets/widget-clouds.php:29
+msgid "Category Cloud"
+msgstr ""
+
+#: ../functions/widgets/widget-clouds.php:112
+msgid "items in each cloud"
+msgstr ""
+
+#: ../functions/widgets/widget-clouds.php:117
+msgid "Display Tag Cloud"
+msgstr ""
+
+#: ../functions/widgets/widget-clouds.php:122
+msgid "Display Category Cloud"
+msgstr ""
+
+#: ../functions/widgets/widget-clouds.php:125
+msgid "Display Primary Taxonomy Cloud From:"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:5
+msgid ""
+"Displays latest articles from a specific minisite, all minisites, or all "
+"articles, and can be limited to a specific category and/or tag."
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:78
+msgid "See All"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:148
+#: ../functions/widgets/widget-top-reviewed.php:145
+msgid "Type:"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:150
+msgid "Everything"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:151
+#: ../functions/widgets/widget-top-reviewed.php:147
+msgid "All Minisites"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:163
+msgid "Category:"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:165
+msgid "All Categories"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:176
+msgid "Tag:"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:178
+msgid "All Tags"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:191
+#: ../functions/widgets/widget-minisite-tabs.php:128
+#: ../functions/widgets/widget-reviews.php:121
+#: ../functions/widgets/widget-sections.php:153
+#: ../functions/widgets/widget-trending.php:134
+msgid "articles"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:196
+msgid "Display \"See All\" link in header"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:201
+#: ../functions/widgets/widget-sections.php:158
+#: ../functions/widgets/widget-top-reviewed.php:193
+msgid "Display thumbnails"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:206
+#: ../functions/widgets/widget-sections.php:163
+#: ../functions/widgets/widget-top-reviewed.php:198
+msgid "Use \"overlay\" post style"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:209
+#: ../functions/widgets/widget-sections.php:166
+#: ../functions/widgets/widget-top-reviewed.php:201
+msgid "Format:"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:214
+#: ../functions/widgets/widget-sections.php:172
+#: ../functions/widgets/widget-top-reviewed.php:206
+msgid "Small"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:220
+#: ../functions/widgets/widget-sections.php:178
+#: ../functions/widgets/widget-top-reviewed.php:212
+msgid "Large First Article"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:224
+#: ../functions/widgets/widget-sections.php:183
+#: ../functions/widgets/widget-top-reviewed.php:216
+msgid "Large article components:"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:228
+#: ../functions/widgets/widget-sections.php:187
+#: ../functions/widgets/widget-top-reviewed.php:220
+msgid "Display rating"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:234
+#: ../functions/widgets/widget-sections.php:193
+#: ../functions/widgets/widget-top-reviewed.php:226
+msgid "on small posts"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:240
+#: ../functions/widgets/widget-sections.php:199
+#: ../functions/widgets/widget-top-reviewed.php:232
+msgid "Display award"
+msgstr ""
+
+#: ../functions/widgets/widget-latest-articles.php:245
+#: ../functions/widgets/widget-sections.php:204
+#: ../functions/widgets/widget-top-reviewed.php:237
+msgid "Display meta"
+msgstr ""
+
+#: ../functions/widgets/widget-minisite-tabs.php:5
+#: ../functions/widgets/widget-sections.php:5
+msgid ""
+"Displays the latest articles from selected minisites in tabbed format using "
+"the minisite icons as the tab navigation."
+msgstr ""
+
+#: ../functions/widgets/widget-minisite-tabs.php:110
+#: ../functions/widgets/widget-sections.php:135
+msgid "Display These Minisites:"
+msgstr ""
+
+#: ../functions/widgets/widget-reviews.php:5
+msgid "Displays latest reviews from selected minisites."
+msgstr ""
+
+#: ../functions/widgets/widget-reviews.php:103
+msgid "Included Minisites:"
+msgstr ""
+
+#: ../functions/widgets/widget-social-counts.php:5
+msgid "Displays social counts for the most popular social networks."
+msgstr ""
+
+#: ../functions/widgets/widget-social-counts.php:38
+msgid "Twitter Followers"
+msgstr ""
+
+#: ../functions/widgets/widget-social-counts.php:52
+msgid "Facebook Fans"
+msgstr ""
+
+#: ../functions/widgets/widget-social-counts.php:66
+msgid "Google +1's"
+msgstr ""
+
+#: ../functions/widgets/widget-social-counts.php:80
+msgid "Youtube Subscribers"
+msgstr ""
+
+#: ../functions/widgets/widget-social-counts.php:117
+msgid "Display Twitter follower count"
+msgstr ""
+
+#: ../functions/widgets/widget-social-counts.php:122
+msgid "Display Facebook fan count"
+msgstr ""
+
+#: ../functions/widgets/widget-social-counts.php:127
+msgid "Display Google +1 count"
+msgstr ""
+
+#: ../functions/widgets/widget-social-counts.php:132
+msgid "Display Youtube subscriber count"
+msgstr ""
+
+#: ../functions/widgets/widget-social-tabs.php:5
+msgid ""
+"Displays Latest Tweets, Facebook Like Box, Flickr Photos, and Recent Comments"
+msgstr ""
+
+#: ../functions/widgets/widget-social-tabs.php:59
+#: ../functions/widgets/widget-social-tabs.php:66
+msgid "Recent Comments"
+msgstr ""
+
+#: ../functions/widgets/widget-social-tabs.php:107
+msgid "View more photos"
+msgstr ""
+
+#: ../functions/widgets/widget-social-tabs.php:171
+msgid "Display Latest Tweets"
+msgstr ""
+
+#: ../functions/widgets/widget-social-tabs.php:173
+#: ../functions/widgets/widget-social-tabs.php:180
+#: ../functions/widgets/widget-social-tabs.php:187
+#: ../functions/widgets/widget-social-tabs.php:194
+#: ../functions/widgets/widget-social-tabs.php:201
+msgid " as first tab"
+msgstr ""
+
+#: ../functions/widgets/widget-social-tabs.php:178
+msgid "Display Facebook Like Box"
+msgstr ""
+
+#: ../functions/widgets/widget-social-tabs.php:185
+msgid "Display Pinterest Profile Box"
+msgstr ""
+
+#: ../functions/widgets/widget-social-tabs.php:192
+#: ../functions/widgets/widget-social-tabs.php:199
+msgid "Display "
+msgstr ""
+
+#: ../functions/widgets/widget-social-tabs.php:192
+msgid "Flickr Photos"
+msgstr ""
+
+#: ../functions/widgets/widget-social-tabs.php:199
+msgid " Recent Comments"
+msgstr ""
+
+#: ../functions/widgets/widget-text-unwrapped.php:5
+msgid "Same as the Text widget except without a title or content wrapper."
+msgstr ""
+
+#: ../functions/widgets/widget-text-unwrapped.php:38
+msgid "Text/HTML:"
+msgstr ""
+
+#: ../functions/widgets/widget-top-reviewed.php:5
+msgid ""
+"Displays top reviewed articles from a designated recent time period for a "
+"specific minisite or all minisites together."
+msgstr ""
+
+#: ../functions/widgets/widget-top-reviewed.php:159
+#: ../functions/widgets/widget-top-ten.php:203
+#: ../functions/widgets/widget-trending.php:138
+msgid "Time Period:"
+msgstr ""
+
+#: ../functions/widgets/widget-top-reviewed.php:175
+msgid "Rank By:"
+msgstr ""
+
+#: ../functions/widgets/widget-top-reviewed.php:188
+msgid "reviews"
+msgstr ""
+
+#: ../functions/widgets/widget-top-ten.php:5
+msgid "Widget version of the Top 10 slider."
+msgstr ""
+
+#: ../functions/widgets/widget-top-ten.php:31
+msgid "TOP 10"
+msgstr ""
+
+#: ../functions/widgets/widget-top-ten.php:44
+#: ../functions/widgets/widget-top-ten.php:50 ../inc/top-ten.php:24
+#: ../inc/top-ten.php:30 ../inc/top-ten.php:166
+msgid "Most Views"
+msgstr ""
+
+#: ../functions/widgets/widget-top-ten.php:54 ../inc/top-ten.php:34
+#: ../inc/top-ten.php:118
+msgid "Most Likes"
+msgstr ""
+
+#: ../functions/widgets/widget-top-ten.php:60 ../inc/top-ten.php:40
+#: ../inc/top-ten.php:130
+msgid "Best Reviewed"
+msgstr ""
+
+#: ../functions/widgets/widget-top-ten.php:67 ../inc/top-ten.php:47
+#: ../inc/top-ten.php:142
+msgid "Highest Rated"
+msgstr ""
+
+#: ../functions/widgets/widget-top-ten.php:71 ../inc/top-ten.php:51
+#: ../inc/top-ten.php:154
+msgid "Most Comments"
+msgstr ""
+
+#: ../functions/widgets/widget-top-ten.php:174
+msgid "Automatically generated if left blank"
+msgstr ""
+
+#: ../functions/widgets/widget-trending.php:5
+msgid ""
+"Displays sortable trending articles in bar graph style with metric counts."
+msgstr ""
+
+#: ../functions/widgets/widget-trending.php:25
+#: ../functions/widgets/widget-trending.php:123 ../inc/trending.php:12
+msgid "TRENDING"
+msgstr ""
+
+#: ../inc/articles.php:22 ../inc/post-loop.php:30
+msgid "LATEST"
+msgstr ""
+
+#: ../inc/boxes.php:211
+msgid ""
+"No \"Boxes\" articles found. Check your settings in Theme Options >> Front "
+"Page >> Boxes"
+msgstr ""
+
+#: ../inc/connect.php:6
+msgid "HELLO!"
+msgstr ""
+
+#: ../inc/connect.php:7
+msgid "CONNECT"
+msgstr ""
+
+#: ../inc/demo-panel.php:7
+msgid "DEMO SETTINGS"
+msgstr ""
+
+#: ../inc/demo-panel.php:13
+msgid "Background"
+msgstr ""
+
+#: ../inc/demo-panel.php:22
+msgid "MENU FONT..."
+msgstr ""
+
+#: ../inc/demo-panel.php:31
+msgid "SECTION HEADERS..."
+msgstr ""
+
+#: ../inc/demo-panel.php:40
+msgid "CONTENT HEADERS..."
+msgstr ""
+
+#: ../inc/demo-panel.php:49
+msgid "BODY FONT..."
+msgstr ""
+
+#: ../inc/demo-panel.php:58
+msgid "WIDGET FONT..."
+msgstr ""
+
+#: ../inc/demo-panel.php:68
+msgid "More Theme Info"
+msgstr ""
+
+#: ../inc/exclusive.php:6
+msgid "EXCLUSIVE!"
+msgstr ""
+
+#: ../inc/exclusive.php:60
+msgid "Full Story"
+msgstr ""
+
+#: ../inc/featured.php:225
+msgid ""
+"No \"Featured\" articles found. Check your settings in Theme Options >> "
+"Content Carousels >> Featured Slider"
+msgstr ""
+
+#: ../inc/menu.php:8
+msgid "NAV"
+msgstr ""
+
+#: ../inc/menu.php:175
+msgid "No primary taxonomy items found."
+msgstr ""
+
+#: ../inc/page-content.php:34
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: ../inc/page-content.php:35
+msgid "We could not find the page you were looking for. Try searching for it:"
+msgstr ""
+
+#: ../inc/page-content.php:201
+msgid "keyword(s)"
+msgstr ""
+
+#: ../inc/page-content.php:262
+msgid "All articles from this author &raquo;"
+msgstr ""
+
+#: ../inc/post-loop.php:223
+msgid "Posts Tagged &#8216;"
+msgstr ""
+
+#: ../inc/post-loop.php:225 ../inc/post-loop.php:227 ../inc/post-loop.php:229
+msgid "Archive for "
+msgstr ""
+
+#: ../inc/post-loop.php:231
+msgid "Author Archive"
+msgstr ""
+
+#: ../inc/post-loop.php:233
+msgid "Blog Archives"
+msgstr ""
+
+#: ../inc/post-loop.php:237
+msgid "Search results for "
+msgstr ""
+
+#: ../inc/sticky.php:208
+msgid "SECTIONS"
+msgstr ""
+
+#: ../inc/sticky.php:240
+msgid "Random Article"
+msgstr ""
+
+#: ../inc/sticky.php:254
+msgid "Type and hit Enter"
+msgstr ""
+
+#: ../inc/sticky.php:257
+msgid "search"
+msgstr ""
+
+#: ../inc/sticky.php:272
+msgid "Register"
+msgstr ""
+
+#: ../inc/sticky.php:286
+msgid "Login"
+msgstr ""
+
+#: ../inc/sticky.php:300
+msgid "Account"
+msgstr ""
+
+#: ../inc/sticky.php:302
+msgid "Logout"
+msgstr ""
+
+#: ../inc/sticky.php:310
+msgid "click to dismiss"
+msgstr ""
+
+#: ../inc/sticky.php:314
+msgid "Check your email for your password."
+msgstr ""
+
+#: ../inc/top-ten.php:12
+msgid "TOP TEN"
+msgstr ""
+
+#: ../inc/trending.php:10
+msgid "WHAT'S HOT"
+msgstr ""

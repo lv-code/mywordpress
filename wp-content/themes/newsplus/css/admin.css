@@ -1,0 +1,151 @@
+
+/**
+ * Admin CSS
+ *
+ * Used to style theme options panel.
+ */
+
+.ss_wrap {
+	color: #333;
+}
+
+h2.settings-title {
+	margin-bottom: 1em;
+}
+
+.tabs {
+	position: relative;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.tabs li {
+	float: left;
+	margin: 0 0.5em 0 0;
+}
+
+.tabs li a {
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 24px;
+	padding: 8px 12px;
+	color: #444;
+	background: #e5e5e5;
+	border-bottom: none;
+	text-decoration: none;
+	outline: none;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);	
+}
+
+.tabs li a:hover,
+.tabs li.active a {
+	color: #000;
+	background: #fff;
+	text-decoration: none;
+}
+
+.tabbed {
+	clear: both;
+	position: relative;
+	overflow: hidden;
+	padding: 5px 20px 10px;
+	background: #fff;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+.item_row,
+.subheading {
+	position: relative;
+	overflow: hidden;
+	clear: both;
+	margin: 0;
+	padding: 1.5em 0 1em;
+	border-bottom: 1px solid #eee;
+	width: 100%;
+}
+
+.item_row:last-child {
+	border: none;
+}
+
+.subheading {
+	font-size: 1.166em;
+	line-height: 1.2857;
+	font-weight: bold;
+	padding: 1.2857em 0;
+}
+
+.item_row li {
+	position: relative;
+	float: left;
+	margin-right: 3.33%;
+}
+
+.item_row li.left_col {
+	width: 30%;
+}
+
+.item_row li.mid_col {
+	width: 30%;
+}
+
+.item_row li.right_col {
+	width: 30%;
+	margin-right: 0;
+}
+
+.item_row input[type="text"],
+.item_row select,
+.item_row textarea {
+	-webkit-box-sizing:	border-box;
+	-moz-box-sizing:	border-box;
+	box-sizing:			border-box;
+	width: 100%;
+}
+
+.left_col {
+	color: #333;
+}
+
+.item_row small {
+	font-size: 12px;
+	color: #666;
+}
+
+p.submit {
+	margin-bottom: 0
+}
+
+.submit-row {
+	background: #fff;
+	margin: 0 0 20px;
+	padding: 20px;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);	-
+}
+
+.reset-row {
+	background: #e5e5e5;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;	
+}
+
+/* Clearing floats */
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix:before,
+.clearfix:after {
+	display: table;
+	content: "";
+}

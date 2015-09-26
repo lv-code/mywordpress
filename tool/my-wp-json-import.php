@@ -20,8 +20,6 @@ $info = array('data'=>'./data/'.$data.'.json','cate'=>$cate,'isOne'=>$isOne);
 //$info = './data/gsdaquan-lafengdanyuyan.json';
 //$info = './data/lz13-1.json';
 //$info = './data/jingdianxiaohua-1-output.json';
-//$info = './data/1.json';
-//$info = './data/jingdianxiaohua-1-output.json';
 $jsonStr = file_get_contents($info['data']);
 //echo print_r($jsonStr, true);
 $arrArt = json_decode($jsonStr, true);

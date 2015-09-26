@@ -1,0 +1,1090 @@
+/*
+Theme Name: NewsPlus
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+blockquote:before,
+q:before,
+.quote-left:before,
+.quote-right:before {
+	left: auto;
+	right: 0;
+}
+
+li > ul,
+li > ol {
+	margin: 0 24px 0 0;
+}
+
+
+table {
+	border-width: 1px 1px 0 0;
+}
+
+th,
+td {
+	border-width: 0 0 1px 1px;
+	text-align: inherit;
+}
+
+/* Alignment */
+
+.alignleft {
+	float: left;
+	margin: 0 0 0 24px;
+}
+
+.alignright {
+	float: right;
+	margin: 0 24px 0 0;
+}
+
+blockquote.alignleft,
+figure.wp-caption.alignleft,
+img.alignleft,
+.wp-caption.alignleft {
+	margin: 0 0 16px 24px;
+}
+
+blockquote.alignright,
+figure.wp-caption.alignright,
+img.alignright,
+.wp-caption.alignright {
+	margin: 0 24px 16px 0;
+}
+
+
+div.wp-caption .wp-caption-text {
+	padding-right: 0;
+	padding-left: 8px;
+}
+
+div.wp-caption.alignright img[class*="wp-image-"],
+div.wp-caption.alignright .wp-caption-text {
+	padding-left: 0;
+	padding-right: 8px;
+}
+
+/* Assistive text */
+
+.screen-reader-text:focus,
+.sr-only:focus {
+	left: auto;
+	right: 4px;
+}
+
+
+/* ---------------------------------------------------------------
+ * 3. STRUCTURE
+ * Site layout and grids.
+ * ------------------------------------------------------------ */
+
+#page,
+.wrap {
+	text-align: right;
+}
+
+#primary,
+#container,
+#sidebar {
+	float: right;
+}
+
+body.sidebar-left #primary,
+body.sidebar-left #container {
+	float: left;
+}
+
+body.sidebar-left #sidebar {
+	float: right;
+}
+
+.column {
+	float: right;
+	margin-right: 0;
+	margin-left: 3.030303%;
+}
+
+.full-width .column,
+#secondary .one-fourth {
+	margin-right: 0;
+	margin-left: 2%;
+}
+
+.full-width .column.last,
+#secondary .one-fourth.last {
+	margin-left: 0;
+}
+
+
+/* ---------------------------------------------------------------
+ * 4. HEADER
+ * Top menu, callout text, site logo, primary navigation, etc.
+ * ------------------------------------------------------------ */
+ 
+#callout-bar,
+#search-bar {
+	float: left;
+	text-align: left;
+}
+
+#callout-bar.callout-left {
+	float: right;
+	text-align: right;
+}
+
+
+/* Top secondary navigation menu */
+
+.secondary-nav {
+	float: right;
+}
+
+.secondary-nav li {
+	float: right;
+}
+
+.secondary-nav li ul ul {
+	left: auto;
+	right: 100%;
+}
+
+.secondary-nav ul ul li.menu-item-has-children > a:after {
+	float: left;
+	content: "\f0d9";
+}
+
+
+/* WooCommerce cart navigation */
+
+.cart-nav {
+	text-align: left;
+}
+
+.cart-contents:before { 
+	margin-right: 0;	
+	margin-left: 8px;
+}
+
+/* Site header and Logo */
+
+.brand {
+	float: right;
+}
+
+#header .column.brand.full.text-right {
+	float: left;
+}
+
+
+/* Header Widget Area */
+
+#header .column.right,
+.header-widget-area.right {
+	float: left;
+	text-align: left;
+}
+
+.header-widget-area.left {
+	float: right;
+	text-align: right;
+}
+
+
+
+/* Primary Navigation Menu */
+
+.primary-nav li ul ul {
+	left: auto;
+	right: 100%;
+}
+
+.primary-nav ul ul li.menu-item-has-children > a:after {
+	float: left;
+	content: "\f0d9";
+}
+
+/* Responsive Menu */
+
+.toggle-icon {
+	float: left;
+}
+
+.menu-drop .expand-menu {
+	right: auto;
+	left: 0;
+}
+
+/* ---------------------------------------------------------------
+ * 5. WIDGET AREA and WIDGETS
+ * Basic styles for sidebar, secondary widget area and widgets
+ * ------------------------------------------------------------ */
+
+.widget ul ul li {
+	padding-left: 0;
+	padding-right: 16px;
+}
+
+.widget ul ul li:before {
+	left: auto;
+	right: 4px;
+}
+
+.widget span.count {
+	float: left;
+	margin-left: 0;
+	margin-right: 8px;
+}
+
+.tagcloud a {
+	float: right;
+	margin: 0 0 4px 4px;
+}
+
+
+/* Search Widget */
+.widget .search-field, #search-bar .search-field {
+	padding-right: 0;
+	padding-left: 5em;
+}
+
+#utility-top #search-bar .search-field {
+	padding-left: 5em;
+	padding-right: 8px;
+}
+
+.widget .search-submit,
+#search-bar .search-submit,
+.woocommerce-product-search input[type="submit"] {
+	right: auto;
+	left: 2px;
+}
+
+
+/* ---------------------------------------------------------------
+ * 6. BLOG PAGES
+ * Styles blog posts, archives, single, and post short codes
+ * ------------------------------------------------------------ */
+
+/* Blog List Style */
+
+.entry-list-left,
+.entry-list-right,
+.entry-grid,
+.two-col li,
+.three-col li,
+.four-col li,
+.post-list .post-thumb {
+	float: right;
+}
+
+.post-content {
+	margin-left: 0;
+	margin-right: 80px;
+}
+
+.post-content.no-image {
+	margin-right: 0;
+}
+
+/* Post Navigation */
+
+.nav-previous,
+.previous-image {
+	float: right;
+}
+
+.nav-next,
+.next-image {
+	float: left;
+	text-align: left;
+}
+
+/* Previous Next Post links */
+
+.nav-links .nav-previous a {
+	padding: 0 24px 0 0;
+}
+
+.nav-links .nav-next a {
+	padding: 0 0 0 24px;
+}
+
+.nav-links .nav-previous a:before{
+	content: "\f054";
+	left: auto;
+	right: 0;
+}
+
+.nav-links .nav-next a:after {
+	content: "\f053";
+	right: auto;
+	left: 0;	
+}
+
+/* Tag List */
+.tag-label {
+	float: right;
+	padding: 0 0 0 8px;
+}
+
+.tag-list li {
+	float: right;
+}
+
+/* Author Profile */
+
+.author-avatar {
+	float: right;
+}
+
+.author-description {
+	margin-left: 0;
+	margin-right: 88px;
+}
+
+
+/* Comments */
+
+.comment-author .avatar {
+	left: auto;
+	right: 0;
+}
+
+.comment-author,
+.comment-awaiting-moderation,
+.comment-content,
+.comment-list .reply,
+.comment-meta,
+.comment-body p {
+	padding-left: 0;
+	padding-right: 56px;
+}
+
+.comment-edit-link {
+	float: left;
+}
+
+.comment-content ul,
+.comment-content ol {
+	margin: 0 24px 24px 0;
+}
+
+.comment-list .children {
+	margin-left: 0;
+	margin-right: 16px;
+}
+
+.comment-reply-title small {
+	float: left;
+}
+
+.comment-navigation .nav-previous a {
+	margin-right: 0;
+	margin-left: 8px;
+}
+
+.comment-form-author,
+.comment-form-email {
+	float: right;
+}
+
+.comment-form-email {
+	float: left;
+}
+
+
+/* Related Posts */
+
+ul.thumb-style li {
+	float: right;
+}
+
+
+/* Social sharing buttons on single post */
+
+.ss-sharing-container div.ss-sharing-btn:last-child {
+	margin-left: 0;
+}
+
+
+/* ---------------------------------------------------------------
+ * 7. FOOTER
+ * Footer area styles
+ * ------------------------------------------------------------ */
+
+.notes-left {
+	float: right;
+}
+
+.notes-right {
+	float: left;
+	text-align: left;
+}
+
+.scroll-to-top {
+	right: auto;
+	left: 16px;
+}
+
+
+/* ---------------------------------------------------------------
+ * 9. MISCELLANEOUS
+ * Slider, style elements and general helper rules.
+ * ------------------------------------------------------------ */
+
+
+.last {
+	margin-left: 0;
+}
+
+.wp-pagenavi a,
+.wp-pagenavi span.current {
+	margin-right: 0;
+	margin-left: 4px;
+}
+
+.wp-pagenavi span.pages {
+	float: left;
+}
+
+/* PullQuotes and DropCap */
+.quote-left {
+	float: right;
+	margin: 12px 0 0 24px;
+}
+
+.quote-right {
+	float: left;
+	margin: 12px 24px 0 0;
+}
+
+.dropcap {
+	float: right;
+	margin-right: 0;
+	margin-left: 8px;
+}
+
+
+/* Images */
+img.alignleft {
+	margin: 0 0 24px 24px;
+}
+img.alignright {
+	margin: 0 24px 24px 0;
+}
+
+.embed-wrap iframe,
+.embed-wrap object,
+.embed-wrap embed {
+	top: 0;
+	left: auto;
+	right: 0;
+}
+
+
+/* BuddyPress Plugin compatibility styles */
+
+#buddypress div#item-header img.avatar {
+	margin: 0 0 24px 24px;
+}
+
+#buddypress div#item-header div#item-header-content {
+	margin-left: 0;
+	margin-right: 9.5em;
+}
+
+ul#topic-post-list li div.post-content {
+	margin-left: 0;
+	margin-right: 50px;
+}
+
+div.item-list-tabs ul li:first-child {
+	margin-right: 0;
+}
+
+form#whats-new-form #whats-new-content,
+form#whats-new-form h5,
+#buddypress .activity-list .activity-content {
+	margin-left: 0;
+	padding-left: 0;
+	margin-right: 54px;
+	padding-right: 24px;
+}
+
+.activity-list li.new_forum_post .activity-content .activity-inner,
+.activity-list li.new_forum_topic .activity-content .activity-inner {
+	margin-right: 0;
+}
+
+/* bbPress Plugin compatibility styles */
+
+#subscription-toggle {
+	float: left;
+}
+
+
+/* WPML Plugin compatibility Styles */
+
+#lang_sel {
+	text-align: right;
+}
+
+
+/* Fixed widget areas on left and right */
+
+.fixed-left {
+	left: auto;
+	right: 16px;
+}
+
+.fixed-right {
+	right: auto;
+	left: 16px;
+}
+
+/* NewsPlus Shortcodes plugin RTL */
+
+
+.entry-meta > span {
+	margin-left: 0;
+}
+
+ul.minifolio li,
+.widget ul.minifolio li,
+.flickr_badge_image {
+	float: right;
+}
+
+/* Social Links Widget */
+
+.header-widget-area ul.ss_social {
+	float: left;
+}
+
+.header-widget-area.left ul.ss_social {
+	float: none
+}
+
+ul.ss_social li,
+.widget ul.ss_social li {
+	float: right;
+}
+
+
+/* FlexSlider Controls */
+
+.flex-control-nav {
+	float: right;
+}
+
+.flex-control-nav li {
+	float: right;
+}
+
+.flex-control-paging li a {
+	text-indent: 9999px;
+}
+
+.flex-direction-nav {
+	float: left;
+}
+
+.flex-direction-nav li {
+	float: right;
+}
+
+.hide-box {
+	right: auto;
+	left: 0;
+}
+
+ul.list li:before {
+	left: auto;
+	right: 0;
+}
+
+ul.logo-grid li {
+	float: right;
+	margin: 0 0 0.75em 0.75em;
+}
+
+ul.logo-grid li:last-child {
+	margin-left: 0;
+}
+
+/* Level Indicators */
+
+.p_label,
+.p_value {
+	float: right;
+	padding-right: 0;
+	padding-left: 3%;
+}
+
+.p_indicator,
+.p_active {
+	float: right;
+}
+
+
+/* WooCommerce */
+
+.woocommerce .col2-set .col-1,
+.woocommerce-page .col2-set .col-1,
+.woocommerce #content div.product div.images,
+.woocommerce div.product div.images,
+.woocommerce-page #content div.product div.images,
+.woocommerce-page div.product div.images,
+.woocommerce ul.products li.product,
+.woocommerce-page ul.products li.product,
+.woocommerce .woocommerce-result-count,
+.woocommerce-page .woocommerce-result-count,
+.woocommerce #content table.cart td.actions .coupon,
+.woocommerce table.cart td.actions .coupon,
+.woocommerce-page #content table.cart td.actions .coupon,
+.woocommerce-page table.cart td.actions .coupon,
+.woocommerce .cart-collaterals .related,
+.woocommerce-page .cart-collaterals .related,
+.woocommerce .cart-collaterals .cross-sells,
+.woocommerce-page .cart-collaterals .cross-sells,
+.woocommerce form .form-row-first,
+.woocommerce form .form-row-last,
+.woocommerce-page form .form-row-first,
+.woocommerce-page form .form-row-last {
+	float: right;
+}
+
+.woocommerce .col2-set .col-2,
+.woocommerce-page .col2-set .col-2,
+.woocommerce #content div.product div.summary,
+.woocommerce div.product div.summary,
+.woocommerce-page #content div.product div.summary,
+.woocommerce-page div.product div.summary,
+.woocommerce #content div.product #reviews .comment img,
+.woocommerce div.product #reviews .comment img,
+.woocommerce-page #content div.product #reviews .comment img,
+.woocommerce-page div.product #reviews .comment img,
+.woocommerce .woocommerce-ordering,
+.woocommerce-page .woocommerce-ordering,
+.woocommerce .cart-collaterals .shipping_calculator,
+.woocommerce-page .cart-collaterals .shipping_calculator,
+.woocommerce .cart-collaterals .cart_totals,
+.woocommerce-page .cart-collaterals .cart_totals,
+.woocommerce form .form-row-last,
+.woocommerce-page form .form-row-last,
+.woocommerce #payment #place_order,
+.woocommerce-page #payment #place_order {
+	float: left;
+}
+
+.woocommerce #content div.product div.thumbnails a,
+.woocommerce div.product div.thumbnails a,
+.woocommerce-page #content div.product div.thumbnails a,
+.woocommerce-page div.product div.thumbnails a {
+	float: right;
+	margin-right: 0;
+	margin-left:3.8%;
+}
+
+.woocommerce #content div.product div.thumbnails a.last,
+.woocommerce div.product div.thumbnails a.last,
+.woocommerce-page #content div.product div.thumbnails a.last,
+.woocommerce-page div.product div.thumbnails a.last,
+.woocommerce #content div.product div.thumbnails.columns-1 a,
+.woocommerce div.product div.thumbnails.columns-1 a,
+.woocommerce-page #content div.product div.thumbnails.columns-1 a,
+.woocommerce-page div.product div.thumbnails.columns-1 a,
+.woocommerce ul.products li.last,
+.woocommerce-page ul.products li.last {
+	margin-left: 0;
+}
+
+.woocommerce #content table.cart td.actions,
+.woocommerce table.cart td.actions,
+.woocommerce-page #content table.cart td.actions,
+.woocommerce-page table.cart td.actions,
+.woocommerce #payment .terms,
+.woocommerce-page #payment .terms {
+	text-align: left;
+}
+
+.woocommerce .woocommerce-error,
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-message {
+	padding: 16px 48px 16px 16px;
+}
+
+.woocommerce .woocommerce-error:before,
+.woocommerce .woocommerce-info:before,
+.woocommerce .woocommerce-message:before {
+	left: auto;
+	right: 16px;
+}
+
+.woocommerce .woocommerce-error .button,
+.woocommerce .woocommerce-info .button,
+.woocommerce .woocommerce-message .button {
+	float: left;
+}
+
+.woocommerce div.product div.social {
+	text-align: left;
+}
+
+.woocommerce div.product div.social span .stButton .chicklets {
+	padding-left: 0;
+	padding-right:16px;
+}
+
+.woocommerce div.product div.social iframe {
+	float: right;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs {
+	padding: 0 1em 0 0;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li:before {
+	left: auto;
+	right: -6px;
+	border-width:0 0 1px 1px;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li:after {
+	right: auto;
+	left: -6px;
+	border-width: 0 1px 1px 0;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs:before {
+	left: auto;
+	right: 0;
+}
+
+.woocommerce div.product form.cart div.quantity {
+	float: right;
+	margin: 0 0 0 8px;
+}
+
+.woocommerce div.product form.cart table td {
+	padding-right: 0;
+}
+
+.woocommerce div.product form.cart .variations select {
+	float: right;
+}
+
+.woocommerce div.product form.cart .variations td.label {
+	padding-right: 0;
+	padding-left: 12px;
+}
+
+.woocommerce div.product form.cart .button {
+	float: right;
+}
+
+.woocommerce span.onsale {
+	left: auto;
+	right: 4px;
+}
+
+.woocommerce ul.products li.product .onsale {
+	right: auto;
+	left: 16px;
+}
+
+.woocommerce nav.woocommerce-pagination ul {
+	border:1px solid #bdbdbd;
+	border-left:0;
+}
+
+.woocommerce nav.woocommerce-pagination ul li {
+	border-right: none;
+	border-left:1px solid #bdbdbd;
+	float: right;
+}
+
+.woocommerce #respond input#submit.loading,
+.woocommerce a.button.loading,
+.woocommerce button.button.loading,
+.woocommerce input.button.loading {
+	opacity:.5;
+	padding-right: 0;
+	padding-left: 2.618em;
+}
+
+.woocommerce #respond input#submit.loading:after,
+.woocommerce a.button.loading:after,
+.woocommerce button.button.loading:after,
+.woocommerce input.button.loading:after {
+	right: auto;
+	left: 1em;
+}
+
+.woocommerce #respond input#submit.added:after,
+.woocommerce a.button.added:after,
+.woocommerce button.button.added:after,
+.woocommerce input.button.added:after {
+	margin-left: 0;
+	margin-right: .53em;
+}
+
+.woocommerce #reviews h2 small {
+	float: left;
+}
+
+.woocommerce #reviews #comments ol.commentlist li img.avatar {
+	float: right;
+	left: auto;
+	right: 0;
+}
+
+.woocommerce #reviews #comments ol.commentlist li .comment-text {
+	margin: 0 48px 0 0;
+}
+
+.woocommerce #reviews #comments ol.commentlist ul.children {
+	margin: 24px 48px 0 0;
+}
+
+.woocommerce #reviews #comments ol.commentlist #respond {
+	margin: 24px 48px 0 0;
+}
+
+.woocommerce .star-rating {
+	float: left;
+}
+
+.woocommerce .star-rating:before,
+.woocommerce .star-rating span,
+.woocommerce .star-rating span:before {
+	float: right;
+	left: auto;
+	right: 0;
+}
+
+.woocommerce .woocommerce-product-rating .star-rating {
+	margin: 0 0 0 8px;
+	float: right;
+}
+
+.woocommerce p.stars a {
+	margin-right: 0;
+	margin-left: 1em;
+	text-indent: 9999px;	
+}
+
+.woocommerce p.stars a:last-child {
+	border-left: 0;
+}
+
+.woocommerce p.stars a.star-1,
+.woocommerce p.stars a.star-2,
+.woocommerce p.stars a.star-3,
+.woocommerce p.stars a.star-4,
+.woocommerce p.stars a.star-5 {
+	border-left:1px solid #ccc;
+}
+
+.woocommerce p.stars a.star-1:after,
+.woocommerce p.stars a.star-2:after,
+.woocommerce p.stars a.star-3:after,
+.woocommerce p.stars a.star-4:after,
+.woocommerce p.stars a.star-5:after {
+	left: auto;
+	right: 0;
+}
+
+.woocommerce table.shop_table {
+	text-align: right;
+}
+
+.woocommerce table.shop_table thead {
+	border-bottom: 2px solid #e5e5e5;
+}
+
+.woocommerce table.my_account_orders .order-actions {
+	text-align: left;
+}
+
+.woocommerce td.product-name dl.variation dd,
+.woocommerce td.product-name dl.variation dt {
+	float: right;
+}
+
+.woocommerce td.product-name dl.variation dt {
+	margin:0 0 0 4px;
+	clear: right
+}
+
+.woocommerce ul.cart_list li,
+.woocommerce ul.product_list_widget li {
+	padding: 16px 64px 16px 0;
+}
+
+.woocommerce ul.cart_list li img,
+.woocommerce ul.product_list_widget li img {
+	left: auto;
+	right: 0;
+}
+
+.woocommerce ul.cart_list li dl dd,
+.woocommerce ul.cart_list li dl dt,
+.woocommerce ul.product_list_widget li dl dd,
+.woocommerce ul.product_list_widget li dl dt {
+	float: right;
+}
+
+.woocommerce ul.cart_list li dl dt,
+.woocommerce ul.product_list_widget li dl dt {
+	margin: 0 0 0 4px;
+	clear: right;
+}
+
+.woocommerce .widget_shopping_cart .cart_list li,
+.woocommerce.widget_shopping_cart .cart_list li {
+	padding-left: 0;
+	padding-right: 64px;
+}
+
+.woocommerce .widget_shopping_cart .cart_list li a.remove,
+.woocommerce.widget_shopping_cart .cart_list li a.remove {
+	right: auto;
+	left: 0;
+}
+
+.woocommerce form .form-row .input-checkbox {
+	margin: -2px 0 0 8px;
+}
+
+.woocommerce form.checkout_coupon,
+.woocommerce form.login,
+.woocommerce form.register {
+	text-align: right;
+}
+
+.woocommerce .order_details li {
+	float: right;
+	margin-right: 0;
+	border-right: none;
+	padding-right: 0;
+	
+	margin-left:2em;
+	border-left:1px solid #ccc;
+	padding-left:2em
+}
+
+.woocommerce .order_details li:last-of-type {
+	border:none
+}
+
+.woocommerce .widget_layered_nav ul li .count {
+	float: left;
+}
+
+.woocommerce .reset_variations:before {
+	margin-right: 0;
+	margin-left: 100px;
+}
+
+.woocommerce .widget_layered_nav_filters ul li {
+	float: right;
+	padding: 0 0 8px 8px;
+}
+
+.woocommerce .widget_price_filter .price_slider_amount {
+	text-align: left;
+}
+
+.woocommerce .widget_price_filter .price_slider_amount .button {
+	float: right;
+}
+
+.woocommerce .widget_price_filter .ui-slider {
+	text-align: right;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle:last-child {
+	margin-left: 0;
+	margin-right: -6px;
+}
+
+.woocommerce .widget_price_filter .ui-slider-horizontal .ui-slider-range-min {
+	left: auto;
+	right: -1px;
+}
+
+.woocommerce .widget_price_filter .ui-slider-horizontal .ui-slider-range-max {
+	right: auto;
+	left: -1px;
+}
+
+.woocommerce-account .addresses .title h3 {
+	float: right;
+}
+
+.woocommerce-account .addresses .title .edit {
+	float: left;
+}
+
+.woocommerce-account ul.digital-downloads li .count {
+	float: left;
+}
+
+.woocommerce-cart table.cart td.actions .coupon .input-text {
+	float: right;
+	margin: 0 0 0 8px;
+}
+
+.woocommerce-cart .cart-collaterals .cart_totals table th {
+	padding: 6px 0 0 12px;
+}
+
+.woocommerce-checkout .checkout .col-2 h3#ship-to-different-address {
+	float: right;
+}
+
+.woocommerce-checkout .checkout .col-2 .form-row-first,
+.woocommerce-checkout .checkout .col-2 .notes {
+	clear: right;
+}
+
+.woocommerce-checkout .checkout div.shipping-address {
+	clear: right;
+}
+
+.woocommerce-checkout #payment ul.payment_methods,
+.woocommerce-checkout #payment ul.payment_methods li {
+	text-align: right;
+}
+
+.woocommerce-checkout #payment ul.payment_methods li input {
+	margin: 0 0 0 1em;
+}
+
+.woocommerce-checkout #payment ul.payment_methods li img {
+	margin: -2px .5em 0 0;
+}
+
+.woocommerce-checkout #payment ul.payment_methods li img+img {
+	margin-left: 0;
+	margin-right: 2px;
+}
+
+.woocommerce-checkout #payment div.payment_box:after {
+	left: auto;
+	right: 0;
+	margin:-1em 2em 0 0;
+}
+
+.woocommerce-checkout #payment .payment_method_paypal .about_paypal {
+	float: left;
+}

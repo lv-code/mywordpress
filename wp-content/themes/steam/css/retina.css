@@ -1,0 +1,34 @@
+/*************************************************
+general retina declarations for all layouts
+*************************************************/	
+@media 
+(-webkit-min-device-pixel-ratio: 2), 
+(min-resolution: 192dpi) {
+.bar-selector-down {background:url(../images/bar-selector-down@2x.png) no-repeat 0px 0px !important;background-size:86px 10px !important}
+#top-ten li.bar-selector-down  {background:url(../images/bar-selector-down-black@2x.png) no-repeat 0px 0px !important;background-size:86px 10px !important}
+#trending .bar-selector-down {background:url(../images/bar-selector-down-small@2x.png) no-repeat 0px 0px !important;background-size:46px 10px !important;}
+#trending li.bar-selector-down {background:url(../images/bar-selector-down-black-small@2x.png) no-repeat 0px 0px !important;background-size:46px 10px !important;}
+#connect .white .selector-separator {background:url(../images/bar-separator-white@2x.png) no-repeat 0px 0px;}
+.widgets .section-buttons .sort-buttons a.active .selector-arrow, .widgets .section-buttons .ui-tabs-active a .selector-arrow {background:url(../images/selector-arrow@2x.png) no-repeat 0px 0px;}
+#footer.widgets .section-buttons .sort-buttons a.active .selector-arrow, #footer.widgets .section-buttons .ui-tabs-active a .selector-arrow {background:url(../images/selector-arrow-white@2x.png) no-repeat 0px 0px;}
+.simply-scroll-btn-up {background:#000 url(../images/arrow-up@2x.png) no-repeat center center;}
+.simply-scroll-btn-down {background:#000 url(../images/arrow-down@2x.png) no-repeat center center;}
+.simply-scroll-btn-left {background:#000 url(../images/arrow-left@2x.png) no-repeat center center;}
+.simply-scroll-btn-right {background:#000 url(../images/arrow-right@2x.png) no-repeat center center;}
+.ribbon-separator {background:url(../images/ribbon-separator@2x.png) no-repeat 0px 0px;}
+#recommended .filterbar .sort-buttons .bottom-arrow {background:url(../images/selector-down@2x.png) no-repeat 0px 0px;}
+#site-logo {display:none;}
+#site-logo-hd {display:block;}
+
+}
+
+/*************************************************
+retina declarations for specific responsive layouts
+*************************************************/	
+/* Landscape phones and down */
+@media 
+(-webkit-min-device-pixel-ratio: 2) and (max-width: 480px), 
+(min-resolution: 192dpi) and (max-width: 480px) {
+
+
+}
