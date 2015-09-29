@@ -3,10 +3,7 @@ error_reporting(E_ALL);
 set_time_limit(0);
 include('../wp-load.php');
 /* ---------------------------------------------
-?data=chengyu.t086.com-gushi&cate=6
 ?data=07938.com-mingrendushu&cate=296
-http://121.42.195.181:8080/tool/my-wp-json-import.php?data=07938.com-kexuejiagushi&cate=301
-http://www.gushihuayuan.com/tool/my-wp-json-import.php?data=051jk.com-meishigushi&cate=2
  --------------------------------------------- */
 //ToDo
 $data = $_GET['data'];
@@ -14,9 +11,6 @@ $cate = $_GET['cate'];
 $isOne = $_GET['isone'];
 if( empty($data) || empty($cate) ) die('params error');
 $info = array('data'=>'./data/'.$data.'.json','cate'=>$cate,'isOne'=>$isOne);
-//$info = array('data'=>'./data/07938-yisuoyuyan.json','cate'=>9,'isOne'=>1);
-//$info = array('data'=>'./data/gsdaquan-lafengdanyuyan.json','cate'=>10,'isOne'=>1);
-//$info = array('data'=>'./data/gsdaquan-zhongguoyuyan.json','cate'=>286,'isOne'=>1);
 $jsonStr = file_get_contents($info['data']);
 //echo print_r($jsonStr, true);
 $arrArt = json_decode($jsonStr, true);
@@ -28,13 +22,21 @@ foreach($arrArt as $k=>$arr){
 	//var_dump($dateRandom);continue;
 	//var_dump($arr);die;
 	// Create post object
-	$img = $arr['images'][0]['path'];
-	$img_tag = '<br/><img src="'.$imgUrl.'cate-'.$info['cate'].'/'.$img.'"/>';
-	//var_dump($img, $img_tag);die;
-	$content = $arr['art_content'].$img_tag;
 	$title = $arr['art_title'];
 	$keyw = $arr['art_keyw'];
+	if(strpos($keyw, '微语录')>0){
+		$keyw = str_replace('微语录','幸福唯美文字,幸福唯美短语', $keyw);
+	}else{
+		$keyw .= ',幸福唯美文字,幸福唯美短语';
+	}
 	$desc = $arr['art_desc'];
+	$content = strip_tags($arr['art_content'],'<p><br>');
+	$img = $arr['images'][0]['path'];
+	if(!empty($img)){
+		$img_tag = '<br/><img src="'.$imgUrl.'cate-'.$info['cate'].'/'.$img.'" title="'.$title.'" alt="'.$title.','.$keyw.'"/>';
+		$content = $content.$img_tag;
+	}
+	//var_dump($img, $img_tag);die;
 	$my_post = array(
 			'post_title'    => $title,
 			'post_content'  => $content,
@@ -42,11 +44,8 @@ foreach($arrArt as $k=>$arr){
 			//'post_date_gmt'     => $dateRandom,
 			'post_status'   => 'publish',
 			//'post_status'   => 'draft',
-			//'post_author'   => 2 ,//健身达人
 			'post_author'   => 1 ,//小志 励志
 			'post_category' => array($info['cate']),
-			//'post_category' => array(13,14), //健康
-			//'post_category' => array(5),
 			'tags_input' => $keyw,
 			'post_excerpt' => $desc,
 			);
@@ -59,7 +58,7 @@ foreach($arrArt as $k=>$arr){
 		// Insert the post into the database
 		$res = wp_insert_post( $my_post, true );
 		if(0<(int)$res){
-			update_post_meta($res, 'keywords', $arr['art_keyw'][0] );
+			update_post_meta($res, 'keywords', $keyw );
 		}
 		if(!isset($info['isOne']) || $info['isOne']=1){
 			var_dump($res);die;
